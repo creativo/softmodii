@@ -1,7 +1,7 @@
 Public Class Softmodii
     Public proceso As String
     '-------------------Nº DE VERSIÓN DE SOFTMODII 
-    Public version As Integer = 4200
+    Public version As Integer = 4199
     '--------------------N1 DE VERSIÓN DE CSD
     Public csd_version As Integer = 9999
     '-------------------INFORMACIÓN PARA INFORME
