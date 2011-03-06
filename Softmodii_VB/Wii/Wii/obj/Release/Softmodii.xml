@@ -1,0 +1,69 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Softmodii
+</name>
+</assembly>
+<members>
+<member name="P:ismaelWii.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso con establecimiento inflexible de tipos.
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.def_boot2">
+	<summary>
+  Busca una cadena traducida similar a Porción de la memoria que carga antes que el menú de Wii, y que puede servir para prevenir bricks si tiene bug trucha y permite la instalación de Bootmii como Boot2..
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.def_brick">
+	<summary>
+  Busca una cadena traducida similar a Literalmente "ladrillo", se denomina así al mal funcionamiento de la consola que impide operar con ella, por lo que se convierte en un ladrillo o pisapapeles. Normalmente suelen producirse por manejar aplicaciones peligrosas sin conocimiento o por la instalación de WADs corruptos o incorrectos, por lo que debes evitar este tipo de prácitcas y ajustarte a las instrucciones de los tutoriales mientras aprendes..
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.def_cios">
+	<summary>
+  Busca una cadena traducida similar a Es un IOS parcheado (véase IOS), para obtener funciones extra no incluidas en los originales, como cargar desde USB, DVD, mayor velocidad de USB, etc.
+Algunos mezclan IOS para obtener diversas funciones. Todos ellos tienen el bug trucha, que les permite instalar títulos en la Wii sin la firma de NintENdo.
+.
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.def_cmios">
+	<summary>
+  Busca una cadena traducida similar a Es como un IOS (véase IOS) que dota a la Wii de las funciones necesarias para reproducir juegos de Gamecube. cMIOS convierte la Wii en una GC, deshabilitando el acceso a todas las funciones exclusivas de Wii, incluso bajando la potencia de su procesador..
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.def_ios">
+	<summary>
+  Busca una cadena traducida similar a Es la unidad de funcionamiento básica del firmware de la Wii. Para simplificarlo, un IOS vendría a ser un archivo que se carga en el procesador de la Wii y sirve para que un recurso (Un juego, un canal) funcione. Los IOS se instalan en posiciones que van de la 1 a la 255, pudiéndose cargar solo uno a la vez. Por ejemplo, algunos juegos como el Mario Kart usan el IOS26 para funcionar, otros usan el IOS53, etc. Cada IOS se instala y ejecuta de forma independiente de los demás, por lo que no interfieren entre  [resto de la cadena truncado]";.
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.def_systemmenu">
+	<summary>
+  Busca una cadena traducida similar a System Menu:
+
+Es el menú del Sistema, lo que ves al encender la Wii y que usas para cargar los canales. 
+Carga después de boot2, y si no dispones de una protección como bootmii en boot2 o priiloader, puede causar un brick si lo dañas o si dañas el IOS sobre el que funciona..
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.def_usbloader">
+	<summary>
+  Busca una cadena traducida similar a Aplicación homebrew que funciona como cargador de juegos, permitiendo cargar backups que no se pueden lanzar desde el Canal Disco. Los loaders utilizan los cIOS en lugar de los IOS oficiales para poder cargar backups, por lo que no pueden funcionar sin ellos..
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.def_wad">
+	<summary>
+  Busca una cadena traducida similar a Un WAD es un archivo de instalación el cual instala contenido en tu Wii, ya sean canales o IOS, System Menus u otros contenidos..
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.mensaje_fin_43">
+	<summary>
+  Busca una cadena traducida similar a No puedes continuar, ya que al estar en la versión 4.3, necesitas un juego para poder instalar el Homebrew Channel o usar cualquier homebrew....
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.tuto_error">
+	<summary>
+  Busca una cadena traducida similar a Atención: Tienes una versión de firmware muy antigua. Para hacer este tutorial, actualiza con algún juego como New Super Mario Bros o cualquier otro para actualizar a una versión superior. No actualices por internet, ya que necesitarás en ese caso un juego especial para poder realizar el proceso..
+</summary>
+</member><member name="T:ismaelWii.My.Resources.Resources">
+	<summary>
+  Clase de recurso con establecimiento inflexible de tipos, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+</members>
+</doc>

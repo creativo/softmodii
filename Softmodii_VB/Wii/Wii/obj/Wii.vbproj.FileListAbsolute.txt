@@ -1,0 +1,128 @@
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\Wii.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\bin\Release\SoftModii.exe
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\bin\Release\SoftModii.pdb
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\bin\Release\SoftModii.xml
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ismaelWii.Resources.resources
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Release\Wii.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ismaelWii.Resources.resources
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ismaelWii.SoftModii.resources
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ismaelWii.SoftModii.resources
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ismaelWii.Form1.resources
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ismaelWii.Form2.resources
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ismaelWii.SplashScreen1.resources
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ismaelWii.Form3.resources
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ismaelWii.Form1.resources
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ismaelWii.Form2.resources
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ismaelWii.Form3.resources
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ismaelWii.SplashScreen1.resources
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ismaelWii.Dialog1.resources
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ismaelWii.Form4.resources
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ismaelWii.Form5.resources
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ismaelWii.Form6.resources
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ismaelWii.Dialog1.resources
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ismaelWii.Form4.resources
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ismaelWii.Form5.resources
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ismaelWii.Form6.resources
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ismaelWii.Form7.resources
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ismaelWii.Form7.resources
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ismaelWii.DialogoPrueba.resources
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ismaelWii.Dialog2.resources
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ismaelWii.Dialog3.resources
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ismaelWii.Dialog2.resources
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ismaelWii.Dialog3.resources
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ismaelWii.DialogoPrueba.resources
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ismaelWii.Form8.resources
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ismaelWii.Form9.resources
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ismaelWii.Form8.resources
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ismaelWii.Form9.resources
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ismaelWii.Form11.resources
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ismaelWii.Form11.resources
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\bin\Debug\SoftModii 2.2.xml
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\SoftModii 2.2.xml
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\bin\Debug\SoftModii 2.2.2.exe
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\bin\Debug\SoftModii 2.2.2.pdb
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\SoftModii 2.2.2.exe
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\SoftModii 2.2.2.pdb
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ismaelWii.Form12.resources
+C:\Documents and Settings\Familia Rodríguez\Escritorio\SoftModii\SoftModii 2.3.exe
+C:\Documents and Settings\Familia Rodríguez\Escritorio\SoftModii\SoftModii 2.3.pdb
+C:\Documents and Settings\Familia Rodríguez\Escritorio\SoftModii\SoftModii 2.xml
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ismaelWii.Form12.resources
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Release\SoftModii 2.3.exe
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Release\SoftModii 2.xml
+C:\Documents and Settings\Familia Rodríguez\Mis documentos\Visual Studio 2005\Projects\Wii\Wii\obj\Release\SoftModii 2.3.pdb
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ResolveAssemblyReference.cache
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ismaelWii.SoftModii.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ismaelWii.Resources.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ismaelWii.SplashScreen1.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Release\Wii.vbproj.GenerateResource.Cache
+C:\Users\FamiliaRodriguez\Escritorio\SoftModii\SoftModii 2.3.1.exe
+C:\Users\FamiliaRodriguez\Escritorio\SoftModii\SoftModii 2.3.1.pdb
+C:\Users\FamiliaRodriguez\Escritorio\SoftModii\SoftModii 2.3.xml
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ismaelWii.SoftModii.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ismaelWii.Resources.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ismaelWii.SplashScreen1.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\Wii.vbproj.GenerateResource.Cache
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ismaelWii.frmImprimir.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ismaelWii.dlgSerial.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ismaelWii.frmCodigos.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ismaelWii.frmActualizar.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ismaelWii.frmEnlaces.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ismaelWii.frmAbout.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ismaelWii.frmOrganizacion.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ismaelWii.frmBootMii.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ismaelWii.frmAyuda.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ismaelWii.frmDebug.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ismaelWii.frmTutoriales.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ismaelWii.dlgSerial.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ismaelWii.frmTutoriales.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ismaelWii.frmImprimir.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ismaelWii.frmCodigos.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ismaelWii.frmActualizar.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ismaelWii.frmEnlaces.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ismaelWii.frmAbout.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ismaelWii.frmOrganizacion.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ismaelWii.frmBootMii.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ismaelWii.frmAyuda.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ismaelWii.frmDebug.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ismaelWii.frmEmuladores.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ismaelWii.frmEmuladores.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ismaelWii.frmExtras.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ismaelWii.frmExtras.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ismaelWii.frmVocabulario.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ismaelWii.frmVocabulario.resources
+C:\Users\FamiliaRodriguez\Desktop\Softmodii\Softmodii.exe.config
+C:\Users\FamiliaRodriguez\Desktop\Softmodii\Softmodii.exe.manifest
+C:\Users\FamiliaRodriguez\Desktop\Softmodii\Softmodii.application
+C:\Users\FamiliaRodriguez\Desktop\Softmodii\Softmodii.exe
+C:\Users\FamiliaRodriguez\Desktop\Softmodii\Softmodii.pdb
+C:\Users\FamiliaRodriguez\Desktop\Softmodii\Softmodii.xml
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Release\Softmodii.exe.manifest
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Release\Softmodii.application
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Release\Softmodii.exe
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Release\Softmodii.xml
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Release\Softmodii.pdb
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\bin\Debug\Softmodii.exe.config
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\bin\Debug\Softmodii.exe.manifest
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\bin\Debug\Softmodii.application
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\bin\Debug\Softmodii.exe
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\bin\Debug\Softmodii.pdb
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\bin\Debug\Softmodii.xml
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\Softmodii.exe.manifest
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\Softmodii.application
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\Softmodii.exe
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\Softmodii.xml
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\Softmodii.pdb
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ismaelWii.frmGuardar.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ismaelWii.frmGuardar.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ismaelWii.frmUpdate.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ismaelWii.frmUpdate.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ismaelWii.frmFirst.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ismaelWii.frmFirst.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ismaelWii.frmConfiguracion.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ismaelWii.frmConfiguracion.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Debug\ismaelWii.frmUpdating.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2005\Projects\Wii\Wii\obj\Release\ismaelWii.frmUpdating.resources

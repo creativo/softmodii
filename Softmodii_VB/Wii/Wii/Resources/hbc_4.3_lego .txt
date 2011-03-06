@@ -1,0 +1,46 @@
+ _-_TUTORIAL DE INSTALACIÓN DEL HOMEBREW CHANNEL_-_ by IsmaelWii
+        
+        MATERIALES NECESARIOS:
+            -Tarjeta SD
+            -Lector de tarjetas para PC
+        
+        DESCARGAS NECESARIAS:
+            -Indiana Pwns (En Enlaces de Interés, a la derecha de este cuadro)
+            -HackMii Installer (En Enlaces de Interés)
+                    Haz click en HackMii Installer 0.8 ( u otra si hay nueva versión) y descárgalo.
+                    Descomprime el archivo y pasa el archivo boot.elf a la raíz de la SD.
+        
+        PREPARANDO EL EXPLOIT:
+        
+1)Asegurate de haber jugado unos minutos a Lego Indiana Jones. Si no es así, inicia el juego y crea una partida. Luego, juega hasta terminar el intro del juego, y sal al Menú de Wii.
+
+2)Ves a Configuración de Wii y copia el archivo de guardado de Lego Indiana Jones si quieres conservar los datos de tu partida.
+
+3)En el PC, abre la SD de la Wii y copia a un lugar seguro la carpeta Private/Wii/Title/rliX (Donde x es E, J o P según la región del juego). Si no quieres conservar tu partida anterior, no hace falta que hagas esto.
+
+4)Descomprime el archivo RAR que contiene el INDIANA PWNS, y entra en la carpeta Private/Wii/Title del archivo RAR. Según la región de tu juego , tienes que copiar una u otra carpeta. Si la región es Europea, debes copiar la carpeta RLIP, si es Americana, RLIE, y si es japonés, RLIJ.
+
+Esa carpeta va a la carpeta Private/Wii/title de tu SD,sobreescribiendo a la existente.
+
+5)Introduce la SD en la Wii, ves a gestión de datos, consola, y borra el savegame original de Lego Indiana Jones.
+
+6)Luego, copia el de la SD en la Wii.
+
+	CARGANDO EL EXPLOIT:
+1)Carga el Lego Indiana Jones en la Wii, y carga la partida.
+
+2)Dirígete a la Galería de Arte ("Art Room") y habla con el tipo de la izquierda (hay dos tipos, asi que el de la izquierda).
+
+3)Muévete hasta un objeto que es negro y pulsa A.
+
+        INSTALANDO HOMEBREW CHANNEL Y BOOTMII COMO IOS (Esto último automático):
+
+1)Saldrá un mensaje en inglés anti-timos. Espera unos segundos, y pulsa 1 cuando lo pida.
+
+(!)Fíjate aquí si todas las frases salen en verde o sale una en rosa diciendo "Can be installed as one variant".
+
+2)Seleccionamos Install Homebrew Channel y seguimos las instrucciones. Al acabar, estará instalado.
+
+3)No apagues la consola, sigue en el mismo menú
+        
+        -PULSA EL BOTÓN "SIGUIENTE" PARA CONTINUAR CON EL TUTORIAL

@@ -1,0 +1,410 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="minihbc2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\minihbc2.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wheelie" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wheelie.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="burn3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\burn3.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cargado" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cargado.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="def_cios" xml:space="preserve">
+    <value>Es un IOS parcheado (véase IOS), para obtener funciones extra no incluidas en los originales, como cargar desde USB, DVD, mayor velocidad de USB, etc.
+Algunos mezclan IOS para obtener diversas funciones. Todos ellos tienen el bug trucha, que les permite instalar títulos en la Wii sin la firma de NintENdo.
+</value>
+    <comment>Definición: cIOS</comment>
+  </data>
+  <data name="facebook" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\facebook.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="update" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\update.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tutobootmii1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tutobootmii1.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="update2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\update1.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="def_boot2" xml:space="preserve">
+    <value>Porción de la memoria que carga antes que el menú de Wii, y que puede servir para prevenir bricks si tiene bug trucha y permite la instalación de Bootmii como Boot2.</value>
+  </data>
+  <data name="SSBB" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\SSBB.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="brick" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\brick.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="burn2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\burn2.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lbat" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lbat.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hbc31" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hbc3.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="organizacion_hbc_img" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\organizacion_hbc_img.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="imageninicial" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\imageninicial.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="minicios" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\minicios.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DVD2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DVD2.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="backimage" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nextimage2.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="updatecios1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\updatecios1.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bootmiiuse" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bootmiiuse.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dvdlogo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dvdlogo.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="eol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\eol.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dvd12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dvd12.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ljones" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ljones.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dvd3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dvd3.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="updatecios3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\updatecios3.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="minidvd3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\minidvd3.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="usblogo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\usblogo.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="minibootm1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\minibootm1.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tuto_error" xml:space="preserve">
+    <value>Atención: Tienes una versión de firmware muy antigua. Para hacer este tutorial, actualiza con algún juego como New Super Mario Bros o cualquier otro para actualizar a una versión superior. No actualices por internet, ya que necesitarás en ese caso un juego especial para poder realizar el proceso.</value>
+    <comment>versión antigua</comment>
+  </data>
+  <data name="minicios3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\minicios3.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="updatecios31" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\updatecios3.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iniciochristmas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\iniciochristmas.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="def_wad" xml:space="preserve">
+    <value>Un WAD es un archivo de instalación el cual instala contenido en tu Wii, ya sean canales o IOS, System Menus u otros contenidos.</value>
+    <comment>Definición: Wad</comment>
+  </data>
+  <data name="logov4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logov4.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="miniusb1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\miniusb1.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="minicios2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\minicios2.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="burn1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\burn1.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="nextimage" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nextimage21.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="blanco" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\blanco.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wad3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wad3.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="priiloader1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\priiloader1.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="YUGIOH" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\YUGIOH.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="def_brick" xml:space="preserve">
+    <value>Literalmente "ladrillo", se denomina así al mal funcionamiento de la consola que impide operar con ella, por lo que se convierte en un ladrillo o pisapapeles. Normalmente suelen producirse por manejar aplicaciones peligrosas sin conocimiento o por la instalación de WADs corruptos o incorrectos, por lo que debes evitar este tipo de prácitcas y ajustarte a las instrucciones de los tutoriales mientras aprendes.</value>
+  </data>
+  <data name="hbc21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hbc2.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mensaje_fin_43" xml:space="preserve">
+    <value>No puedes continuar, ya que al estar en la versión 4.3, necesitas un juego para poder instalar el Homebrew Channel o usar cualquier homebrew...</value>
+  </data>
+  <data name="cios" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cios.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wad2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wad2.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="def_cmios" xml:space="preserve">
+    <value>Es como un IOS (véase IOS) que dota a la Wii de las funciones necesarias para reproducir juegos de Gamecube. cMIOS convierte la Wii en una GC, deshabilitando el acceso a todas las funciones exclusivas de Wii, incluso bajando la potencia de su procesador.</value>
+    <comment>Definición: cMIOS</comment>
+  </data>
+  <data name="about" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\about.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="no_game" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\no_game.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="youtube" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\youtube.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="minihbc1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\minihbc1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lwars" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lwars.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="def_ios" xml:space="preserve">
+    <value>Es la unidad de funcionamiento básica del firmware de la Wii. Para simplificarlo, un IOS vendría a ser un archivo que se carga en el procesador de la Wii y sirve para que un recurso (Un juego, un canal) funcione. Los IOS se instalan en posiciones que van de la 1 a la 255, pudiéndose cargar solo uno a la vez. Por ejemplo, algunos juegos como el Mario Kart usan el IOS26 para funcionar, otros usan el IOS53, etc. Cada IOS se instala y ejecuta de forma independiente de los demás, por lo que no interfieren entre ellos.</value>
+    <comment>Definición: IOS</comment>
+  </data>
+  <data name="changes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\changes.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="print2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\print2.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bootm1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bootm1.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="usb1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\usb1.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cios3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cios3.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dvd31" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dvd31.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="miniburn2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\miniburn2.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DVD21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DVD21.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wad1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wad1.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="priiloader3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\priiloader3.JPG;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="priiloader2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\priiloader2.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="brawl" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\brawl.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="miniusb3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\miniusb3.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cios2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cios2.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="exit_game" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\exit_game.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="twitter" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\twitter.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="minihbc3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\minihbc3.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="link" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\link.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="miniusb2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\miniusb2.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="miniburn3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\miniburn3.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="usb2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\usb2.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="updatecios2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\updatecios2.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="minidvd1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\minidvd1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="guardar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\guardar.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="e" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\e.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="def_systemmenu" xml:space="preserve">
+    <value>System Menu:
+
+Es el menú del Sistema, lo que ves al encender la Wii y que usas para cargar los canales. 
+Carga después de boot2, y si no dispones de una protección como bootmii en boot2 o priiloader, puede causar un brick si lo dañas o si dañas el IOS sobre el que funciona.</value>
+  </data>
+  <data name="load" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\load.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="miniburn1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\miniburn1.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Folder08-OpenYellow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Folder08-OpenYellow.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="help" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\help.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hbc11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hbc1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="youtubeicon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\youtubeicon.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="def_usbloader" xml:space="preserve">
+    <value>Aplicación homebrew que funciona como cargador de juegos, permitiendo cargar backups que no se pueden lanzar desde el Canal Disco. Los loaders utilizan los cIOS en lugar de los IOS oficiales para poder cargar backups, por lo que no pueden funcionar sin ellos.</value>
+  </data>
+  <data name="csdlogo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CDS-logo.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="usb3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\usb3.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="legoindiana" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\legoindiana.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

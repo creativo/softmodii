@@ -1,0 +1,2410 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="wii" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wii.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="minihbc2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\minihbc2.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tuto_wadmanager" xml:space="preserve">
+    <value>_-INSTALACIÓN Y USO DE WAD MANAGER-_ by ismaelWii
+
+¿Qué es WAD Manager? 
+Wad Manager es una aplicación para Wii que te permite instalar WADS. Los WAD's son paquetes para Wii que contienen o bien canet ales o bien IOS o SystemMenu.
+
+¿Qué riesgos tiene?
+Pues que pueden causar un brick si las imágenes de esos canales están corruptas. Hay mas riesgos que verás en la sección de precauciones.
+
+_-Instalando el programa-_
+
+Ves a Enlaces de Interés, y descarga WADManagerGui.
+2-Descomprime el archivo en el escritorio.
+3-Copia la carpeta Wad_Manger_1.5_GUI a la carpeta APPS de tu SD.
+
+_-Instalando WAD'S-_
+
+1-Carga el "Wad Manager Wii" desde el Homebrew Channel.
+2-Una vez cargado, te encontrarás con un menú.
+3-Pulsa Browser para buscar el WAD a instalar.
+4-Una vez situado sobre el WAD a instalar, pulsa A.
+5-Aquí pulsa "Install" y comenzará la instalación. Al acabar, pulsa OK.
+
+_-Desinstalando WAD's-_
+
+(!)Para desinstalar un WAD, necesitas tenerlo en la SD.
+1-Carga el "Wad Manager Wii" desde el Homebrew Channel.
+2-Una vez cargado, te encontrarás con un menú.
+3-Pulsa Browser para buscar el WAD a desinstalar.
+4-Una vez situado sobre el WAD a desinstalar, pulsa A.
+5-Aquí pulsa "Uninstall" y comenzará la desinstalación. Al acabar, pulsa OK.
+MUY IMPORTANTE: Desinstalar algunos WAD's puede causar Bricks. Por eso, completa el tutorial antes de hacer nada.
+
+_-Como conseguir WAD's-_
+
+Hay canales de homebrew muy útiles para cargar aplicaciones sin acceder al HC. Estos canales estan hechos por usuarios, y puedes encontrarlos por la WEB fácilmente. 
+Existen dos tipos de canales; los normales y los forwarders. Los normales llevan incluidos la aplicación, por lo que no necesitas tarjeta SD, pero si quieres actualizar la aplicación, tienes que reinstalar el canal. 
+Los forwarders cargan una aplicación desde la SD,  por lo que para actualizarla, basta con sustituir el archivo boot.dol de la SD correspondiente.
+
+No es recomendado instalar WAD's de IOS ni System Menu, ya que puedes causar brick. Para ello estan aplicaciones como Dop-Ios Mod, Dop-Mii, etc.
+
+(!)ANTE TODO, NO SE RECOMIENDA INSTALAR WADS DE NINGUN TIPO SIN MEDIDAS DE SEGURIDAD COMO BOOTMII EN BOOT2 O PRIILOADER. Si tienes cualquiera de ellas, no correrás riesgo, a no ser que sustituyas el System Menú usando Priiloader, por lo cual Priiloader desaparecerá y tendrás que reinstalarlo.
+
+Pulsa "SIGUIENTE" para continuar</value>
+    <comment>tutorial wad manager</comment>
+  </data>
+  <data name="def_boot2" xml:space="preserve">
+    <value>Porción de la memoria que carga antes que el menú de Wii, y que puede servir para prevenir bricks si tiene bug trucha y permite la instalación de Bootmii.</value>
+  </data>
+  <data name="burn3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\burn3.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cargado" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cargado.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="update" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\update.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tutobootmii1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tutobootmii1.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tuto_grabar" xml:space="preserve">
+    <value>_-GRABACIÓN DE JUEGOS _ by IsmaelWii
+            
+            DESCARGAS:
+                -ImgBurn (En sección Enlaces de Interés)
+            
+            VAMOS A GRABAR:
+            1) Descarga el programa e instálalo
+            2) Una vez hecho, ejecútalo
+
+
+            3) Selecciona WRITE IMAGE FILE TO DISC
+            4) Después, en la barra de Arriba, selecciona Tools y Drive
+            5) Selecciona Change Book Type..
+            6) Selecciona la marca de tu grabadora
+            7) En la lista titulada CHANGE FOR..., elige Drive (For DVD+R Media)
+            8) Luego en NEW SETTINGS, elige DVD-ROM  y haz click en OK
+            Esto solo lo tienes que hacer 1 vez, pero es mejor comprobarlo por si se borran los ajustes
+
+            9) Ahora vamos a grabar el disco.
+            Arriba, donde pone PLEASE SELECT A FILE..., haz click en el primer icono.
+            10) Elige la ISO del backup del juego
+
+            11) Abajo a la derecha, donde pone Write Speed, selecciona 2,4x
+
+            12) Empieza la grabación haciendo click en el dibujo de abajo a la izquierda
+
+            13) Cuando acabe, ya tendrás el juego listo para jugar
+            
+             HAZ CLICK EN FINALIZAR PARA ACABAR EL TUTORIAL</value>
+    <comment>tutorial grabación dvd</comment>
+  </data>
+  <data name="shop" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\shop.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logov3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logov3.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cd.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tuto_hbc" xml:space="preserve">
+    <value />
+    <comment>tutorial homebrew channel</comment>
+  </data>
+  <data name="hbc31" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hbc3.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tutobootmii3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tutobootmii3.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="imageninicial" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\imageninicial.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="minicios" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\minicios.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DVD2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DVD2.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="updatecios1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\updatecios1.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tuto_cios42_scifii" xml:space="preserve">
+    <value>_-INSTALANDO cIOS en Wii 4.2-_ by ismaelWii
+
+	--Preparando la SD con CSD para Softmodii (victory144):
+
+
+
+1)Haz click en el botón situado a la derecha llamado "Preparar SD (CSD)"
+
+2)Empezará el proceso de instalación
+
+3) Inserta tu SD o lector de tarjetas SD en tu ordenador.
+
+4)Haz click en siguiente hasta que te pregunta donde quieres instalarlo. 
+
+Debes instalarlo en la raíz de tu tarjeta SD, escribiendo o seleccionando la letra de tu SD (K:/, I:/, etc.).
+
+Puedes mirarla en "MI PC" en Windows XP o en "Equipo" en Windows 7 y Windows Vista.
+
+5) Haz click en siguiente. Comenzará la instalación de los archivos. Cuando acabe, asegúrate de que la
+
+casilla "LANZAR CSD ESPECIAL PARA SOFTMODII" esté marcada, y haz click en finalizar.
+
+6)Se te abrirá una pantalla azul, si no es así, ves al escritorio y ejecuta la aplicación llamada CSD.
+
+7)Ahora, pulsa el botón 1 del ordenador y pulsa ENTER. Empezará la descarga. Si el programa se bloquea, 
+
+vuelve a iniciarlo. Ten en cuenta que tardará bastantes minutos, depende de tu conexión a internet.
+
+8)Cuando acabe, el programa se cerrará. Ahora extrae la SD de tu ordenador y métela en la Wii.
+		
+	
+	
+--Restaurando Bug Trucha
+
+	
+1)Abre el Homebrew Channel y luego carga Trucha Bug Restorer.
+	
+2)Cuando cargue, pulsa B. Espera unos instantes y pulsa 1 cuando te lo pida.
+	
+3)Pulsa sobre "Restore IOS 15" y acepta todo lo que te diga con A. Cuando acabe, volverás al HBC.
+	
+4)Vuelve a cargar el TBR, pulsa B de nuevo, y 1 cuando lo pida.
+	
+5)Pulsa A sobre "INSTALL IOS 41" y pulsa A. Acepta todas las preguntas con A. Cuando acabe, volverás al Homebrew Channel.
+	
+6)Vuelve a cargar el TBR, pero esta vez, nada mas cargar, muévete con la cruceta hasta situarte en IOS41, y pulsa A. Espera, y cuando lo pida, pulsa 1.
+	
+7)Selecciona "Downgrade IOS 15", y pulsa A todas las veces para confirmar las preguntas. Cuando acabe, volverá al HBC.
+	
+8)Vuelve a cargar el TBR, pero esta vez, nada mas cargar, muévete con la cruceta hasta situarte en IOS15, y pulsa A. Espera, y cuando lo pida, pulsa 1.
+	
+9)Sitúate sobre "IOS36 MENU" y pulsa A. Asegúrate de que todas las opciones estén puestas a "YES" (menos la que pone 36), y pulsa A sobre "Install Patched IOS". Acepta todas las preguntas que haga. Cuando acabe, volverás al HBC.
+	
+10)Vuelve a cargar el TBR, pero esta vez, nada mas cargar, selecciona el IOS36, y pulsa A.
+	
+11)Sitúate sobre "Restore IOS 15" y pulsa A. Acepta todas las preguntas con A.  Cuando acabe, volverás al Homebrew Channel.
+
+
+
+
+      	--Borrando los IOS Basura con Dop-IOS Mod
+
+	
+1)Una vez en el HBC, carga el "Dop-IOS MOD"
+	
+2)Cuando cargue, pulsa A.
+	
+3)Vuelve a pulsar A, y luego, cuando ponga IOS successfully loaded!, pulsa A de nuevo.
+	
+4)Muevete por el menú con la cruceta, y selecciona Remove stubbed IOSs. Pulsa A.
+	
+5)Vuelve a pulsar A una vez.
+	
+6)Pulsa A todas las veces que lo pida para quitar los IOS basura. AVISO: Sería recomendable solamente borrar los IOS 222, 223, 249 y 250, ya que aunque no pasa nada si borras los otros, mejor tocar la Wii lo más poco posible.
+          
+Cuando acabe volverás al menú de DOP-IOS.
+	
+7)Pulsa HOME para salir.
+	
+	
+	--Instalando el cIOS de Waninkoko (cIOSx rev19)
+
+1)Una vez en el HBC, carga el "Waninkoko cIOS Installer".
+
+2)Antes de nada, verás que pone IOS TO USE DURING INSTALLATION:	 &lt;IOS36&gt;. Si pone eso, pulsa A, si pone otra cosa, como 
+
+&lt;IOS249&gt;, muévete con la cruceta del mando hasta situarte en &lt;IOS36&gt;, y pulsa A. Luego vuelve a pulsar A.
+	
+3)Pondrá &lt;IOS 57 v5661  &gt;, muévete con la cruceta a la izquierda hasta que ponga &lt;IOS38 v3867&gt;. Pulsa A
+	
+4)Asegúrate de que pone WAD Installation, y pulsa A. Asegúrate de que pone Wii SD Slot, y pulsa A.
+	
+5)Empezará el proceso de instalación del cIOS, puede tardar unos minutos.
+	
+6)Cuando acabe, pondrá [SUCCESS]: Custom IOS installed succesfully!!. Pulsa A para salir al HBC.
+
+
+	
+	
+	--Instalando los cIOS de Hermes (Ios 222,223 y 224, ambos v5)
+
+	
+1)Carga el cIOS 222 Installer v5
+	
+2)Pulsa A. Luego selecciona Install Custom IOS222 v65535 (Default) y pulsa A.
+	
+3) Vuelve a pulsar A sobre "Use IOS38 (Recomended). Cargará archivos de la SD.
+	
+4)Cuando acabe, pulsa 1 para instalarlo.
+	
+5)Cuando acabe, volverá al Homebrew Channel.
+	
+6)Carga el cIOS 222 Installer v5 de nuevo.
+	
+7)Pulsa A. Luego selecciona Install Custom IOS223 v65535
+	
+8)Selecciona "Use IOS37" y pulsa A. Cargará archivos de la SD.
+	
+9)Cuando acabe, pulsa 1 para instalarlo.
+	
+10)Cuando acabe, volverá al Homebrew Channel.
+
+	
+11)Carga el cIOS 222 Installer v5 de nuevo.
+	
+12)Pulsa A. Luego selecciona Install Custom IOS224 v65535
+	
+13)Selecciona "Use IOS57" y pulsa A. Cargará archivos de la SD.
+	
+14)Cuando acabe, pulsa 1 para instalarlo.
+	
+15)Cuando acabe, volverá al Homebrew Channel.
+
+
+	
+Ya está, proceso completado. Pasa al siguiente con -SIGUIENTE-.</value>
+    <comment>tutorial cios 4.2 scifii mod</comment>
+  </data>
+  <data name="tuto_cboot42" xml:space="preserve">
+    <value>_-INSTALAR CIOS EN 4.2 con cBOOT2-_ by lamateporunyogur
+
+NOTA: SI NO PUEDES HACER ESTE PROCESO, HAZ CLICK EN EL MENÚ CAMBIAR DE ESTE PROGRAMA Y ELIGE INSTALACIÓN ALTERNATIVA.
+
+MATERIAL
+
+    * El "Paquete cBoot2", en Enlaces de interés.
+    * cIOS38 rev14, en enlaces de interés.
+      
+
+FASE 1 - PC
+Para preparar la Wii necesitaremos los siguientes wads:
+
+    * IOS249-64-v65280.wad
+    * IOS36-64-v1042.wad
+    * IOS38-64-v3610.wad
+    * IOS38-64-v3867.wad
+    * IOS222-64-v65280.wad
+    * IOS223-64-v65280.wad
+     
+
+1) Descomprime el paquete de archivos y abre la carpeta PC.
+2) Abre el NUS Downloader y pulsa en Generate Certs.
+3) Marca la casilla de Pack -&gt; wad.
+4) Pulsa en Database... y selecciona IOS38 y la versión correspondiente v3610.
+Verás que al hacerlo el nombre del wad se rellenará correctamente. 
+5) Pulsa en Start NUS Download!.
+6) Al terminar la descarga encontrarás el wad en la carpeta 0000000100000026v3610 situada dentro de la carpeta PC.
+7) Este wad debes meterlo en la carpeta SD.
+8) Ahora pulsa de nuevo en Database..., selecciona IOS36 y la versión correspondiente v1042.
+9) Pulsa en Start NUS Download!.
+10) Al terminar la descarga encontrarás el wad en la carpeta 0000000100000024v1042 situada dentro de la carpeta PC.
+11) Este wad debes meterlo en la carpeta SD.
+12) Ahora pulsa de nuevo en Database..., selecciona IOS249 y la versión correspondiente v65280.
+13) Pulsa en Start NUS Download!.
+14) Al terminar la descarga encontrarás el wad en la carpeta 00000001000000F9v65280 situada dentro de la carpeta PC.
+15) Este wad debes meterlo en la carpeta wad situada en la carpeta SD.
+16) Ahora pulsa de nuevo en Database..., selecciona IOS222 y la versión correspondiente v65280.
+17) Pulsa en Start NUS Download!.
+18) Al terminar la descarga encontrarás el wad en la carpeta 00000001000000DEv65280 situada dentro de la carpeta PC.
+19) Este wad debes meterlo en la carpeta wad situada en la carpeta SD.
+16) Ahora pulsa de nuevo en Database..., selecciona IOS223 y la versión correspondiente v65280.
+17) Pulsa en Start NUS Download!.
+18) Al terminar la descarga encontrarás el wad en la carpeta 00000001000000DFv65280 situada dentro de la carpeta PC.
+19) Este wad debes meterlo en la carpeta wad situada en la carpeta SD.
+
+FASE 2 - SD
+1) Descomprime el archivo .rar en el que viene el cIOS que has descargado ( rev14) y copia la carpeta APPS a la carpeta SD del ordenador.
+2) Asegúrate de que no tienes nada en la SD. Si tienes algo, puedes copiarlo al ordenador y borrarlo de la SD. Una vez termine el tutorial podrás volver a copiarlo a la SD.
+3) Ahora copia todo el contenido de la carpeta SD a la tarjeta SD que usarás en la Wii. 
+
+
+
+FASE 3 - Wii
+1) Introduce la SD en tu Wii.
+2) Si habías instalado como boot2, simplemente enciende la consola. Si lo habías instalado como IOS, ve al Homebrew Channel, pulsa HOME y luego Lanzar BootMii.
+3) Aparecerá el Wad Manager. Primero, pulsa A. Luego selecciona Wii SD slot y pulsa A.
+4) Verás el IOS249-64-v65280.wad. Pulsa A y, con la cruceta selecciona Uninstall wad. Pulsa A.
+5) Verás que todo termina OK!. Pulsa cualquier botón para salir.
+6) Ahora, como has hecho antes, selecciona el IOS222-64-v6528.wad. Pulsa A, y con la cruceta selecciona Uninstall wad. Pulsa A.
+7) Verás que todo termina OK!. Pulsa cualquier botón para salir.
+8) Ahora, como has hecho antes, selecciona el IOS223-64-v6528.wad. Pulsa A, y con la cruceta selecciona Uninstall wad. Pulsa A.
+9) Verás que todo termina OK!. Pulsa cualquier botón para salir.
+6) Ahora vuelve un momento al ordenador con la SD, y borra el archivo boot.dol de la SD.
+7) Ahora vete a la carpeta apps -&gt; cIOS38 rev14  y copia el archivo boot.dol.
+8) Vuelve atrás y pégalo en la raíz de la SD.
+9) Ve a la Wii y lanza BootMii de nuevo. En este caso aparecerá el cIOS Installer 2.0
+10) Selecciona IOS36 y pulsa A.
+11) Pulsa A de nuevo y selecciona (con la cruceta) la opción WAD Install. Pulsa A otra vez y verás que comenzará a instalarse el cIOS.
+12) ¡¡ENHORABUENA!! Ya tienes cIOS en tu Wii 4.2. 
+
+
+NOTA: SI NO PUEDES HACER ESTE PROCESO, HAZ CLICK EN EL MENÚ CAMBIAR DE ESTE PROGRAMA Y ELIGE INSTALACIÓN ALTERNATIVA.
+
+INSTALAR CIOS DE HERMES
+            
+            DESCARGAS:
+            -cIOS Hermes (Enlaces de Interés)
+            
+            MANOS A LA OBRA:
+            1) Descomprime el archivo y copia la carpeta APPS del archivo a la raíz de tu SD
+            Te pedírá sobreescribir, di que sí a todo
+            2) Primero crea estas carpetas en la raíz de tu SD. En cada directorio irán ciertos archivos.
+            SD:/00000001/00000024/v1042/ ----&gt; Archivos IOS36
+            SD:/00000001/00000025/v3612/ ----&gt; Archivos IOS37
+            SD:/00000001/00000026/v3610/ ----&gt; Archivos IOS38
+            SD:/00000001/0000003c/v6174/ ----&gt; Archivos IOS60
+            
+            SD:/ se refiere a la raíz de la tarjeta, o sea, lo que sale nadá más abrirla.
+            
+
+
+
+            3)Abrimos el NUS DOWNLOADER y pulsamos en Database... -&gt; Update Database...
+            4)Ahora debes ir descargándote los IOS uno a uno. EN ESTE CASO NO PULSES PACK-&gt;WAD
+            5)Pulsamos en Database... y seleccionamos IOS36 y la versión correspondiente v1042.
+            Deja todo como está y pulsa en Start NUS Download!
+
+            Al acabar se creará una carpeta en el mismo sitio donde pusiste el NUS Downloader 
+            con el nombre 0000000100000024v1042.
+            Debes copiar los archivos que contiene a la carpeta que contendrá los archivos del IOS 36
+             (Mirar paso 2 para saber que carpeta es
+            
+            6)Pulsamos en Database... y seleccionamos IOS37 y la versión correspondiente v3612.
+            Deja todo como está y pulsa en Start NUS Download!
+
+            Al acabar se creará una carpeta en el mismo sitio donde pusiste el NUS Downloader 
+            con el nombre 0000000100000025v3612.
+            Debes copiar los archivos que contiene a la carpeta que contendrá los archivos del IOS 37
+
+             (Mirar paso 2 para saber que carpeta es
+            
+            7)Pulsamos en Database... y seleccionamos IOS38 y la versión correspondiente v3610.
+            Deja todo como está y pulsa en Start NUS Download!
+
+            Al acabar se creará una carpeta en el mismo sitio donde pusiste el NUS Downloader 
+            con el nombre 0000000100000026v3610.
+            Debes copiar los archivos que contiene a la carpeta que contendrá los archivos del IOS 38
+
+             (Mirar paso 2 para saber que carpeta es
+            
+            8)Pulsamos en Database... y seleccionamos IOS60 y la versión correspondiente v6174.
+            Deja todo como está y pulsa en Start NUS Download!
+
+            Al acabar se creará una carpeta en el mismo sitio donde pusiste el NUS Downloader 
+            con el nombre 000000010000003cv6174.
+            Debes copiar los archivos que contiene a la carpeta que contendrá los archivos del IOS 60
+
+             (Mirar paso 2 para saber que carpeta es
+            
+            YA ESTÁ, AHORA SOLO FALTA INSTALAR LOS CIOS:
+            1) Ves al HBC y ejecuta el CIOS 222 INSTALLER
+            2) Cuando cargue, pulsa A.
+
+            3) Pulsa en -Install Custom IOS 222 (Default)
+            4) Ahora, pulsa -Use IOS 38 merged with IOS37-
+            5) Empezará el proceso de Instalación. Cuando acabe volverá al HBC.
+            6) Cuando acabe, vuelve a cargaer el CIOS 222 INSTALLER
+            7)Cuando cargue, pulsa A
+             
+            8) Pulsa en -Install Custom IOS 223 
+            9) Ahora, pulsa -Use IOS 38 (recommended)-
+            10) Empezará el proceso de Instalación. Cuando acabe volverá al HBC.
+            
+            YA ESTÁ, ACABASTE ESTE SUPER ABURRIDO PROCESO. PULSA -SIGUIENTE-
+
+NOTA: SI NO PUEDES HACER ESTE PROCESO, HAZ CLICK EN EL MENÚ CAMBIAR DE ESTE PROGRAMA Y ELIGE INSTALACIÓN ALTERNATIVA.
+            </value>
+    <comment>tutorial tuto cboot2 con 4.2</comment>
+  </data>
+  <data name="tutobootmii2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tutobootmii2.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CDS-logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CDS-logo.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tuto_usbloader" xml:space="preserve">
+    <value>AVISO IMPORTANTE:
+            
+Antes de nada tienes que decidir una cosa: Qué formato usar para jugar
+a tus backups.
+ 
+Como sabrás, los discos duros o pendrives llevan un formato, ya sea
+FAT32, FAT, NTFS, etc. 
+
+En este tutorial vamos a usar el formato FAT32, que es el 
+más cómodo y fácil.
+Pero debes saber que existe otro formato especialmente diseñado para
+este propósito, y es el WBFS. WBFS tiene la ventaja de que es compatible con más USB Loaders,
+y que  es un poco más rápido, pero tiene la gran desventaja de no poder ser modificado
+desde Windows, ni Linux, ni Mac. 
+Por lo tanto, no puede ser redimensionado ni recuperado.
+En este tutorial, usaremos FAT32, que no tendrá desventaja alguna con el programa que lo usaremos, 
+pero eres libre para usar WBFS si no te funciona este formato correctamente, o si quieres usar
+otros loaders como uLoader. Aún así, FAT32 se está extendiendo cada día más. Consulta la tabla
+de tu derecha para ver las características de cada formato.
+
+-Si has decidido usar FAT32, sigue este tutorial. Si has decidido usar WBFS, vete a Tutoriales Extra
+y elije "Carga USB a través de WBFS"
+
+
+
+_-Instalación de CFG USB LOADER-_ by Atomex
+
+
+DESCARGAS:
+                
+                -Wii Backup Manager (Enlaces Interés)
+
+       
+           
+            SANDO EL WII BACKUP MANAGER PARA FAT32:
+        
+1)  Inserta tu HDD o Pendrive en tu PC y ejecuta el 
+            
+Wii Backup Manager.Selecciona "Tools" y "Format Drive".
+	    
+2)En DRIVE, elije la unidad del Pendrive o HDD.	
+	    
+3) En NEW FILE SYSTEM, elije FAT32 y dale a aceptar. 
+
+
+BORRARÁ TODO LO QUE TENGAS, ASÍ QUE HAZ UNA COPIA
+            
+Nota: Este paso de formatear es opcional si ya lo tenías formateado a FAT32, pero recomendado
+            
+2)Ahora monta tu dispositivo en la pestaña DRIVE 1 y luego click en Drive. Verás que en la parte 
+            
+de abajo del Wii Backup Manager dice: WBFS Folder (FAT32)
+            
+            
+COLOCANDO LOS BACKUPS DESDE EL PC:
+            
+1) En la pestaña FILES, haz click en ADD y luego en FILES, se abrira un explorador y 
+            
+busca tus ISOS de tus backups.
+            
+2)Selecciona el que quieras y activa la casilla debajo de GAME ID
+            
+3) Haz Click en -Copy Selected to..- y elije el DRIVE 1. Comenzará la copia.
+
+            
+            CARGANDO LOS JUEGOS:
+            
+1) Accede al HBC y carga el-Configurable USB Loader-
+            
+2) Una vez dentro, selecciona como dispositivo el USB si te lo pide
+            
+3) Pulsa 1 para acceder a las opciones, y 1 otra vez para las opciones generales
+            
+4) Donde dice PARTITION:, selecciona FAT .
+            
+5) Una vez hecho esto, ya te deben aparecer los juegos si antes no te aparecían.
+            
+            SI LOS JUEGOS NO CARGAN, PRUEBA LO SIGUIENTE:
+            
+1) Selecciona un backup y pulsa el botón 1 para ir a las opciones
+            
+2) Allí te pide que IOS usar, elige con la cruceta el IOS222-mload
+            
+3) Puede ser que debas hacer eso con todos los backups la 1ª vez únicamente
+
+	    HACIENDO BACKUPS DESDE LA WII:
+	    
+1)Accede al CFG Usb Loader.
+	    
+2)Cuando cargue, pulsa el botón +.
+	    
+3)Inserta un disco. Cuando cargue, pulsa A. Y empezará la copia.
+	    
+4)Al terminar la tendrás disponible en el menú de CFG Usb Loader.	
+            
+            ----IMPORTANTE: Si no funciona,busca en google otro loader como Wii Flow o USB Loader MRC, con el cual puede ser que funcione. 
+            
+Si sigue sin funcionar, puedes probar con el tutorial de WBFS que se encuentra en el menú Avanzado
+            
+	RECOMENDACIÓN: Existen otros loaders, como uLoader, que son muy buenos, pero requieren de una partición WBFS, esto significa que tendrías que formatear tu disco duro a dicho formato o alguna partición de este.Si quieres saber cómo hacerlo, en Tutoriales Extra tienes todo lo que necesitas. Aun así, debes saber que uLoader soporta también FAT32, pero en formato .ciso, y con tamaño no superior a 4GB. Si quieres saber mas sobre carga de FAT32 en uLoader, visita su hilo oficial en elotrolado.net
+
+
+LIMPIANDO LA SD:
+
+1)Ejecuta CSD desde el acceso directo del escritorio o desde la propia SD. Antes necesitas haber insertado la SD en el ordenador.
+
+2)Cuando cargue, pulsa L y luego ENTER. Esto dejará tu SD limpia de el contenido innecesario.
+
+3)Entra en la SD a través de mi PC, y borra la carpeta private.
+
+4) Si habías renombrado la carpeta private a private.old o cualquier otro nombre, vuélvela a nombrar a "private".
+
+            
+PULSA "SIGUIENTE" PARA CONTINUAR</value>
+    <comment>tutorial cfg usb loader</comment>
+  </data>
+  <data name="tuto_precauciones" xml:space="preserve">
+    <value>_----PRECAUCIONES SOBRE BRICKS----_ by ismaelWii
+
+_-PRECAUCIONES SOBRE IOS Y SYSTEM MENU-_
+
+Todas las aplicaciones funcionan sobre un IOS, que es como un Sistema Operativo. 
+Incluso el System Menu funciona sobre un IOS. El System Menu es el menú de Wii que ves al encender la consola. Si deja de funcionar, obtendrás un brick. Se puede obtener un brick de distintas maneras:
+1-Borrando el System Menu, a través de Wad Manager o de aplicaciones como Any Title Deleter.
+
+2-Borrando el IOS usado por el System Menu. En la versión 4.2, es el IOS70.
+
+3-Dañando el System Menu al instalar temas que no son para esa versión, o temas dañados.
+
+4-Instalando System Menu de otras regiones.
+
+5-Instalando canales (WAD) con el banner dañado.
+
+6-Instalando un System Menu cuyo IOS sea un IOS Stub.
+
+
+BootMii como Boot2 te salvaría de todos estos bricks. Priiloader solo del 3 y 5. Aún así, tener priiloader es una buena elección si no se tiene Bootmii en boot2.
+
+_-ACCESO A LA NAND-_
+Los IOS 222, 223, 224, 249 y 250, al ser cIOS, pueden tener acceso a la NAND y modificar su contenido, por lo que todas las aplicaciones que usen estos IOS pueden hacer modificaciones en la NAND. Se debe evitar el uso de Any Title Deleter (ATD) si no eres experto, ya que es muy fácil causar un brick.
+
+APLICACIONES CON ALTO INDICE DE CAUSAR BRICKS:
+-Waninkoko's Firmware updater 4.0
+-Waninkoko's Firmware updater 4.1
+-Waninkoko's Firmware updater 4.2
+-Waninkoko's Firmware updater 4.3
+-WiiSCU .21 [.22 funciona bien]
+-IOS60/61 Installer /Patcher
+
+Estas aplicaciones pueden causar seguramente un brick, ya que usan IOS de los servidores de Nintendo que han sido remplazado por basura.
+
+OTRAS PRECAUCIONES:
+-Nunca apagues la consola mientras se actualiza oficial o extraoficialmente, ya sea por Pimp my Wii, Dop-IOS o servidores de Nintendo, ya que puede causarte un brick.
+
+-NUNCA downgradees, estés en la versión que estés, ya que es totalmente innecesario y es altamente peligroso.
+
+-Si descargas canales de homebrew, asegúrate de que la web es fiable y de que hay comentarios positivos.
+
+-No instales y desinstales IOS como un bruto si no sabes lo que haces.
+
+ADVERTENCIAS:
+-Este tutorial está diseñado para que cargues copias de seguridad de tus juegos hechas con los propios loaders. Cualquier uso con copias bajadas de internet será ilegal.
+
+-Instalar WAD's de WiiWare o Consola Virtual es ilegal. Solo debes usarlo con canales legales de homebrew.</value>
+    <comment>tutorial precauciones sobre bricks</comment>
+  </data>
+  <data name="dvd12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dvd12.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bootmii_boot2" xml:space="preserve">
+    <value>_-_INSTALAR BOOTMII_-_ by IsmaelWii
+
+   
+       BootMii es como un seguro de vida para tu Wii, que te cubre frente a bricks. Según la fecha de fabricación de tu consola, será mas efectivo o menos. De todas formas, es recomendable instalarlo
+            
+          
+            
+            PROCEDAMOS:
+       
+**Si no apagaste la consola después de instalar el HBC, ve directo al paso 3.
+
+**Si usaste BannerBomb (4.2 o menor), vuelve a cargarlo como antes.
+       
+**Si usaste el Lego Indiana Jones (4.3), haz lo mismo que antes (carga partida, Galería de Arte, habla con el tipo de la izquierda, icono negro y dale).
+
+       
+1) Vuelve a cargar el BannerBomb como antes para acceder al HackMii Installer
+       
+2) Cuando se cargue, verás la pantalla del menú. Ahora fíjate en las frases que hay a la derecha en verde.
+       
+3) Si todas las frases estaban en verde, y ponía "Can be Installed", pulsa A (si apagaste la Wii), selecciona "Bootmii..." y luego Install BootMii as Boot2.
+       
+4) Si todas estaban en verde menos una que está en rosa y pone "Can be installed as one variant", apaga la consola y sigue este tutorial mas abajo, donde pone HACER COPIA DE LA MEMORIA DE WII CON BOOTMII/IOS.
+       
+5) Sigue las instrucciones en pantalla, cuando acabe dirá Success, y podrás apagar
+       
+6) Ahora, si podías instalarlo como Boot2, cada vez que enciendas la consola, te saldrá el menú. Con este menú podrás hacer copias de la memoria, restaurarlas, etc... Para ir al menú de Wii pulsa simplemente el botón RESET de tu Wii. Para saber como restaurar la memoria y hacer copias, dirígete al menú Avanzado de arriba, y haz click en USO DE BOOTMII.
+       
+7)Ahora vamos a hacer una copia de la memoria de la Wii por si las moscas.
+
+(!)Si instalaste BootMii como boot2, para evitar que te salga BootMii al encender la consola, renombra la carpeta "Bootmii" de la SD a cualquier otro nombre. Si quieres que vuelva a aparecer, solo tienes que volver a ponerle el nombre de "Bootmii" a esa carpeta.
+            
+            
+    HACER COPIA DE LA MEMORIA DE WII CON BOOTMII/BOOT2 :(Si te salían todas las frases en Verde)
+
+(!)ATENCIÓN: Necesitas al menos una tarjeta de 1GB para poder hacer la copia, ya que el tamaño de la memoria sobrepasa los 512MB.
+       
+1) Apaga la consola Wii
+       
+2) Enciéndela con la tarjeta SD dentro
+       
+3) Te aparecerá un menú con 4 opciones.
+       
+4) Pulsa el botón POWER  de la consola Wii (no del mando) 3 veces hasta llegar al icono que tiene dos engranajes pintados.
+       
+5) Ahora pulsa el botón RESET de la consola
+   
+6) Te aparecerán cuatro iconos, pulsa RESET en el primero para proceder a hacer una copia
+       
+7)Saldrán unos cuadrados que se van rellenando de verde, cuando se rellenen dos veces, ya tendrás la copia hecha por si las moscas.
+       
+8)Pulsa un botón para salir. No te asustes de los bloques negros, todas las Wii tienen
+       
+9) Puedes apagar la consola  dejando pulsado el botón POWER de la Wii durante unos segundos
+            
+(!)SI QUIERES SABER COMO RESTAURAR LA MEMORIA O MÁS SOBRE  EL USO DE BOOTMII, VISITA EL MENÚ AVANZADO,  Y LUEGO -USO DE BOOTMII-
+
+           
+
+   HACER COPIA DE LA MEMORIA DE WII CON BOOTMII/IOS :(Si te salía "Can be installed as one variant".)
+    
+(!)ATENCIÓN: Necesitas al menos una tarjeta de 1GB para poder hacer la copia, ya que el tamaño de la memoria sobrepasa los 512MB.     
+
+1) Ve al Homebrew Channel
+     
+2) Pulsa el Botón Home, y pulsa sobre BootMii
+     
+3) Te aparecerá un menú con 4 opciones.
+     
+4) Pulsa el botón POWER  de la consola Wii (no del mando) 3 veces hasta llegar al icono que tiene dos engranajes pintados.
+     
+5) Ahora pulsa el botón RESET de la consola
+         
+6) Te aparecerán cuatro iconos, pulsa RESET en el primero para proceder a hacer una copia
+     
+7)Saldrán unos cuadrados que se van rellenando de verde, cuando se rellenen dos veces, ya tendrás la copia hecha por si las moscas.
+     
+8)Pulsa un botón para salir. No te asustes de los bloques negros, todas las Wii tienen
+     
+9) Puedes apagar la consola  dejando pulsado el botón POWER de la Wii durante unos segundos
+            
+(!)SI QUIERES SABER COMO RESTAURAR LA MEMORIA O MÁS SOBRE  EL USO DE BOOTMII, VISITA EL MENÚ AVANZADO,  Y LUEGO -USO DE BOOTMII-
+
+            
+            PASO ACABADO. PASA AL SIGUIENTE CON -SIGUIENTE-</value>
+    <comment>tutorial boot2</comment>
+  </data>
+  <data name="tuto_cios42" xml:space="preserve">
+    <value>_-INSTALANDO cIOS en Wii 4.2-_ by ismaelWii
+
+	--Preparando la SD con CSD para Softmodii (victory144):
+
+
+1)Haz click en el botón situado a la derecha llamado "Preparar SD (CSD)"
+2)Empezará el proceso de instalación
+3) Inserta tu SD o lector de tarjetas SD en tu ordenador.
+4)Haz click en siguiente hasta que te pregunta donde quieres instalarlo. 
+Debes instalarlo en la raíz de tu tarjeta SD, escribiendo o seleccionando la letra de tu SD (K:/, I:/, etc.).
+Puedes mirarla en "MI PC" en Windows XP o en "Equipo" en Windows 7 y Windows Vista.
+5) Haz click en siguiente. Comenzará la instalación de los archivos. Cuando acabe, asegúrate de que la
+casilla "LANZAR CSD ESPECIAL PARA SOFTMODII" esté marcada, y haz click en finalizar.
+6)Se te abrirá una pantalla azul, si no es así, ves al escritorio y ejecuta la aplicación llamada CSD.
+7)Ahora, pulsa el botón 1 del ordenador y pulsa ENTER. Empezará la descarga. Si el programa se bloquea, 
+vuelve a iniciarlo. Ten en cuenta que tardará bastantes minutos, depende de tu conexión a internet.
+8)Cuando acabe, el programa se cerrará. Ahora extrae la SD de tu ordenador y métela en la Wii.
+		
+	
+	
+--Restaurando Bug Trucha
+
+	1)Abre el Homebrew Channel y luego carga Trucha Bug Restorer.
+	2)Cuando cargue, pulsa B. Espera unos instantes y pulsa 1 cuando te lo pida.
+	3)Pulsa sobre "Restore IOS 15" y acepta todo lo que te diga con A. Cuando acabe, volverás al HBC.
+	4)Vuelve a cargar el TBR, pulsa B de nuevo, y 1 cuando lo pida.
+	5)Pulsa A sobre "INSTALL IOS 41" y pulsa A. Acepta todas las preguntas con A. Cuando acabe, volverás al Homebrew Channel.
+	6)Vuelve a cargar el TBR, pero esta vez, nada mas cargar, muévete con la cruceta hasta situarte en IOS41, y pulsa A. Espera, y cuando lo pida, pulsa 1.
+	7)Selecciona "Downgrade IOS 15", y pulsa A todas las veces para confirmar las preguntas. Cuando acabe, volverá al HBC.
+	8)Vuelve a cargar el TBR, pero esta vez, nada mas cargar, muévete con la cruceta hasta situarte en IOS15, y pulsa A. Espera, y cuando lo pida, pulsa 1.
+	9)Sitúate sobre "IOS36 MENU" y pulsa A. Asegúrate de que todas las opciones estén puestas a "YES" (menos la que pone 36), y pulsa A sobre "Install Patched IOS". Acepta todas las preguntas que haga. Cuando acabe, volverás al HBC.
+	10)Vuelve a cargar el TBR, pero esta vez, nada mas cargar, selecciona el IOS36, y pulsa A.
+	11)Sitúate sobre "Restore IOS 15" y pulsa A. Acepta todas las preguntas con A.  Cuando acabe, volverás al Homebrew Channel.
+
+
+
+
+      	--Borrando los IOS Basura con Dop-IOS Mod
+
+	1)Una vez en el HBC, carga el "Dop-IOS MOD"
+	2)Cuando cargue, pulsa A.
+	3)Vuelve a pulsar A, y luego, cuando ponga IOS successfully loaded!, pulsa A de nuevo.
+	4)Muevete por el menú con la cruceta, y selecciona Remove stubbed IOSs. Pulsa A.
+	5)Vuelve a pulsar A una vez.
+	6)Pulsa A todas las veces que lo pida para quitar los IOS basura. AVISO: Sería recomendable solamente borrar los IOS 222, 223, 249 y 250, ya que aunque no pasa nada si borras los otros, mejor tocar la Wii lo más poco posible.
+          Cuando acabe volverás al menú de DOP-IOS.
+	7)Pulsa HOME para salir.
+	
+	--Instalando el cIOS de Waninkoko (cIOSx rev17)
+
+	1)Vuelve al Homebrew Channel y carga Waninkoko cIOS Installer.
+	2)Nada mas cargar, muévete con la cruceta hasta seleccionar IOS36, y pulsa A.
+	3)Después, vuelve a pulsar A para aceptar. Luego muévete con la cruceta hasta seleccionar IOS38 v4123, y pulsa A.
+	4)Luego, asegúrate de que está seleccionado el IOS249, y pulsa A.
+	5)Asegúrate de que pone "Wad Installation" y pulsa A.
+	6)Asegúrate de que pone "Wii SD Slot" y pulsa A.
+        7)Empezará la instalación. Cuando termine, volverás al HBC.
+
+	
+	
+	--Instalando los cIOS de Hermes (Ios 222,223 y 224, ambos v5)
+
+	1)Carga el cIOS 222 Installer v5
+	2)Pulsa A. Luego selecciona Install Custom IOS222 v65535 (Default) y pulsa A.
+	3) Vuelve a pulsar A sobre "Use IOS38 (Recomended). Cargará archivos de la SD.
+	4)Cuando acabe, pulsa 1 para instalarlo.
+	5)Cuando acabe, volverá al Homebrew Channel.
+	
+	6)Carga el cIOS 222 Installer v5 de nuevo.
+	7)Pulsa A. Luego selecciona Install Custom IOS223 v65535
+	8)Selecciona "Use IOS37" y pulsa A. Cargará archivos de la SD.
+	9)Cuando acabe, pulsa 1 para instalarlo.
+	10)Cuando acabe, volverá al Homebrew Channel.
+
+	11)Carga el cIOS 222 Installer v5 de nuevo.
+	12)Pulsa A. Luego selecciona Install Custom IOS224 v65535
+	13)Selecciona "Use IOS60" y pulsa A. Cargará archivos de la SD.
+	14)Cuando acabe, pulsa 1 para instalarlo.
+	15)Cuando acabe, volverá al Homebrew Channel.
+
+
+	
+Ya está, proceso completado. Pasa al siguiente con -SIGUIENTE-.</value>
+    <comment>tutorial cios 4.2</comment>
+  </data>
+  <data name="tuto_cios41_csd" xml:space="preserve">
+    <value>_-INSTALANDO cIOS en Wii 4.1-_ by ismaelWii
+
+	--Preparando la SD con CSD para Softmodii (victory144):
+
+
+1)Haz click en el botón situado a la derecha llamado "Preparar SD (CSD)"
+2)Empezará el proceso de instalación
+3) Inserta tu SD o lector de tarjetas SD en tu ordenador.
+4)Haz click en siguiente hasta que te pregunta donde quieres instalarlo. 
+Debes instalarlo en la raíz de tu tarjeta SD, escribiendo o seleccionando la letra de tu SD (K:/, I:/, etc.).
+Puedes mirarla en "MI PC" en Windows XP o en "Equipo" en Windows 7 y Windows Vista.
+5) Haz click en siguiente. Comenzará la instalación de los archivos. Cuando acabe, asegúrate de que la
+casilla "LANZAR CSD ESPECIAL PARA SOFTMODII" esté marcada, y haz click en finalizar.
+6)Se te abrirá una pantalla negra, si no es así, ves al escritorio y ejecuta la aplicación llamada CSD.
+7)Pulsa una tecla para comenzar la descarga. El proceso tardará varios minutos, aunque puede variar según la 
+velocidad de tu conexión a internet.
+8)Cuando acabe, el programa se cerrará. Ahora extrae la SD de tu ordenador y métela en la Wii.
+		
+	--Restaurando el Bug Trucha
+
+	1)Abre el Homebrew Channel y carga Trucha Bug Restorer.
+	2)Una vez cargado, pulsa A. Pasados unos segundos, te dirá que pulses 1. Pulsa 1.
+	3)Selecciona Downgrade IOS15 y pulsa A. Luego vuelve a pulsar A en &lt;Load IOS from sd card&gt;
+	4)Volverá  a salir &lt;Load IOS from sd card&gt;. Pulsa A.
+	5)Cuando paren las letras  (saldrá Preparations complete), pulsa A.
+	6)Cuando vuelva a parar ( saldrá Press A to start step 2...), pulsa A.
+	7)Cuando acabe, vuelve a pulsar cualquier botón para salir al HBC.
+	
+	8)Vuelve a cargar "Trucha Bug Restorer", pero esta vez, no pulses A todavía.
+	9)Donde pone Select which IOS to load, muevete con el botón iquierda hasta situarte en IOS15, y entonces pulsa A.
+	10)Pasados unos segundos, tendrás que pulsar 1.
+	11) Pulsa A en IOS36 MENU, baja hasta "Patch nand permissions" y cámbialo a YES con la cruceta del mando.
+	12) Luego pulsa A en "Install patched IOS36".
+	12) Cuando diga "&lt;Load IOS from sd card&gt;", pulsa A. 
+	13) Cuando paren las letras y diga "Press A to start the install...", pulsa A.
+	14) Pasados unos segundos, cuando salga "Press Any Button to exit", pulsa A.
+	15) Volverás al HBC.
+
+	16) Vuelve a cargar el "Trucha Bug Restorer", esta vez pulsa A sin cambiar nada.
+	17)Pasados unos segundos, tendrás que pulsar 1.
+	18)Selecciona "Restore IOS15" y pulsa A. Pulsa A de nuevo cuando salga &lt;Load IOS from SD Card&gt;"
+	19)Pulsa A de nuevo al salirte "Press A to start installation".
+	20)Cuando acabe, pulsa cualquier botón para salir al HBC.
+
+	--Instalando el cIOS de Waninkoko (cIOSx rev18)
+
+	
+	1)Una vez en el HBC, carga el "cIOSx Rev18 Installer".
+	2)Antes de nada, verás que pone IOS TO USE DURING INSTALLATION:	 &lt;IOS36&gt;. Si pone eso, pulsa A, si pone otra cosa, como 
+&lt;IOS249&gt;, muévete con la cruceta del mando hasta situarte en &lt;IOS36&gt;, y pulsa A. Luego vuelve a pulsar A.
+	3)Pondrá &lt;IOS 57 v5661  &gt;, muévete con la cruceta a la izquierda hasta que ponga &lt;IOS38 v3867&gt;. Pulsa A
+	4)Asegúrate de que pone WAD Installation, y pulsa A. Asegúrate de que pone Wii SD Slot, y pulsa A.
+	4)Empezará el proceso de instalación del cIOS, puede tardar unos minutos.
+	5)Cuando acabe, pondrá [SUCCESS]: Custom IOS installed succesfully!!. Pulsa A para salir al HBC.
+	
+	--Instalando los cIOS de Hermes (Ios 222,223 y 224, ambos v5)
+
+	1)Carga el cIOS 222 Installer v5
+	2)Pulsa A. Luego selecciona Install Custom IOS222 v65535 (Default) y pulsa A.
+	3) Vuelve a pulsar A sobre "Use IOS38 (Recomended). Cargará archivos de la SD.
+	4)Cuando acabe, pulsa 1 para instalarlo.
+	5)Cuando acabe, volverá al Homebrew Channel.
+	
+	6)Carga el cIOS 222 Installer v5 de nuevo.
+	7)Pulsa A. Luego selecciona Install Custom IOS223 v65535
+	8)Selecciona "Use IOS37" y pulsa A. Cargará archivos de la SD.
+	9)Cuando acabe, pulsa 1 para instalarlo.
+	10)Cuando acabe, volverá al Homebrew Channel.
+
+	11)Carga el cIOS 222 Installer v5 de nuevo.
+	12)Pulsa A. Luego selecciona Install Custom IOS224 v65535
+	13)Selecciona "Use IOS60" y pulsa A. Cargará archivos de la SD.
+	14)Cuando acabe, pulsa 1 para instalarlo.
+	15)Cuando acabe, volverá al Homebrew Channel.
+
+	
+Ya está, proceso completado. Pasa al siguiente con -SIGUIENTE-.</value>
+    <comment>tutorial cios csd 4.1 o menor</comment>
+  </data>
+  <data name="dvd3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dvd3.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="updatecios3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\updatecios3.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="minidvd3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\minidvd3.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="minibootm1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\minibootm1.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="congratulations" xml:space="preserve">
+    <value>Enhorabuena, has acabado el tutorial.
+
+Solución de problemas:
+
+-Al insertar juego original, pide actualizar.
+SOLUCION: Puedes instalar priiloader (Tutoriales extra) y activar el hack para saltarse actualizaciones desde el canal disco.
+
+-El Homebrew Channel se me ve al revés, ¿Qué hago?
+SOLUCION: Reinstálalo como lo instalaste la primera vez, o colocando el boot.elf del instalador en una carpeta dentro de apps, y cargándolo desde el HBC.
+
+-Los USB LOADERS me dan error de cIOS.
+SOLUCION: No habrás instalado los cIOS correctamente, revisa el tutorial.</value>
+    <comment>felicidades</comment>
+  </data>
+  <data name="ffx_ie7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ffx_ie7.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bootmii_ios" xml:space="preserve">
+    <value>_-_INSTALAR BOOTMII_-_ by IsmaelWii
+
+   
+       BootMii es como un seguro de vida para tu Wii, que te cubre frente a bricks. Según la fecha de fabricación de tu consola, será mas efectivo o menos. De todas formas, es recomendable instalarlo
+            
+          
+            
+            PROCEDAMOS:
+       
+**Si no apagaste la consola después de instalar el HBC, ve directo al paso 3.
+
+**Si usaste BannerBomb (4.2 o menor), vuelve a cargarlo como antes.
+       
+**Si usaste el Lego Indiana Jones (4.3), haz lo mismo que antes (carga partida, Galería de Arte, habla con el tipo de la izquierda, icono negro y dale).
+
+       
+1) Vuelve a cargar el BannerBomb como antes para acceder al HackMii Installer
+       
+2) Cuando se cargue, verás la pantalla del menú. Ahora fíjate en las frases que hay a la derecha en verde.
+       
+3) Si todas las frases estaban en verde, y ponía "Can be Installed", pulsa A (si apagaste la Wii), selecciona "Bootmii..." y luego Install BootMii as Boot2.
+       
+4) Si todas estaban en verde menos una que está en rosa y pone "Can be installed as one variant", apaga la consola y sigue este tutorial mas abajo, donde pone HACER COPIA DE LA MEMORIA DE WII CON BOOTMII/IOS.
+       
+5) Sigue las instrucciones en pantalla, cuando acabe dirá Success, y podrás apagar
+       
+6) Ahora, si podías instalarlo como Boot2, cada vez que enciendas la consola, te saldrá el menú. Con este menú podrás hacer copias de la memoria, restaurarlas, etc... Para ir al menú de Wii pulsa simplemente el botón RESET de tu Wii. Para saber como restaurar la memoria y hacer copias, dirígete al menú Avanzado de arriba, y haz click en USO DE BOOTMII.
+       
+7)Ahora vamos a hacer una copia de la memoria de la Wii por si las moscas.
+
+(!)Si instalaste BootMii como boot2, para evitar que te salga BootMii al encender la consola, renombra la carpeta "Bootmii" de la SD a cualquier otro nombre. Si quieres que vuelva a aparecer, solo tienes que volver a ponerle el nombre de "Bootmii" a esa carpeta.
+            
+            
+    HACER COPIA DE LA MEMORIA DE WII CON BOOTMII/BOOT2 :(Si te salían todas las frases en Verde)
+
+(!)ATENCIÓN: Necesitas al menos una tarjeta de 1GB para poder hacer la copia, ya que el tamaño de la memoria sobrepasa los 512MB.
+       
+1) Apaga la consola Wii
+       
+2) Enciéndela con la tarjeta SD dentro
+       
+3) Te aparecerá un menú con 4 opciones.
+       
+4) Pulsa el botón POWER  de la consola Wii (no del mando) 3 veces hasta llegar al icono que tiene dos engranajes pintados.
+       
+5) Ahora pulsa el botón RESET de la consola
+   
+6) Te aparecerán cuatro iconos, pulsa RESET en el primero para proceder a hacer una copia
+       
+7)Saldrán unos cuadrados que se van rellenando de verde, cuando se rellenen dos veces, ya tendrás la copia hecha por si las moscas.
+       
+8)Pulsa un botón para salir. No te asustes de los bloques negros, todas las Wii tienen
+       
+9) Puedes apagar la consola  dejando pulsado el botón POWER de la Wii durante unos segundos
+            
+(!)SI QUIERES SABER COMO RESTAURAR LA MEMORIA O MÁS SOBRE  EL USO DE BOOTMII, VISITA EL MENÚ AVANZADO,  Y LUEGO -USO DE BOOTMII-
+
+           
+
+   HACER COPIA DE LA MEMORIA DE WII CON BOOTMII/IOS :(Si te salía "Can be installed as one variant".)
+    
+(!)ATENCIÓN: Necesitas al menos una tarjeta de 1GB para poder hacer la copia, ya que el tamaño de la memoria sobrepasa los 512MB.     
+
+1) Ve al Homebrew Channel
+     
+2) Pulsa el Botón Home, y pulsa sobre BootMii
+     
+3) Te aparecerá un menú con 4 opciones.
+     
+4) Pulsa el botón POWER  de la consola Wii (no del mando) 3 veces hasta llegar al icono que tiene dos engranajes pintados.
+     
+5) Ahora pulsa el botón RESET de la consola
+         
+6) Te aparecerán cuatro iconos, pulsa RESET en el primero para proceder a hacer una copia
+     
+7)Saldrán unos cuadrados que se van rellenando de verde, cuando se rellenen dos veces, ya tendrás la copia hecha por si las moscas.
+     
+8)Pulsa un botón para salir. No te asustes de los bloques negros, todas las Wii tienen
+     
+9) Puedes apagar la consola  dejando pulsado el botón POWER de la Wii durante unos segundos
+            
+(!)SI QUIERES SABER COMO RESTAURAR LA MEMORIA O MÁS SOBRE  EL USO DE BOOTMII, VISITA EL MENÚ AVANZADO,  Y LUEGO -USO DE BOOTMII-
+
+            
+            PASO ACABADO. PASA AL SIGUIENTE CON -SIGUIENTE-</value>
+    <comment>tutorial bootmii ios</comment>
+  </data>
+  <data name="minicios3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\minicios3.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tuto_priiloader" xml:space="preserve">
+    <value>-Tutorial de instalación de PRIILOADER-- ismaelWii &amp; Pajariyo. EOL Wiki.
+
+(!)Atención, puede que el mando no te responda en la instalación. Esto es debido a la ultima version del Homebrew Channel . Si es así, por favor, omite este tutorial.
+
+¿Qué es priiloader?
+
+Priiloader es una útil herramiente que puede cargar antes que el Menú de Wii. De esta forma, se consiguie protección ante bricks sencillos como los Banner Bricks (Canales corruptos), o eliminación de algunos IOS por error. Además, sirve para poner Hacks al Menú de Wii, como mover el canal disco y bloquear actualizaciones. Es MUY Recomendable instalarlo, más si no tienes BootMii en Boot2.
+
+
+_--------Instalar Priiloader--------_
+
+1-Ves al Homebrew Channel y carga "Priiloader"
+2-Una vez cargado, te saldrá un menú negro con precauciones sobre su uso (en inglés).
+3-En el menú, debes pulsar (B) y (+) a la vez en ese menú para proceder a la instalación con IOS249.
+4-Empezará la instalación automática. Puede salir alguna advertencia (WARNING), pero es normal.
+5-Al acabar, saldrá Done!! y volverá al Canal Homebrew
+
+_--------Mostrar Priiloader--------_
+
+Para acceder a Priiloader, debes pulsar el botón Reset en el frontal de la consola inmediatamente después de encenderla, hasta que aparezca el menú principal.
+Para moverte por los menús, puedes usar el mando de Wii o el de Gamecube. En ambos casos, la cruceta es para moverse, A para seleccionar y B para volver al menú anterior.
+
+
+---Uso básico de Priiloader---
+
+Opciones del menú de priiloader:
+
+    * System Menu: Arranca el Menú del Sistema.
+    * Homebrew Channel: Su funcion era arrancar el HBC, pero no funciona con la última versión.
+    * Bootmii IOS: Arranca Bootmii/IOS.
+    * Launch Title: Aparece una lista de los canales instalados para elegir cuál arrancar. Elige Homebrew Channel para cargarlo.
+    * Installed file: Arranca el ejecutable .dol previamente instalado.
+    * Load/Install file: Entra en la pantalla de gestión de los ejecutables .dol.
+    * System Menu Hacks: Entra en la pantalla de gestión de los Hacks (si están instalados).
+    * Set Password: Establece una contraseña para proteger Priiloader y/o el sistema.
+    * Settings: Entra en la pantalla de configuración de las opciones de Priiloader. 
+
+
+
+---Load/Install file---
+
+Esta opción permite copiar a la NAND un ejecutable .dol para su uso con Priiloader. Solo se puede tener copiado en la NAND un .dol a la vez, por lo que para instalar uno nuevo hay que borrar el anterior. Los ejecutables .dol a usar con Priiloader deben colocarse en la raíz de la tarjeta SD.
+
+Al pulsar en esta opción aparece una lista con los ejecutables .dol localizados en la raíz de la tarjeta SD. Se pueden realizar tres acciones:
+
+    * Install file: Pulsando el botón (A) se procede a la instalación en la NAND del .dol seleccionado.
+    * Load file: Pulsando el botón (1) en el WiiMote o el botón (Y) en el mando de GC se procede a la ejecución del .dol seleccionado, para comprobar su funcionamiento antes de instalarlo.
+    * Delete file: Pulsando el botón (2) en el WiiMote o el botón (X) en el mando de GC se procede a la desinstalación del .dol seleccionado, si previamente estaba instalado en la NAND. 
+
+---System Menu Hacks---
+
+
+Los Hacks son utilidades que al ser activadas modifican el comportamiento del Menú del Sistema, permitiendo realizar acciones diferentes a las predeterminadas. Los Hacks varían en función de la región de la consola y la versión del Menú del Sistema.
+
+Al acceder a este menú verás los Hacks que tienes instalados en tu Wii, que por defecto están desactivados (disabled). Pulsa el botón (A) para activar (enabled) o desactivar el hack seleccionado, y pulsa "Save settings" antes de salir para guardar los cambios. 
+
+Vamos a activar unos cuantos que nos servirán para prevenir nuestra Wii de actualizaciones no deseadas:
+
+Lo primero, ves al PC e inserta la SD. Verás una carpeta llamada Hacks. Entra y selecciona la carpeta de la región de tu Wii.
+
+Después, selecciona la versión de tu Wii, y copia el archivo hacks.ini a la raíz de tu SD. Puedes borrar la carpeta llamada hacks.
+
+Inserta la SD en la Wii y carga Priiloader (si no carga, manten pulsado RESET). Luego ves a "System Menu Hacks".
+
+1-Pon el Hack "Skip disc update check"  o "Block disc updates" a enabled. De esta manera, los discos originales no pedirán actualizar.
+2-Pon el Hack "Block Online updates" a enabled. De esta manera, ningún manazas podrá actualizar sin querer por internet.
+3-Opcional: Activa el hack "Region free Channels". Esto hará que puedas usar canales de otras regiones.
+4-Opcional: Activa el hack "Move Disc Channel". Esto te permitirá mover el canal disco presionando A+B en el Wiimote.
+
+Hay muchos mas hacks, que varían según la versión. Los que has activado te serán muy utiles, pero puedes activar más a tu gusto.
+
+---Settings---
+
+En este menú podremos cambiar la configuración de Priiloader para adaptarla a nuestras necesidades: 
+
+Vamos a hacer unos cambios básicos:
+1- En Autoboot, cambia la opción de forma que se quede en SystemMenu, si quieres que al encender la Wii sin pulsar RESET cargue el menú de Wii, o HomebrewChannel, si quieres que cargue este al encender la Wii.
+2-Pon la opción "Ignore Standby" en enabled, de esta forma, evitaremos que Nintendo instale actualizaciones en tu Wii al estar en modo Standby.
+3-Por último, pulsa A en "Save Settings", para guardar los ajustes. Pulsa B para volver al menú.
+
+
+---Precauciones---
+(!)Para actualizar Priiloader, simplemente tienes que instalar la nueva versión encima.
+(!)Si por casualidad borras el System Menu (o Menú del Sistema) con Wad Manager o cualquier otra aplicación, causarás un Brick en la Wii y Priiloader dejará de funcionar. Priiloader solo es efectivo con Bricks que no afecten demasiado al System Menu, como Banner Bricks (al instalar WADS corruptos), borrado de un IOS importante, etc.</value>
+    <comment>tutorial priiloader</comment>
+  </data>
+  <data name="updatecios31" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\updatecios3.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hbc1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hbc1.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="def_wad" xml:space="preserve">
+    <value>Un WAD es un archivo de instalación el cual instala contenido en tu Wii, ya sean canales o IOS, System Menus u otros contenidos.</value>
+    <comment>Definición: Wad</comment>
+  </data>
+  <data name="miniusb1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\miniusb1.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="minicios2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\minicios2.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="burn1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\burn1.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tuto_neogamma" xml:space="preserve">
+    <value>_-Instalación de Neogamma-_ by ismaelWii
+            
+            REQUISITOS:
+                -Haber completado los pasos anteriores.
+                
+                
+           INSTALANDO NEOGAMMA:
+	1)Carga el HBC, y elige Softmodii Scifii Mod. Cárgalo.
+        2)Cuando cargue, elige "Instalar Canal Neogamma"."
+	3)Instalará el canal. Cuando termine, volverá al HBC.
+	4)Ves al menú de Wii y tendrás el canal instalado. Parece un canal disco
+              normal pero no lo es, ya que este carga copias.
+
+	FUNCIONAMIENTO CANAL NEOGAMMA:
+           
+            1) En el menú de Wii, inserta el disco a cargar. Luego carga el canal Neogamma.
+            2) Su funcionamiento es sencillo, espera unos segundos y el juego cargará automáticamente.
+           
+            
+IMPORTANTE: Si los juegos no funcionan en general (no un caso aislado), prueba a cargarlos con uLOADER, incluido en el paquete.
+Solo tendrás que pulsar 2 durante la pantalla de carga, y meter el DVD.
+
+              LIMPIANDO LA SD:
+
+1)Ejecuta CSD desde el acceso directo del escritorio o desde la propia SD. Antes necesitas haber insertado la SD en el ordenador.
+2)Cuando cargue, pulsa L y luego ENTER. Esto dejará tu SD limpia de el contenido innecesario.
+3)Entra en la SD a través de mi PC, y borra la carpeta private.
+4) Si habías renombrado la carpeta private a private.old o cualquier otro nombre, vuélvela a nombrar a "private".
+
+            YA ESTÁ, PUEDES PASAR AL SIGUIENTE APARTADO CON -SIGUIENTE-</value>
+    <comment>tutorial neogamma</comment>
+  </data>
+  <data name="blanco" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\blanco.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images.jpeg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="priiloader1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\priiloader1.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hbc21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hbc2.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tuto_cboot41" xml:space="preserve">
+    <value>_-INSTALAR CIOS EN 4.1 O MENOR CON cBOOT2-_ by lamateporunyogur
+
+NOTA: SI NO PUEDES HACER ESTE PROCESO, HAZ CLICK EN EL MENÚ CAMBIAR DE ESTE PROGRAMA Y ELIGE INSTALACIÓN ALTERNATIVA.
+
+MATERIAL
+
+    * El "Paquete cBoot2", en Enlaces de interés.
+    * cIOS38 rev14, en enlaces de interés.
+      
+FASE 1 - PC
+Para preparar la Wii necesitaremos los siguientes wads:
+
+    * IOS36-64-v1042.wad
+    * IOS38-64-v3610.wad
+    * IOS38-64-v3867.wad	
+
+1) Descomprime el paquete de archivos y abre la carpeta PC.
+2) Abre el NUS Downloader y pulsa en Generate Certs.
+3) Marca la casilla de Pack -&gt; wad.
+4) Pulsa en Database... y selecciona IOS38 y la versión correspondiente v3610.
+Verás que al hacerlo el nombre del wad se rellenará correctamente. 
+5) Pulsa en Start NUS Download!.
+6) Al terminar la descarga encontrarás el wad en la carpeta 0000000100000026v3610 situada dentro de la carpeta PC.
+7) Este wad debes meterlo en la carpeta SD.
+8) Ahora pulsa de nuevo en Database..., selecciona IOS36 y la versión correspondiente v1042.
+9) Pulsa en Start NUS Download!.
+10) Al terminar la descarga encontrarás el wad en la carpeta 0000000100000024v1042 situada dentro de la carpeta PC.
+11) Este wad debes meterlo en la carpeta SD.
+
+
+FASE 2 - SD
+1) Descomprime el archivo .rar en el que viene el cIOS que has descargado (rev14) y copia la carpeta APPS a la carpeta SD del ordenador.
+2) Asegúrate de que no tienes nada en la SD. Si tienes algo, puedes copiarlo al ordenador y borrarlo de la SD. Una vez termine el tutorial podrás volver a copiarlo a la SD.
+3) Ahora copia todo el contenido de la carpeta SD a la tarjeta SD que usarás en la Wii.
+
+
+FASE 3 - Wii
+
+
+1) Ahora vuelve un momento al ordenador con la SD, y borra el archivo boot.dol de la SD. (si lo hay)
+2) Ahora vete a la carpeta apps -&gt; cIOS38 rev14 y copia el archivo boot.dol.
+3) Vuelve atrás y pégalo en la raíz de la SD 
+4) Ve a la Wii y lanza BootMii. Si habías instalado como boot2, simplemente enciende la consola. Si lo habías instalado como IOS, ve al Homebrew Channel, pulsa HOME y luego Lanzar BootMii. 
+5) Se cargará el cIOS Installer 2.0
+6) Selecciona IOS36 y pulsa A.
+11) Pulsa A de nuevo y selecciona (con la cruceta) la opción WAD Install. Pulsa A otra vez y verás que comenzará a instalarse el cIOS.
+12) ¡¡ENHORABUENA!! Ya tienes cIOS en tu Wii 
+
+NOTA: SI NO PUEDES HACER ESTE PROCESO, HAZ CLICK EN EL MENÚ CAMBIAR DE ESTE PROGRAMA Y ELIGE INSTALACIÓN ALTERNATIVA.
+
+INSTALAR CIOS DE HERMES
+            
+            DESCARGAS:
+            -cIOS Hermes (Enlaces de Interés)
+            
+            MANOS A LA OBRA:
+            1) Descomprime el archivo y copia la carpeta APPS del archivo a la raíz de tu SD
+            Te pedírá sobreescribir, di que sí a todo
+            2) Primero crea estas carpetas en la raíz de tu SD. En cada directorio irán ciertos archivos.
+            SD:/00000001/00000024/v1042/ ----&gt; Archivos IOS36
+            SD:/00000001/00000025/v3612/ ----&gt; Archivos IOS37
+            SD:/00000001/00000026/v3610/ ----&gt; Archivos IOS38
+            SD:/00000001/0000003c/v6174/ ----&gt; Archivos IOS60
+            
+            SD:/ se refiere a la raíz de la tarjeta, o sea, lo que sale nadá más abrirla.
+            
+
+
+
+            3)Abrimos el NUS DOWNLOADER y pulsamos en Database... -&gt; Update Database...
+            4)Ahora debes ir descargándote los IOS uno a uno. EN ESTE CASO NO PULSES PACK-&gt;WAD
+            5)Pulsamos en Database... y seleccionamos IOS36 y la versión correspondiente v1042.
+            Deja todo como está y pulsa en Start NUS Download!
+
+            Al acabar se creará una carpeta en el mismo sitio donde pusiste el NUS Downloader 
+            con el nombre 0000000100000024v1042.
+            Debes copiar los archivos que contiene a la carpeta que contendrá los archivos del IOS 36
+             (Mirar paso 2 para saber que carpeta es
+            
+            6)Pulsamos en Database... y seleccionamos IOS37 y la versión correspondiente v3612.
+            Deja todo como está y pulsa en Start NUS Download!
+
+            Al acabar se creará una carpeta en el mismo sitio donde pusiste el NUS Downloader 
+            con el nombre 0000000100000025v3612.
+            Debes copiar los archivos que contiene a la carpeta que contendrá los archivos del IOS 37
+
+             (Mirar paso 2 para saber que carpeta es
+            
+            7)Pulsamos en Database... y seleccionamos IOS38 y la versión correspondiente v3610.
+            Deja todo como está y pulsa en Start NUS Download!
+
+            Al acabar se creará una carpeta en el mismo sitio donde pusiste el NUS Downloader 
+            con el nombre 0000000100000026v3610.
+            Debes copiar los archivos que contiene a la carpeta que contendrá los archivos del IOS 38
+
+             (Mirar paso 2 para saber que carpeta es
+            
+            8)Pulsamos en Database... y seleccionamos IOS60 y la versión correspondiente v6174.
+            Deja todo como está y pulsa en Start NUS Download!
+
+            Al acabar se creará una carpeta en el mismo sitio donde pusiste el NUS Downloader 
+            con el nombre 000000010000003cv6174.
+            Debes copiar los archivos que contiene a la carpeta que contendrá los archivos del IOS 60
+
+             (Mirar paso 2 para saber que carpeta es
+            
+            YA ESTÁ, AHORA SOLO FALTA INSTALAR LOS CIOS:
+            1) Ves al HBC y ejecuta el CIOS 222 INSTALLER
+            2) Cuando cargue, pulsa A.
+            3) Pulsa en -Install Custom IOS 222 (Default)
+            4) Ahora, pulsa -Use IOS 38 merged with IOS37-
+            5) Empezará el proceso de Instalación. Cuando acabe volverá al HBC.
+            6) Cuando acabe, vuelve a cargaer el CIOS 222 INSTALLER
+            7)Cuando cargue, pulsa A
+            8) Pulsa en -Install Custom IOS 223 
+            9) Ahora, pulsa -Use IOS 38( Recommended)-
+            10) Empezará el proceso de Instalación. Cuando acabe volverá al HBC.
+            
+            YA ESTÁ, ACABASTE ESTE SUPER ABURRIDO PROCESO. PULSA -SIGUIENTE-
+
+NOTA: SI NO PUEDES HACER ESTE PROCESO, HAZ CLICK EN EL MENÚ CAMBIAR DE ESTE PROGRAMA Y ELIGE INSTALACIÓN ALTERNATIVA.
+            </value>
+    <comment>tutorial tuto cboot2 con 4.1 y menor</comment>
+  </data>
+  <data name="cios" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cios.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wad2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wad2.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tuto_cios42_csd" xml:space="preserve">
+    <value>_-INSTALANDO cIOS en Wii 4.2-_ by ismaelWii
+
+	--Preparando la SD con CSD para Softmodii (victory144):
+
+
+1)Haz click en el botón situado a la derecha llamado "Preparar SD (CSD)"
+2)Empezará el proceso de instalación
+3) Inserta tu SD o lector de tarjetas SD en tu ordenador.
+4)Haz click en siguiente hasta que te pregunta donde quieres instalarlo. 
+Debes instalarlo en la raíz de tu tarjeta SD, escribiendo o seleccionando la letra de tu SD (K:/, I:/, etc.).
+Puedes mirarla en "MI PC" en Windows XP o en "Equipo" en Windows 7 y Windows Vista.
+5) Haz click en siguiente. Comenzará la instalación de los archivos. Cuando acabe, asegúrate de que la
+casilla "LANZAR CSD ESPECIAL PARA SOFTMODII" esté marcada, y haz click en finalizar.
+6)Se te abrirá una pantalla negra, si no es así, ves al escritorio y ejecuta la aplicación llamada CSD.
+7)Pulsa una tecla para comenzar la descarga. El proceso tardará varios minutos, aunque puede variar según la 
+velocidad de tu conexión a internet.
+8)Cuando acabe, el programa se cerrará. Ahora extrae la SD de tu ordenador y métela en la Wii.
+		
+	--Restaurando el Bug Trucha
+
+	1)Abre el Homebrew Channel y carga Trucha Bug Restorer.
+	2)Una vez cargado, pulsa A. Pasados unos segundos, te dirá que pulses 1. Pulsa 1.
+	3)Selecciona Downgrade IOS15 y pulsa A. Luego vuelve a pulsar A en &lt;Load IOS from sd card&gt;
+	4)Volverá  a salir &lt;Load IOS from sd card&gt;. Pulsa A.
+	5)Cuando paren las letras  (saldrá Preparations complete), pulsa A.
+	6)Cuando vuelva a parar ( saldrá Press A to start step 2...), pulsa A.
+	7)Cuando acabe, vuelve a pulsar cualquier botón para salir al HBC.
+	
+	8)Vuelve a cargar "Trucha Bug Restorer", pero esta vez, no pulses A todavía.
+	9)Donde pone Select which IOS to load, muevete con el botón iquierda hasta situarte en IOS15, y entonces pulsa A.
+	10)Pasados unos segundos, tendrás que pulsar 1.
+	11) Pulsa A en IOS36 MENU, baja hasta "Patch nand permissions" y cámbialo a YES con la cruceta del mando.
+	12) Luego pulsa A en "Install patched IOS36".
+	12) Cuando diga "&lt;Load IOS from sd card&gt;", pulsa A. 
+	13) Cuando paren las letras y diga "Press A to start the install...", pulsa A.
+	14) Pasados unos segundos, cuando salga "Press Any Button to exit", pulsa A.
+	15) Volverás al HBC.
+
+	16) Vuelve a cargar el "Trucha Bug Restorer", esta vez pulsa A sin cambiar nada.
+	17)Pasados unos segundos, tendrás que pulsar 1.
+	18)Selecciona "Restore IOS15" y pulsa A. Pulsa A de nuevo cuando salga &lt;Load IOS from SD Card&gt;"
+	19)Pulsa A de nuevo al salirte "Press A to start installation".
+	20)Cuando acabe, pulsa cualquier botón para salir al HBC.
+
+	--Borrando los IOS Basura con Dop-IOS Mod
+
+	1)Una vez en el HBC, carga el "Dop-IOS MOD"
+	2)Cuando cargue, pulsa A.
+	3)Vuelve a pulsar A, y luego, cuando ponga IOS successfully loaded!, pulsa A de nuevo.
+	4)Muevete por el menú con la cruceta, y selecciona Remove stubbed IOSs. Pulsa A.
+	5)Vuelve a pulsar A una vez.
+	6)Pulsa A todas las veces que lo pida para quitar los IOS basura. Cuando acabe volverás al menú de DOP-IOS.
+	7)Pulsa HOME para salir.
+	
+
+	--Instalando el cIOS de Waninkoko (cIOSx rev18)
+
+	
+	1)Una vez en el HBC, carga el "cIOSx Rev18 Installer".
+	2)Antes de nada, verás que pone IOS TO USE DURING INSTALLATION:	 &lt;IOS36&gt;. Si pone eso, pulsa A, si pone otra cosa, como 
+&lt;IOS249&gt;, muévete con la cruceta del mando hasta situarte en &lt;IOS36&gt;, y pulsa A. Luego vuelve a pulsar A.
+	3)Pondrá &lt;IOS 57 v5661  &gt;, muévete con la cruceta a la izquierda hasta que ponga &lt;IOS38 v3867&gt;. Pulsa A
+	4)Asegúrate de que pone WAD Installation, y pulsa A. Asegúrate de que pone Wii SD Slot, y pulsa A.
+	4)Empezará el proceso de instalación del cIOS, puede tardar unos minutos.
+	5)Cuando acabe, pondrá [SUCCESS]: Custom IOS installed succesfully!!. Pulsa A para salir al HBC.
+	
+	--Instalando los cIOS de Hermes (Ios 222,223 y 224, ambos v5)
+
+	1)Carga el cIOS 222 Installer v5
+	2)Pulsa A. Luego selecciona Install Custom IOS222 v65535 (Default) y pulsa A.
+	3) Vuelve a pulsar A sobre "Use IOS38 (Recomended). Cargará archivos de la SD.
+	4)Cuando acabe, pulsa 1 para instalarlo.
+	5)Cuando acabe, volverá al Homebrew Channel.
+	
+	6)Carga el cIOS 222 Installer v5 de nuevo.
+	7)Pulsa A. Luego selecciona Install Custom IOS223 v65535
+	8)Selecciona "Use IOS37" y pulsa A. Cargará archivos de la SD.
+	9)Cuando acabe, pulsa 1 para instalarlo.
+	10)Cuando acabe, volverá al Homebrew Channel.
+
+	11)Carga el cIOS 222 Installer v5 de nuevo.
+	12)Pulsa A. Luego selecciona Install Custom IOS224 v65535
+	13)Selecciona "Use IOS60" y pulsa A. Cargará archivos de la SD.
+	14)Cuando acabe, pulsa 1 para instalarlo.
+	15)Cuando acabe, volverá al Homebrew Channel.
+
+	
+Ya está, proceso completado. Pasa al siguiente con -SIGUIENTE-.
+
+
+
+
+</value>
+    <comment>tutorial cios csd 4.2</comment>
+  </data>
+  <data name="def_cmios" xml:space="preserve">
+    <value>Es como un IOS (véase IOS) que dota a la Wii de las funciones necesarias para reproducir juegos de Gamecube. cMIOS convierte la Wii en una GC, deshabilitando el acceso a todas las funciones exclusivas de Wii, incluso bajando la potencia de su procesador.</value>
+    <comment>Definición: cMIOS</comment>
+  </data>
+  <data name="tuto_cios41_scifii" xml:space="preserve">
+    <value>_-INSTALANDO cIOS en Wii de 4.1 a 3.3-_ by ismaelWii
+
+	--Preparando la SD con CSD para Softmodii (victory144):
+
+
+
+1)Haz click en el botón situado a la derecha llamado "Preparar SD (CSD)"
+
+2)Empezará el proceso de instalación
+
+3) Inserta tu SD o lector de tarjetas SD en tu ordenador.
+
+4)Haz click en siguiente hasta que te pregunta donde quieres instalarlo. 
+
+Debes instalarlo en la raíz de tu tarjeta SD, escribiendo o seleccionando la letra de tu SD (K:/, I:/, etc.).
+
+Puedes mirarla en "MI PC" en Windows XP o en "Equipo" en Windows 7 y Windows Vista.
+
+5) Haz click en siguiente. Comenzará la instalación de los archivos. Cuando acabe, asegúrate de que la
+
+casilla "LANZAR CSD ESPECIAL PARA SOFTMODII" esté marcada, y haz click en finalizar.
+
+6)Se te abrirá una pantalla azul, si no es así, ves al escritorio y ejecuta la aplicación llamada CSD.
+
+7)Ahora, saldrá un menú. Pulsa 1 y luego ENTER. La descarga empezará.
+
+Ten en cuenta que el proceso puede tardar bastantes minutos, depende de tu conexión a internet. Si  el programa
+
+se bloquea o sufre cualquier fallo, por favor, ciérralo y vuélvelo a ejecutar.
+
+8)Cuando acabe, el programa se cerrará. Ahora extrae la SD de tu ordenador y métela en la Wii.
+		
+	
+		
+	--Restaurando Bug Trucha
+
+	
+1)Abre el Homebrew Channel y luego carga Trucha Bug Restorer.
+	
+2)Cuando cargue, pulsa B. Espera unos instantes y pulsa 1 cuando te lo pida.
+	
+3)Pulsa sobre "Restore IOS 15" y acepta todo lo que te diga con A. Cuando acabe, volverás al HBC.
+	
+4)Vuelve a cargar el TBR, pulsa B de nuevo, y 1 cuando lo pida.
+	
+5)Pulsa A sobre "INSTALL IOS 41" y pulsa A. Acepta todas las preguntas con A. Cuando acabe, volverás al Homebrew Channel.
+	
+6)Vuelve a cargar el TBR, pero esta vez, nada mas cargar, muévete con la cruceta hasta situarte en IOS41, y pulsa A. Espera, y cuando lo pida, pulsa 1.
+	
+7)Selecciona "Downgrade IOS 15", y pulsa A todas las veces para confirmar las preguntas. Cuando acabe, volverá al HBC.
+	
+8)Vuelve a cargar el TBR, pero esta vez, nada mas cargar, muévete con la cruceta hasta situarte en IOS15, y pulsa A. Espera, y cuando lo pida, pulsa 1.
+	
+9)Sitúate sobre "IOS36 MENU" y pulsa A. Asegúrate de que todas las opciones estén puestas a "YES" (menos la que pone 36), y pulsa A sobre "Install Patched IOS". Acepta todas las preguntas que haga. Cuando acabe, volverás al HBC.
+	
+10)Vuelve a cargar el TBR, pero esta vez, nada mas cargar, selecciona el IOS36, y pulsa A.
+	
+11)Sitúate sobre "Restore IOS 15" y pulsa A. Acepta todas las preguntas con A.  Cuando acabe, volverás al Homebrew Channel.
+
+
+
+--Instalando el cIOS de Waninkoko (cIOSx rev19)
+
+1)Una vez en el HBC, carga el "Waninkoko cIOS Installer".
+
+2)Antes de nada, verás que pone IOS TO USE DURING INSTALLATION:	 &lt;IOS36&gt;. Si pone eso, pulsa A, si pone otra cosa, como 
+
+&lt;IOS249&gt;, muévete con la cruceta del mando hasta situarte en &lt;IOS36&gt;, y pulsa A. Luego vuelve a pulsar A.
+	
+3)Pondrá &lt;IOS 57 v5661  &gt;, muévete con la cruceta a la izquierda hasta que ponga &lt;IOS38 v3867&gt;. Pulsa A
+	
+4)Asegúrate de que pone WAD Installation, y pulsa A. Asegúrate de que pone Wii SD Slot, y pulsa A.
+	
+5)Empezará el proceso de instalación del cIOS, puede tardar unos minutos.
+	
+6)Cuando acabe, pondrá [SUCCESS]: Custom IOS installed succesfully!!. Pulsa A para salir al HBC.
+
+
+	
+	
+	--Instalando los cIOS de Hermes (Ios 222,223 y 224, ambos v5)
+
+	
+1)Carga el cIOS 222 Installer v5
+	
+2)Pulsa A. Luego selecciona Install Custom IOS222 v65535 (Default) y pulsa A.
+	
+3) Vuelve a pulsar A sobre "Use IOS38 (Recomended). Cargará archivos de la SD.
+	
+4)Cuando acabe, pulsa 1 para instalarlo.
+	
+5)Cuando acabe, volverá al Homebrew Channel.
+	
+6)Carga el cIOS 222 Installer v5 de nuevo.
+	
+7)Pulsa A. Luego selecciona Install Custom IOS223 v65535
+	
+8)Selecciona "Use IOS37" y pulsa A. Cargará archivos de la SD.
+	
+9)Cuando acabe, pulsa 1 para instalarlo.
+	
+10)Cuando acabe, volverá al Homebrew Channel.
+
+	
+11)Carga el cIOS 222 Installer v5 de nuevo.
+	
+12)Pulsa A. Luego selecciona Install Custom IOS224 v65535
+	
+13)Selecciona "Use IOS57" y pulsa A. Cargará archivos de la SD.
+	
+14)Cuando acabe, pulsa 1 para instalarlo.
+	
+15)Cuando acabe, volverá al Homebrew Channel.
+
+
+	
+Ya está, proceso completado. Pasa al siguiente con -SIGUIENTE-.</value>
+    <comment>tutorial cios 4.1 scifii mod</comment>
+  </data>
+  <data name="minihbc1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\minihbc1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tuto_wbfs" xml:space="preserve">
+    <value>_-_FORMATEAR Y AÑADIR JUEGOS A UN DISPOSITIVO WBFS_-_ by IsmaelWii
+        
+DESCARGAS:
+           
+-Wii Backup Manager (Enlaces de Interés)
+        
+          
+          
+          
+        USANDO EL WII BACKUP MANAGER PARA WBFS:
+
+        1)  Inserta tu HDD o Pendrive en tu PC y ejecuta el 
+        Wii Backup Manager.Selecciona "Tools" y "Format Drive".
+	2)En DRIVE, elije la unidad del Pendrive o HDD.	
+	3) En NEW FILE SYSTEM, elije WBFS y dale a aceptar. 
+
+            BORRARÁ TODO LO QUE TENGAS
+           
+        4)Ahora monta tu dispositivo en la pestaña DRIVE 1 y luego click en Drive. Verás que en la parte de abajo del Wii Backup Manager dice: WBFS
+            
+        COLOCANDO LOS BACKUPS:
+        1) En la pestaña FILES, haz click en ADD y luego en FILES, se abrira un explorador y busca tus ISOS de tus backups.
+        2)Selecciona el que quieras y activa la casilla debajo de GAME ID
+        3) Haz Click en -Copy Selected to..- y elije el DRIVE 1. Comenzará la copia.
+
+	CARGANDO LOS JUEGOS:
+	Cargar los juegos es muy sencillo, símplemente conectas el USB al puerto que queda abajo al tumbar la consola
+	Luego inicias uLoader o CFG Usb Loader y ya tienes los juegos.	</value>
+    <comment>tutorial wbfs</comment>
+  </data>
+  <data name="def_ios" xml:space="preserve">
+    <value>Es como una caja de herramientas para la Wii, que dispone del código necesario para hacer determinadas funciones, como SDHC, micrófono, USB, acceso a NAND,etc.
+Hay bastantes, cada uno con funciones características. Los canales y aplicaciones, y en general todo lo de Wii, necesita funcionar sobre uno. Pueden ser parcheados para acceder a la NAND o para permitir la ejecución de código sin la firma de Nintendo.</value>
+    <comment>Definición: IOS</comment>
+  </data>
+  <data name="burn2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\burn2.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wbfs" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wbfs.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bootm1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bootm1.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="usb1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\usb1.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cios3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cios3.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dvd31" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dvd31.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="miniburn2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\miniburn2.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DVD21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DVD21.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wad1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wad1.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="priiloader3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\priiloader3.JPG;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tuto_cios4133" xml:space="preserve">
+    <value>_-INSTALANDO cIOS en Wii de 4.1 a 3.3-_ by ismaelWii
+
+	--Preparando la SD con CSD para Softmodii (victory144):
+
+
+1)Haz click en el botón situado a la derecha llamado "Preparar SD (CSD)"
+2)Empezará el proceso de instalación
+3) Inserta tu SD o lector de tarjetas SD en tu ordenador.
+4)Haz click en siguiente hasta que te pregunta donde quieres instalarlo. 
+Debes instalarlo en la raíz de tu tarjeta SD, escribiendo o seleccionando la letra de tu SD (K:/, I:/, etc.).
+Puedes mirarla en "MI PC" en Windows XP o en "Equipo" en Windows 7 y Windows Vista.
+5) Haz click en siguiente. Comenzará la instalación de los archivos. Cuando acabe, asegúrate de que la
+casilla "LANZAR CSD ESPECIAL PARA SOFTMODII" esté marcada, y haz click en finalizar.
+6)Se te abrirá una pantalla azul, si no es así, ves al escritorio y ejecuta la aplicación llamada CSD.
+7)Ahora, saldrá un menú. Si solo quieres hacer lo necesario, pulsa 1 y luego ENTER. Si también quieres
+poder acceder al Canal Tienda sin actualizar tu Wii, pulsa 4 y luego ENTER. La descarga empezará.
+Ten en cuenta que el proceso puede tardar bastantes minutos, depende de tu conexión a internet. Si  el programa
+se bloquea o sufre cualquier fallo, por favor, ciérralo y vuélvelo a ejecutar.
+8)Cuando acabe, el programa se cerrará. Ahora extrae la SD de tu ordenador y métela en la Wii.
+		
+	
+		
+	--Restaurando Bug Trucha
+
+	1)Abre el Homebrew Channel y luego carga Trucha Bug Restorer.
+	2)Cuando cargue, pulsa B. Espera unos instantes y pulsa 1 cuando te lo pida.
+	3)Pulsa sobre "Restore IOS 15" y acepta todo lo que te diga con A. Cuando acabe, volverás al HBC.
+	4)Vuelve a cargar el TBR, pulsa B de nuevo, y 1 cuando lo pida.
+	5)Pulsa A sobre "INSTALL IOS 41" y pulsa A. Acepta todas las preguntas con A. Cuando acabe, volverás al Homebrew Channel.
+	6)Vuelve a cargar el TBR, pero esta vez, nada mas cargar, muévete con la cruceta hasta situarte en IOS41, y pulsa A. Espera, y cuando lo pida, pulsa 1.
+	7)Selecciona "Downgrade IOS 15", y pulsa A todas las veces para confirmar las preguntas. Cuando acabe, volverá al HBC.
+	8)Vuelve a cargar el TBR, pero esta vez, nada mas cargar, muévete con la cruceta hasta situarte en IOS15, y pulsa A. Espera, y cuando lo pida, pulsa 1.
+	9)Sitúate sobre "IOS36 MENU" y pulsa A. Asegúrate de que todas las opciones estén puestas a "YES" (menos la que pone 36), y pulsa A sobre "Install Patched IOS". Acepta todas las preguntas que haga. Cuando acabe, volverás al HBC.
+	10)Vuelve a cargar el TBR, pero esta vez, nada mas cargar, selecciona el IOS36, y pulsa A.
+	11)Sitúate sobre "Restore IOS 15" y pulsa A. Acepta todas las preguntas con A.  Cuando acabe, volverás al Homebrew Channel.
+
+
+
+
+	--Instalando el cIOS de Waninkoko (cIOSx rev20b)
+
+	1)Vuelve al Homebrew Channel y carga Waninkoko cIOS Installer.
+	2)Nada mas cargar, muévete con la cruceta hasta seleccionar IOS36, y pulsa A.
+	3)Después, vuelve a pulsar A para aceptar. Luego muévete con la cruceta hasta seleccionar IOS38 v4123, y pulsa A.
+	4)Luego, asegúrate de que está seleccionado el IOS249, y pulsa A.
+	5)Asegúrate de que pone "Wad Installation" y pulsa A.
+	6)Asegúrate de que pone "Wii SD Slot" y pulsa A.
+        7)Empezará la instalación. Cuando termine, volverás al HBC.
+
+	
+	
+	--Instalando los cIOS de Hermes (Ios 222,223 y 224, ambos v5)
+
+	1)Carga el cIOS 222 Installer v5
+	2)Pulsa A. Luego selecciona Install Custom IOS222 v65535 (Default) y pulsa A.
+	3) Vuelve a pulsar A sobre "Use IOS38 (Recomended). Cargará archivos de la SD.
+	4)Cuando acabe, pulsa 1 para instalarlo.
+	5)Cuando acabe, volverá al Homebrew Channel.
+	
+	6)Carga el cIOS 222 Installer v5 de nuevo.
+	7)Pulsa A. Luego selecciona Install Custom IOS223 v65535
+	8)Selecciona "Use IOS37" y pulsa A. Cargará archivos de la SD.
+	9)Cuando acabe, pulsa 1 para instalarlo.
+	10)Cuando acabe, volverá al Homebrew Channel.
+
+	11)Carga el cIOS 222 Installer v5 de nuevo.
+	12)Pulsa A. Luego selecciona Install Custom IOS224 v65535
+	13)Selecciona "Use IOS60" y pulsa A. Cargará archivos de la SD.
+	14)Cuando acabe, pulsa 1 para instalarlo.
+	15)Cuando acabe, volverá al Homebrew Channel.
+
+
+	
+Ya está, proceso completado. Pasa al siguiente con -SIGUIENTE-.</value>
+    <comment>tutorial cios 4.1 a 3.3</comment>
+  </data>
+  <data name="priiloader2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\priiloader2.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="uloader1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\uloader1.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="miniusb3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\miniusb3.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cios2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cios2.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images1.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="borrar" xml:space="preserve">
+    <value />
+    <comment>borrar texto</comment>
+  </data>
+  <data name="minihbc3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\minihbc3.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="def_cios" xml:space="preserve">
+    <value>Es un IOS parcheado (véase IOS), para obtener funciones extra no incluidas en los originales, como cargar desde USB, DVD, mayor velocidad de USB, etc.
+Algunos mezclan IOS para obtener diversas funciones. Todos ellos tienen el bug trucha, que les permite instalar títulos en la Wii sin la firma de Nintnedo.
+</value>
+    <comment>Definición: cIOS</comment>
+  </data>
+  <data name="tuto_updatecios" xml:space="preserve">
+    <value>_-ACTUALIZANDO cIOS 249 y 250 A LA ÚLTIMA VERSIÓN-_
+
+-Preparativos
+
+
+1-Pulsa en Enlaces de Interes, y luego en cIOS rev19
+
+2-Descarga el archivo y descomprime la carpeta "cIOS19 a tu escritorio.
+
+3-Abre tu SD y copia la carpeta "cIOS19" que pusimos en el escritorio, a dentro de la carpeta Apps de tu SD.
+
+
+-Instalación
+
+1)Carga el HBC,  y carga el "Waninkoko cIOS Installer".
+
+2)Antes de nada, verás que pone IOS TO USE DURING INSTALLATION:	 &lt;IOS36&gt;. Si pone eso, pulsa A, si pone otra cosa, como 
+
+&lt;IOS249&gt;, muévete con la cruceta del mando hasta situarte en &lt;IOS36&gt;, y pulsa A. Luego vuelve a pulsar A.
+	
+3)Pondrá &lt;IOS 57 v5661  &gt;, muévete con la cruceta a la izquierda hasta que ponga &lt;IOS38 v3867&gt;. Pulsa A
+	
+4)Asegúrate de que pone WAD Installation, y pulsa A. Asegúrate de que pone Wii SD Slot, y pulsa A.
+	
+5)Empezará el proceso de instalación del cIOS, puede tardar unos minutos.
+	
+6)Cuando acabe, pondrá [SUCCESS]: Custom IOS installed succesfully!!. Pulsa A para salir al HBC.
+
+
+
+
+PULSA "SIGUIENTE" PARA CONTINUAR</value>
+    <comment>tutorial extra actualizar cios</comment>
+  </data>
+  <data name="miniusb2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\miniusb2.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="miniburn3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\miniburn3.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="usb2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\usb2.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tuto_cios32" xml:space="preserve">
+    <value>_-_INSTALAR cIOS EN 3.2 o menor_-_ by IsmaelWii
+            
+           Ante todo, se recomienda actualizar con el programa Pimp my Wii, o de forma oficial, y luego seguir con el tutorial con la nueva versión.
+           Si no quieres actualizar, sigue con este tutorial.
+
+
+
+
+1)Haz click en el botón situado a la derecha llamado "Preparar SD (CSD)"
+
+2)Empezará el proceso de instalación
+
+3) Inserta tu SD o lector de tarjetas SD en tu ordenador.
+
+4)Haz click en siguiente hasta que te pregunta donde quieres instalarlo. 
+
+Debes instalarlo en la raíz de tu tarjeta SD, escribiendo o seleccionando la letra de tu SD (K:/, I:/, etc.).
+
+Puedes mirarla en "MI PC" en Windows XP o en "Equipo" en Windows 7 y Windows Vista.
+
+5) Haz click en siguiente. Comenzará la instalación de los archivos. Cuando acabe, asegúrate de que la
+
+casilla "LANZAR CSD ESPECIAL PARA SOFTMODII" esté marcada, y haz click en finalizar.
+
+6)Se te abrirá una pantalla azul, si no es así, ves al escritorio y ejecuta la aplicación llamada CSD.
+
+7)Ahora, saldrá un menú. Pulsa 1 y luego ENTER.  La descarga empezará.
+
+Ten en cuenta que el proceso puede tardar bastantes minutos, depende de tu conexión a internet. Si  el programa
+
+se bloquea o sufre cualquier fallo, por favor, ciérralo y vuélvelo a ejecutar.
+
+8)Cuando acabe, el programa se cerrará. Ahora extrae la SD de tu ordenador y métela en la Wii.
+
+---Instalando el cIOS de Waninkoko (cIOSx rev19)
+
+1)Una vez en el HBC, carga el "Waninkoko cIOS Installer".
+
+2)Antes de nada, verás que pone IOS TO USE DURING INSTALLATION:	 &lt;IOS36&gt;. Si pone eso, pulsa A, si pone otra cosa, como 
+
+&lt;IOS249&gt;, muévete con la cruceta del mando hasta situarte en &lt;IOS36&gt;, y pulsa A. Luego vuelve a pulsar A.
+	
+3)Pondrá &lt;IOS 57 v5661  &gt;, muévete con la cruceta a la izquierda hasta que ponga &lt;IOS38 v3867&gt;. Pulsa A
+	
+4)Asegúrate de que pone WAD Installation, y pulsa A. Asegúrate de que pone Wii SD Slot, y pulsa A.
+	
+5)Empezará el proceso de instalación del cIOS, puede tardar unos minutos.
+	
+6)Cuando acabe, pondrá [SUCCESS]: Custom IOS installed succesfully!!. Pulsa A para salir al HBC.
+
+
+	
+	
+	--Instalando los cIOS de Hermes (Ios 222,223 y 224, ambos v5)
+
+	
+1)Carga el cIOS 222 Installer v5
+	
+2)Pulsa A. Luego selecciona Install Custom IOS222 v65535 (Default) y pulsa A.
+	
+3) Vuelve a pulsar A sobre "Use IOS38 (Recomended). Cargará archivos de la SD.
+	
+4)Cuando acabe, pulsa 1 para instalarlo.
+	
+5)Cuando acabe, volverá al Homebrew Channel.
+	
+6)Carga el cIOS 222 Installer v5 de nuevo.
+	
+7)Pulsa A. Luego selecciona Install Custom IOS223 v65535
+	
+8)Selecciona "Use IOS37" y pulsa A. Cargará archivos de la SD.
+	
+9)Cuando acabe, pulsa 1 para instalarlo.
+	
+10)Cuando acabe, volverá al Homebrew Channel.
+
+	
+11)Carga el cIOS 222 Installer v5 de nuevo.
+	
+12)Pulsa A. Luego selecciona Install Custom IOS224 v65535
+	
+13)Selecciona "Use IOS57" y pulsa A. Cargará archivos de la SD.
+	
+14)Cuando acabe, pulsa 1 para instalarlo.
+	
+15)Cuando acabe, volverá al Homebrew Channel.
+
+
+	
+Ya está, proceso completado. Pasa al siguiente con -SIGUIENTE-.</value>
+    <comment>tutorial ciso 3.2 y menor</comment>
+  </data>
+  <data name="updatecios2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\updatecios2.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="minidvd1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\minidvd1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="guardar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\guardar.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="e" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\e.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EXAMPLE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EXAMPLE.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="load" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\load.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wad3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wad3.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tuto_shop" xml:space="preserve">
+    <value>-_INSTALAR CANAL TIENDA SIN ACTUALIZAR_- by ismaelWii
+
+REQUISITOS:
+Tener el cIOS de Waninkoko instalado.
+
+
+PREPARATIVOS:
+1)Introduce la SD en el ordenador y ejecuta CSD, ya sea desde el acceso directo del escritorio, o abriendo la tarjeta y ejecutándolo.
+2)Pulsa 3 y luego Enter. Empezará la descarga del Canal Tienda e IOS61. Tardará un rato.
+3)Si sale un error o se bloquea, vuelve a ejecutarlo. Cuando acabe, mete la SD en la Wii.
+
+
+PROCESOS:
+1)Carga Softmodii Sciifii Mod
+2)Elige Actualizar Canal Tienda
+3)Espera a que termine.
+4)Cuando termine, volverá al HBC.
+
+FINALIZAR:
+1)Introduce la SD en el ordenador y ejecuta CSD, ya sea desde el acceso directo del escritorio, o abriendo la tarjeta y ejecutándolo.
+2)Pulsa L y luego Enter. Empezará la limpieza de la SD.
+3)Ya está.</value>
+    <comment>tutorial tienda sin actualizar</comment>
+  </data>
+  <data name="miniburn1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\miniburn1.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tuto_uponline" xml:space="preserve">
+    <value>ACTUALIZAR DE FORMA SEGURA CON PIMP MY WII, by danny.ml
+
+(!)ATENCIÓN, USAR ESTE TUTORIAL SI SE DISPONE DE UNA CONEXIÓN WIFI ACTIVA Y CONFIGURADA EN LA CONSOLA WII.
+(!)ATENCIÓN, USAR ESTE TUTORIAL EXCLUSIVAMENTE SI ESTÁS EN UNA VERSIÓN 4.1 O INFERIOR.
+
+Bajamos el programa Pimp my Wii (está en enlaces de interés)
+Antes tendremos que descomprimirlo y pasarlo a la tarjeta SD dentro de apps, como cualquier otra aplicación.
+
+
+1) Seleccionar Pass the test and fix problems.
+2) Presionar "A" si hacemos instalación online, "B" para offline.
+3) Pulsamos siempre A, aceptando lo que nos pongan, menos en los siguientes:
+
+    * ios36 (Installation: yes, Trucha: yes , ES_Identify: yes, resto parches: no)
+    * ios60 (Installation: yes, Trucha: yes , ES_Identify: no, resto parches: no), si pretendemos usar preloader, ES_Identify: yes.
+    * System Menu y Canales: yes
+
+
+4) Si después de la instalación, salimos al HBC y nos encontramos con que está boca abajo, basta con reinstalarlo desde el propio HBC usando hackmii installer.
+
+NOTA: Siempre es posible instalar cualquier ios o canal con la instalación manual. Con esto podremos parchear otro ios, ponerlo sin parchear (original), etc.</value>
+    <comment>tutorial actualizar online</comment>
+  </data>
+  <data name="Folder08-OpenYellow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Folder08-OpenYellow.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hbc11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hbc1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="update1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\update.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images1.jpeg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="usb3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\usb3.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="brick" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\brick.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tuto_error" xml:space="preserve">
+    <value>Atención: Tienes una versión de firmware muy antigua. Para hacer este tutorial, actualiza con algún juego como New Super Mario Bros o cualquier otro para actualizar a una versión superior. No actualices por internet, a no ser que dispongas del juego Lego Indiana Jones, o Smash bros brawl (este último solamente si tu wii es americana).</value>
+    <comment>versión antigua</comment>
+  </data>
+  <data name="tuto_hbc41" xml:space="preserve">
+    <value>_-_TUTORIAL DE INSTALACIÓN DEL HOMEBREW CHANNEL_-_ by IsmaelWii
+        
+        MATERIALES NECESARIOS:
+            -Tarjeta SD
+            -Lector de tarjetas para PC
+        
+        DESCARGAS NECESARIAS:
+            -BannerBomb (En Enlaces de Interés, a la derecha de este cuadro)
+                    Una vez en la página, clica en v1 .
+                    Extrae el contenido del archivo en tu SD para que quede la carpeta PRIVATE en la raíz de la SD
+                    Si ya tenías una carpeta PRIVATE, renómbrala a PRIVATE_1 para no perder tus datos.
+            -HackMii Installer (En Enlaces de Interés)
+                    Haz click en HackMii Installer 0.8 ( o otra si hay nueva versión) y descárgalo.
+                    Descomprime el archivo y pasa el archivo boot.elf a la raíz de la SD.
+        
+        INSTALANDO EL CANAL HOMEBREW Y BOOTMII COMO IOS (Esto último automático):
+        
+-Metemos la SD en la Wii:
+
+-Vamos a Opciones de Wii -&gt; Gestión de datos -&gt; Canales -&gt; Tarjeta SD
+
+-Nos saldrá un mensaje en pantalla que pone Load /boot.dol?. Pulsa Yes
+
+-Saldrá un mensaje en inglés anti-timos. Espera unos segundos, y pulsa 1 cuando lo pida.
+
+(!)Fíjate aquí si todas las frases salen en verde o sale una en rosa diciendo "Can be installed as one variant".
+
+-Seleccionamos Install Homebrew Channel y seguimos las instrucciones. Al acabar, estará instalado.
+
+-No apagues la consola, sigue en el mismo menú
+        
+        
+
+         SOLUCIÓN DE PROBLEMAS:
+            -Cuando elijo YES al ejecutar Bannerbomb, no se carga el programa
+                 Vuelve a la página de BannerBomb y prueba con los otros archivos que están en la tabla más abajo
+            -No me sale el diálogo de Load Boot.dol/.elf?.
+                La misma solución que el anterior problema.
+        
+        -PULSA EL BOTÓN "SIGUIENTE" PARA CONTINUAR</value>
+    <comment>tutorial hbc 4.1 o menor</comment>
+  </data>
+  <data name="tuto_hbc42" xml:space="preserve">
+    <value>_-_TUTORIAL DE INSTALACIÓN DEL HOMEBREW CHANNEL_-_ by IsmaelWii
+        
+        MATERIALES NECESARIOS:
+            -Tarjeta SD
+            -Lector de tarjetas para PC
+        
+        DESCARGAS NECESARIAS:
+            -BannerBomb (En Enlaces de Interés, a la derecha de este cuadro)
+                    Una vez en la página, clica en v2.
+                    Extrae el contenido del archivo en tu SD para que quede la carpeta PRIVATE en la raíz de la SD
+                    Si ya tenías una carpeta PRIVATE, renómbrala a PRIVATE_1 para no perder tus datos.
+            -HackMii Installer (En Enlaces de Interés)
+                    Haz click en HackMii Installer 0.8 ( u otra si hay nueva versión) y descárgalo.
+                    Descomprime el archivo y pasa el archivo boot.elf a la raíz de la SD.
+        
+        INSTALANDO EL CANAL HOMEBREW Y BOOTMII COMO IOS (Esto último automático):
+        
+-Metemos la SD en la Wii:
+
+-Vamos al menú SD del menú de Wii
+
+-Nos saldrá un mensaje en pantalla que pone Load /boot.dol?. Pulsa Yes
+
+-Saldrá el asistente de instalación, si no es así, mira el punto SOLUCIÓN DE PROBLEMAS
+
+-Saldrá un mensaje en inglés anti-timos. Espera unos segundos, y pulsa 1 cuando lo pida.
+
+(!)Fíjate aquí si todas las frases salen en verde o sale una en rosa diciendo "Can be installed as one variant".
+
+-Seleccionamos Install Homebrew Channel y seguimos las instrucciones. Al acabar, estará instalado.
+
+-No apagues la consola, sigue en el mismo menú
+        
+        
+       SOLUCIÓN DE PROBLEMAS:
+-Cuando elijo YES al ejecutar Bannerbomb, no se carga el programa
+                 Vuelve a la página de BannerBomb y prueba con los otros archivos que están en la tabla más abajo
+-No me sale el diálogo de Load Boot.dol/.elf?.
+                La misma solución que el anterior problema.
+        
+        -PULSA EL BOTÓN "SIGUIENTE" PARA CONTINUAR CON EL TUTORIAL</value>
+    <comment>tutorial hbc 4.2</comment>
+  </data>
+  <data name="mensaje_fin_43" xml:space="preserve">
+    <value>No puedes continuar, ya que al estar en la versión 4.3, necesitas un juego para poder instalar el Homebrew Channel o usar cualquier homebrew...</value>
+  </data>
+  <data name="tuto_hbc43_lego" xml:space="preserve">
+    <value>_-_TUTORIAL DE INSTALACIÓN DEL HOMEBREW CHANNEL_-_ by IsmaelWii
+        
+        MATERIALES NECESARIOS:
+            -Tarjeta SD
+            -Lector de tarjetas para PC
+        
+        DESCARGAS NECESARIAS:
+            -Indiana Pwns (En Enlaces de Interés, a la derecha de este cuadro)
+            -HackMii Installer (En Enlaces de Interés)
+                    Haz click en HackMii Installer 0.8 ( u otra si hay nueva versión) y descárgalo.
+                    Descomprime el archivo y pasa el archivo boot.elf a la raíz de la SD.
+        
+        PREPARANDO EL EXPLOIT:
+        
+1)Asegurate de haber jugado unos minutos a Lego Indiana Jones. Si no es así, inicia el juego y crea una partida. Luego, juega hasta terminar el intro del juego, y sal al Menú de Wii.
+
+2)Ves a Configuración de Wii y copia el archivo de guardado de Lego Indiana Jones si quieres conservar los datos de tu partida.
+
+3)En el PC, abre la SD de la Wii y copia a un lugar seguro la carpeta Private/Wii/Title/rliX (Donde x es E, J o P según la región del juego). Si no quieres conservar tu partida anterior, no hace falta que hagas esto.
+
+4)Descomprime el archivo RAR que contiene el INDIANA PWNS, y entra en la carpeta Private/Wii/Title del archivo RAR. Según la región de tu juego , tienes que copiar una u otra carpeta. Si la región es Europea, debes copiar la carpeta RLIP, si es Americana, RLIE, y si es japonés, RLIJ.
+
+Esa carpeta va a la carpeta Private/Wii/title de tu SD,sobreescribiendo a la existente.
+
+5)Introduce la SD en la Wii, ves a gestión de datos, consola, y borra el savegame original de Lego Indiana Jones.
+
+6)Luego, copia el de la SD en la Wii.
+
+	CARGANDO EL EXPLOIT:
+1)Carga el Lego Indiana Jones en la Wii, y carga la partida.
+
+2)Dirígete a la Galería de Arte ("Art Room") y habla con el tipo de la izquierda (hay dos tipos, asi que el de la izquierda).
+
+3)Muévete hasta un objeto que es negro y pulsa A.
+
+        INSTALANDO HOMEBREW CHANNEL Y BOOTMII COMO IOS (Esto último automático):
+
+1)Saldrá un mensaje en inglés anti-timos. Espera unos segundos, y pulsa 1 cuando lo pida.
+
+(!)Fíjate aquí si todas las frases salen en verde o sale una en rosa diciendo "Can be installed as one variant".
+
+2)Seleccionamos Install Homebrew Channel y seguimos las instrucciones. Al acabar, estará instalado.
+
+3)No apagues la consola, sigue en el mismo menú
+        
+        -PULSA EL BOTÓN "SIGUIENTE" PARA CONTINUAR CON EL TUTORIAL</value>
+  </data>
+  <data name="tuto_hbc43_ssbb" xml:space="preserve">
+    <value>_-_TUTORIAL DE INSTALACIÓN DEL HOMEBREW CHANNEL_-_ by IsmaelWii
+        
+        MATERIALES NECESARIOS:
+            -Tarjeta SD
+            -Lector de tarjetas para PC
+        
+        DESCARGAS NECESARIAS:
+            -Smash Stack (En Enlaces de Interés, a la derecha de este cuadro)
+            -HackMii Installer (En Enlaces de Interés)
+                    Haz click en HackMii Installer 0.8 ( o otra si hay nueva versión) y descárgalo.
+                    Descomprime el archivo y pasa el archivo boot.elf a la raíz de la SD.
+        
+        PREPARANDO EL EXPLOIT:
+        
+1)Carga el Smash Bros Brawl, y copia cualquier escenario personalizado a la SD.
+
+2)Metemos la SD en el PC, y cambiamos el nombre de la carpeta "private" a "private_original"
+
+3)Con el Smash Stack que descargaste de Enlaces de Interés, copia el contenido de la carpeta "Esto va en la raíz de la SD" en la raíz de la SD.
+
+4)Mete la SD en la Wii.
+
+	CARGANDO EL EXPLOIT:
+1)Carga el juego Smash Bros Brawl.
+
+2)Ves al Baúl "Vault" y al Editor de Escenarios.
+
+3)Enseguida cargará el exploit.
+
+        INSTALANDO HOMEBREW CHANNEL Y BOOTMII COMO IOS (Esto último automático):
+1)Saldrá un mensaje en inglés anti-timos. Espera unos segundos, y pulsa 1 cuando lo pida.
+
+(!)Fíjate aquí si todas las frases salen en verde o sale una en rosa diciendo "Can be installed as one variant".
+
+2)Seleccionamos Install Homebrew Channel y seguimos las instrucciones. Al acabar, estará instalado.
+
+3)No apagues la consola, sigue en el mismo menú
+        
+        -PULSA EL BOTÓN "SIGUIENTE" PARA CONTINUAR CON EL TUTORIAL</value>
+  </data>
+  <data name="def_systemmenu" xml:space="preserve">
+    <value>System Menu:
+
+Es el menú del Sistema, lo que ves al encender la Wii y que usas para cargar los canales. 
+Carga después de boot2, y si no dispones de una protección como bootmii en boot2 o priiloader, puede causar un brick si lo dañas o si dañas el IOS sobre el que funciona.</value>
+  </data>
+  <data name="tuto_cios43" xml:space="preserve">
+    <value>_-INSTALANDO cIOS en Wii 4.3-_ by ismaelWii
+
+	--Preparando la SD con CSD para Softmodii (victory144):
+
+
+
+1)Haz click en el botón situado a la derecha llamado "Preparar SD (CSD)"
+
+2)Empezará el proceso de instalación
+
+3) Inserta tu SD o lector de tarjetas SD en tu ordenador.
+
+4)Haz click en siguiente hasta que te pregunta donde quieres instalarlo. 
+
+Debes instalarlo en la raíz de tu tarjeta SD, escribiendo o seleccionando la letra de tu SD (K:/, I:/, etc.).
+
+Puedes mirarla en "MI PC" en Windows XP o en "Equipo" en Windows 7 y Windows Vista.
+
+5) Haz click en siguiente. Comenzará la instalación de los archivos. Cuando acabe, asegúrate de que la
+
+casilla "LANZAR CSD ESPECIAL PARA SOFTMODII" esté marcada, y haz click en finalizar.
+
+6)Se te abrirá una pantalla azul, si no es así, ves al escritorio y ejecuta la aplicación llamada CSD.
+
+7)Ahora, pulsa el botón 1 del ordenador y pulsa ENTER. Empezará la descarga. Si el programa se bloquea, 
+
+vuelve a iniciarlo. Ten en cuenta que tardará bastantes minutos, depende de tu conexión a internet.
+
+8)Cuando acabe, el programa se cerrará. Ahora extrae la SD de tu ordenador y métela en la Wii.
+		
+	
+	--Restaurando Bug Trucha
+
+	
+1)Abre el Homebrew Channel y luego carga Trucha Bug Restorer.
+	
+2)Cuando cargue, pulsa B. Espera unos instantes y pulsa 1 cuando te lo pida.
+	
+3)Pulsa sobre "Restore IOS 15" y acepta todo lo que te diga con A. Cuando acabe, volverás al HBC.
+	
+4)Vuelve a cargar el TBR, pulsa B de nuevo, y 1 cuando lo pida.
+	
+5)Pulsa A sobre "INSTALL IOS 41" y pulsa A. Acepta todas las preguntas con A. Cuando acabe, volverás al Homebrew Channel.
+	
+6)Vuelve a cargar el TBR, pero esta vez, nada mas cargar, muévete con la cruceta hasta situarte en IOS41, y pulsa A. Espera, y cuando lo pida, pulsa 1.
+	
+7)Selecciona "Downgrade IOS 15", y pulsa A todas las veces para confirmar las preguntas. Cuando acabe, volverá al HBC.
+	
+8)Vuelve a cargar el TBR, pero esta vez, nada mas cargar, muévete con la cruceta hasta situarte en IOS15, y pulsa A. Espera, y cuando lo pida, pulsa 1.
+	
+9)Sitúate sobre "IOS36 MENU" y pulsa A. Asegúrate de que todas las opciones estén puestas a "YES" (menos la que pone 36), y pulsa A sobre "Install Patched IOS". Acepta todas las preguntas que haga. Cuando acabe, volverás al HBC.
+	
+10)Vuelve a cargar el TBR, pero esta vez, nada mas cargar, selecciona el IOS36, y pulsa A.
+	
+11)Sitúate sobre "Restore IOS 15" y pulsa A. Acepta todas las preguntas con A.  Cuando acabe, volverás al Homebrew Channel.
+
+
+
+        --Borrando los IOS Basura con Dop-IOS Mod
+
+	
+1)Una vez en el HBC, carga el "Dop-IOS MOD"
+	
+2)Cuando cargue, pulsa A.
+	
+3)Vuelve a pulsar A, y luego, cuando ponga IOS successfully loaded!, pulsa A de nuevo.
+	
+4)Muevete por el menú con la cruceta, y selecciona Remove stubbed IOSs. Pulsa A.
+	
+5)Vuelve a pulsar A una vez.
+	
+6)Pulsa A todas las veces que lo pida para quitar los IOS basura. AVISO: Sería recomendable solamente borrar los IOS 222, 223, 249 y 250, ya que aunque no pasa nada si borras los otros, mejor tocar la Wii lo más poco posible.
+          
+Cuando acabe volverás al menú de DOP-IOS.
+	
+7)Pulsa HOME para salir.
+	
+	--Instalando el cIOS de Waninkoko (cIOSx rev19)
+
+1)Una vez en el HBC, carga el "Waninkoko cIOS Installer".
+
+2)Antes de nada, verás que pone IOS TO USE DURING INSTALLATION:	 &lt;IOS36&gt;. Si pone eso, pulsa A, si pone otra cosa, como 
+
+&lt;IOS249&gt;, muévete con la cruceta del mando hasta situarte en &lt;IOS36&gt;, y pulsa A. Luego vuelve a pulsar A.
+	
+3)Pondrá &lt;IOS 57 v5661  &gt;, muévete con la cruceta a la izquierda hasta que ponga &lt;IOS38 v3867&gt;. Pulsa A
+	
+4)Asegúrate de que pone WAD Installation, y pulsa A. Asegúrate de que pone Wii SD Slot, y pulsa A.
+	
+5)Empezará el proceso de instalación del cIOS, puede tardar unos minutos.
+	
+6)Cuando acabe, pondrá [SUCCESS]: Custom IOS installed succesfully!!. Pulsa A para salir al HBC.
+
+	
+	
+	--Instalando los cIOS de Hermes (Ios 222,223 y 224, ambos v5)
+
+	
+1)Carga el cIOS 222 Installer v5
+	
+2)Pulsa A. Luego selecciona Install Custom IOS222 v65535 (Default) y pulsa A.
+	
+3) Vuelve a pulsar A sobre "Use IOS38 (Recomended). Cargará archivos de la SD.
+	
+4)Cuando acabe, pulsa 1 para instalarlo.
+	
+5)Cuando acabe, volverá al Homebrew Channel.
+	
+6)Carga el cIOS 222 Installer v5 de nuevo.
+	
+7)Pulsa A. Luego selecciona Install Custom IOS223 v65535
+	
+8)Selecciona "Use IOS37" y pulsa A. Cargará archivos de la SD.
+	
+9)Cuando acabe, pulsa 1 para instalarlo.
+	
+10)Cuando acabe, volverá al Homebrew Channel.
+
+	
+11)Carga el cIOS 222 Installer v5 de nuevo.
+	
+12)Pulsa A. Luego selecciona Install Custom IOS224 v65535
+	
+13)Selecciona "Use IOS57" y pulsa A. Cargará archivos de la SD.
+	
+14)Cuando acabe, pulsa 1 para instalarlo.
+	
+15)Cuando acabe, volverá al Homebrew Channel.
+
+
+	
+Ya está, proceso completado. Pasa al siguiente con -SIGUIENTE-.</value>
+  </data>
+  <data name="tuto_priiloader_extra" xml:space="preserve">
+    <value>-Tutorial de instalación de PRIILOADER-- ismaelWii &amp; Pajariyo. EOL Wiki.
+
+(!)Atención, puede que el mando no te responda en la instalación. Esto es debido a la ultima version del Homebrew Channel . Si es así, por favor, omite este tutorial.
+
+¿Qué es priiloader?
+
+Priiloader es una útil herramiente que puede cargar antes que el Menú de Wii. De esta forma, se consiguie protección ante bricks sencillos como los Banner Bricks (Canales corruptos), o eliminación de algunos IOS por error. Además, sirve para poner Hacks al Menú de Wii, como mover el canal disco y bloquear actualizaciones. Es MUY Recomendable instalarlo, más si no tienes BootMii en Boot2.
+
+
+
+1-En enlaces de interés, descarga Priiloader.
+2-Una vez descomprimido, copia la carpeta Priiloader a la carpeta Apps de tu SD.
+_--------Instalar Priiloader--------_
+1-En enlaces de interés, descarga Priiloader.
+2-Una vez descomprimido, copia la carpeta Priiloader a la carpeta Apps de tu SD.
+3-Ves al Homebrew Channel y carga "Priiloader"
+4-Una vez cargado, te saldrá un menú negro con precauciones sobre su uso (en inglés).
+5-En el menú, debes pulsar (B) y (+) a la vez en ese menú para proceder a la instalación con IOS249.
+6-Empezará la instalación automática. Puede salir alguna advertencia (WARNING), pero es normal.
+7-Al acabar, saldrá Done!! y volverá al Canal Homebrew
+
+_--------Mostrar Priiloader--------_
+
+Para acceder a Priiloader, debes pulsar el botón Reset en el frontal de la consola inmediatamente después de encenderla, hasta que aparezca el menú principal.
+Para moverte por los menús, puedes usar el mando de Wii o el de Gamecube. En ambos casos, la cruceta es para moverse, A para seleccionar y B para volver al menú anterior.
+
+
+---Uso básico de Priiloader---
+
+Opciones del menú de priiloader:
+
+    * System Menu: Arranca el Menú del Sistema.
+    * Homebrew Channel: Su funcion era arrancar el HBC, pero no funciona con la última versión.
+    * Bootmii IOS: Arranca Bootmii/IOS.
+    * Launch Title: Aparece una lista de los canales instalados para elegir cuál arrancar.Elige Homebrew Channel para cargarlo.
+    * Installed file: Arranca el ejecutable .dol previamente instalado.
+    * Load/Install file: Entra en la pantalla de gestión de los ejecutables .dol.
+    * System Menu Hacks: Entra en la pantalla de gestión de los Hacks (si están instalados).
+    * Set Password: Establece una contraseña para proteger Priiloader y/o el sistema.
+    * Settings: Entra en la pantalla de configuración de las opciones de Priiloader. 
+
+
+
+---Load/Install file---
+
+Esta opción permite copiar a la NAND un ejecutable .dol para su uso con Priiloader. Solo se puede tener copiado en la NAND un .dol a la vez, por lo que para instalar uno nuevo hay que borrar el anterior. Los ejecutables .dol a usar con Priiloader deben colocarse en la raíz de la tarjeta SD.
+
+Al pulsar en esta opción aparece una lista con los ejecutables .dol localizados en la raíz de la tarjeta SD. Se pueden realizar tres acciones:
+
+    * Install file: Pulsando el botón (A) se procede a la instalación en la NAND del .dol seleccionado.
+    * Load file: Pulsando el botón (1) en el WiiMote o el botón (Y) en el mando de GC se procede a la ejecución del .dol seleccionado, para comprobar su funcionamiento antes de instalarlo.
+    * Delete file: Pulsando el botón (2) en el WiiMote o el botón (X) en el mando de GC se procede a la desinstalación del .dol seleccionado, si previamente estaba instalado en la NAND. 
+
+---System Menu Hacks---
+
+
+Los Hacks son utilidades que al ser activadas modifican el comportamiento del Menú del Sistema, permitiendo realizar acciones diferentes a las predeterminadas. Los Hacks varían en función de la región de la consola y la versión del Menú del Sistema.
+
+Al acceder a este menú verás los Hacks que tienes instalados en tu Wii, que por defecto están desactivados (disabled). Pulsa el botón (A) para activar (enabled) o desactivar el hack seleccionado, y pulsa "Save settings" antes de salir para guardar los cambios. 
+
+Vamos a activar unos cuantos que nos servirán para prevenir nuestra Wii de actualizaciones no deseadas:
+
+Lo primero, ves al PC e inserta la SD. Verás una carpeta llamada Hacks. Entra y selecciona la carpeta de la región de tu Wii.
+
+Después, selecciona la versión de tu Wii, y copia el archivo hacks.ini a la raíz de tu SD. Puedes borrar la carpeta llamada hacks.
+
+Inserta la SD en la Wii y carga Priiloader (si no carga, manten pulsado RESET). Luego ves a "System Menu Hacks".
+
+1-Pon el Hack "Skip disc update check"  o "Block disc updates" a enabled. De esta manera, los discos originales no pedirán actualizar.
+2-Pon el Hack "Block Online updates" a enabled. De esta manera, ningún manazas podrá actualizar sin querer por internet.
+3-Opcional: Activa el hack "Region free Channels". Esto hará que puedas usar canales de otras regiones.
+4-Opcional: Activa el hack "Move Disc Channel". Esto te permitirá mover el canal disco presionando A+B en el Wiimote.
+
+
+Hay muchos mas hacks, que varían según la versión. Los que has activado te serán muy utiles, pero puedes activar más a tu gusto.
+
+---Settings---
+
+En este menú podremos cambiar la configuración de Priiloader para adaptarla a nuestras necesidades: 
+
+Vamos a hacer unos cambios básicos:
+1- En Autoboot, cambia la opción de forma que se quede en SystemMenu, si quieres que al encender la Wii sin pulsar RESET cargue el menú de Wii, o HomebrewChannel, si quieres que cargue este al encender la Wii.
+2-Pon la opción "Ignore Standby" en enabled, de esta forma, evitaremos que Nintendo instale actualizaciones en tu Wii al estar en modo Standby.
+3-Por último, pulsa A en "Save Settings", para guardar los ajustes. Pulsa B para volver al menú.
+
+
+---Precauciones---
+(!)Para actualizar Priiloader, simplemente tienes que instalar la nueva versión encima.
+(!)Si por casualidad borras el System Menu (o Menú del Sistema) con Wad Manager o cualquier otra aplicación, causarás un Brick en la Wii y Priiloader dejará de funcionar. Priiloader solo es efectivo con Bricks que no afecten demasiado al System Menu, como Banner Bricks (al instalar WADS corruptos), borrado de un IOS importante, etc.</value>
+  </data>
+</root>
