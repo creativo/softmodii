@@ -1,0 +1,87 @@
+
+       
+      _-_INSTALAR BOOTMII_-_ by IsmaelWii
+
+   
+       BootMii es como un seguro de vida para tu Wii, que te cubre frente a bricks. Según la fecha de fabricación de tu consola, será mas efectivo o menos. De todas formas, es recomendable instalarlo
+            
+          
+            
+            PROCEDAMOS:
+       
+**Si no apagaste la consola después de instalar el HBC, ve directo al paso 3.
+
+**Si usaste BannerBomb (4.2 o menor), vuelve a cargarlo como antes.
+       
+**Si usaste el Lego Indiana Jones (4.3), haz lo mismo que antes (carga partida, Galería de Arte, habla con el tipo de la izquierda, icono negro y dale).
+
+       
+1) Vuelve a cargar el BannerBomb como antes para acceder al HackMii Installer
+       
+2) Cuando se cargue, verás la pantalla del menú. Ahora fíjate en las frases que hay a la derecha en verde.
+       
+3) Si todas las frases estaban en verde, y ponía "Can be Installed", pulsa A (si apagaste la Wii), selecciona "Bootmii..." y luego Install BootMii as Boot2.
+       
+4) Si todas estaban en verde menos una que está en rosa y pone "Can be installed as one variant", apaga la consola y sigue este tutorial mas abajo, donde pone HACER COPIA DE LA MEMORIA DE WII CON BOOTMII/IOS.
+       
+5) Sigue las instrucciones en pantalla, cuando acabe dirá Success, y podrás apagar
+       
+6) Ahora, si podías instalarlo como Boot2, cada vez que enciendas la consola, te saldrá el menú. Con este menú podrás hacer copias de la memoria, restaurarlas, etc... Para ir al menú de Wii pulsa simplemente el botón RESET de tu Wii. Para saber como restaurar la memoria y hacer copias, dirígete al menú Avanzado de arriba, y haz click en USO DE BOOTMII.
+       
+7)Ahora vamos a hacer una copia de la memoria de la Wii por si las moscas.
+
+(!)Si instalaste BootMii como boot2, para evitar que te salga BootMii al encender la consola, renombra la carpeta "Bootmii" de la SD a cualquier otro nombre. Si quieres que vuelva a aparecer, solo tienes que volver a ponerle el nombre de "Bootmii" a esa carpeta.
+            
+            
+    HACER COPIA DE LA MEMORIA DE WII CON BOOTMII/BOOT2 :(Si te salían todas las frases en Verde)
+
+(!)ATENCIÓN: Necesitas al menos una tarjeta de 1GB para poder hacer la copia, ya que el tamaño de la memoria sobrepasa los 512MB.
+       
+1) Apaga la consola Wii
+       
+2) Enciéndela con la tarjeta SD dentro
+       
+3) Te aparecerá un menú con 4 opciones.
+       
+4) Pulsa el botón POWER  de la consola Wii (no del mando) 3 veces hasta llegar al icono que tiene dos engranajes pintados.
+       
+5) Ahora pulsa el botón RESET de la consola
+   
+6) Te aparecerán cuatro iconos, pulsa RESET en el primero para proceder a hacer una copia
+       
+7)Saldrán unos cuadrados que se van rellenando de verde, cuando se rellenen dos veces, ya tendrás la copia hecha por si las moscas.
+       
+8)Pulsa un botón para salir. No te asustes de los bloques negros, todas las Wii tienen
+       
+9) Puedes apagar la consola  dejando pulsado el botón POWER de la Wii durante unos segundos
+            
+(!)SI QUIERES SABER COMO RESTAURAR LA MEMORIA O MÁS SOBRE  EL USO DE BOOTMII, VISITA EL MENÚ AVANZADO,  Y LUEGO -USO DE BOOTMII-
+
+           
+
+   HACER COPIA DE LA MEMORIA DE WII CON BOOTMII/IOS :(Si te salía "Can be installed as one variant".)
+    
+(!)ATENCIÓN: Necesitas al menos una tarjeta de 1GB para poder hacer la copia, ya que el tamaño de la memoria sobrepasa los 512MB.     
+
+1) Ve al Homebrew Channel
+     
+2) Pulsa el Botón Home, y pulsa sobre BootMii
+     
+3) Te aparecerá un menú con 4 opciones.
+     
+4) Pulsa el botón POWER  de la consola Wii (no del mando) 3 veces hasta llegar al icono que tiene dos engranajes pintados.
+     
+5) Ahora pulsa el botón RESET de la consola
+         
+6) Te aparecerán cuatro iconos, pulsa RESET en el primero para proceder a hacer una copia
+     
+7)Saldrán unos cuadrados que se van rellenando de verde, cuando se rellenen dos veces, ya tendrás la copia hecha por si las moscas.
+     
+8)Pulsa un botón para salir. No te asustes de los bloques negros, todas las Wii tienen
+     
+9) Puedes apagar la consola  dejando pulsado el botón POWER de la Wii durante unos segundos
+            
+(!)SI QUIERES SABER COMO RESTAURAR LA MEMORIA O MÁS SOBRE  EL USO DE BOOTMII, VISITA EL MENÚ AVANZADO,  Y LUEGO -USO DE BOOTMII-
+
+            
+            PASO ACABADO. PASA AL SIGUIENTE CON -SIGUIENTE-

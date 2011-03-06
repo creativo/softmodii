@@ -1,0 +1,512 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Softmodii
+</name>
+</assembly>
+<members>
+<member name="P:ismaelWii.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.bootmii_boot2">
+	<summary>
+  Looks up a localized string similar to _-_INSTALAR BOOTMII_-_ by IsmaelWii (Algunas partes by pajariyo)
+
+   
+BootMii es un sistema para Wii desarrollado por el Team Twiizers que proporciona acceso directo al hardware de la consola. En el caso de instalarse como boot2, permite tomar el control de la consola Wii justo después de encenderse y antes de cargar los archivos de sistema, por lo que puede utilizarse incluso cuando el sistema de archivos de la Wii está corrupto. Es la utilidad salvabricks por excelencia, sobre todo cuando se instala co [rest of string was truncated]";.
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.bootmii_ios">
+	<summary>
+  Looks up a localized string similar to _-_INSTALAR BOOTMII_-_ by IsmaelWii (Algunas partes by pajariyo)
+
+   
+BootMii es un sistema para Wii desarrollado por el Team Twiizers que proporciona acceso directo al hardware de la consola. En el caso de instalarse como boot2, permite tomar el control de la consola Wii justo después de encenderse y antes de cargar los archivos de sistema, por lo que puede utilizarse incluso cuando el sistema de archivos de la Wii está corrupto. Es la utilidad salvabricks por excelencia, sobre todo cuando se instala co [rest of string was truncated]";.
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.borrar">
+	<summary>
+  Looks up a localized string similar to .
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.congratulations">
+	<summary>
+  Looks up a localized string similar to Enhorabuena, has acabado el tutorial.
+
+Solución de problemas:
+
+-Al insertar juego original, pide actualizar.
+SOLUCION: Puedes instalar priiloader (Tutoriales extra) y activar el hack para saltarse actualizaciones desde el canal disco.
+
+-El Homebrew Channel se me ve al revés, ¿Qué hago?
+SOLUCION: Reinstálalo como lo instalaste la primera vez, o colocando el boot.elf del instalador en una carpeta dentro de apps, y cargándolo desde el HBC.
+
+-Los USB LOADERS me dan error de cIOS.
+SOLUCION: No habrás  [rest of string was truncated]";.
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.def_boot2">
+	<summary>
+  Looks up a localized string similar to Porción de la memoria que carga antes que el menú de Wii, y que puede servir para prevenir bricks si tiene bug trucha y permite la instalación de Bootmii..
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.def_brick">
+	<summary>
+  Looks up a localized string similar to Literalmente "ladrillo", se denomina así al mal funcionamiento de la consola que impide operar con ella, por lo que se convierte en un ladrillo o pisapapeles. Normalmente suelen producirse por manejar aplicaciones peligrosas sin conocimiento o por la instalación de WADs corruptos o incorrectos, por lo que debes evitar este tipo de prácitcas y ajustarte a las instrucciones de los tutoriales mientras aprendes..
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.def_cios">
+	<summary>
+  Looks up a localized string similar to Es un IOS parcheado (véase IOS), para obtener funciones extra no incluidas en los originales, como cargar desde USB, DVD, mayor velocidad de USB, etc.
+Algunos mezclan IOS para obtener diversas funciones. Todos ellos tienen el bug trucha, que les permite instalar títulos en la Wii sin la firma de Nintnedo.
+.
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.def_cmios">
+	<summary>
+  Looks up a localized string similar to Es como un IOS (véase IOS) que dota a la Wii de las funciones necesarias para reproducir juegos de Gamecube. cMIOS convierte la Wii en una GC, deshabilitando el acceso a todas las funciones exclusivas de Wii, incluso bajando la potencia de su procesador..
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.def_ios">
+	<summary>
+  Looks up a localized string similar to Es la unidad de funcionamiento básica del firmware de la Wii. Para simplificarlo, un IOS vendría a ser un archivo que se carga en el procesador de la Wii y sirve para que un recurso (Un juego, un canal) funcione. Los IOS se instalan en posiciones que van de la 1 a la 255, pudiéndose cargar solo uno a la vez. Por ejemplo, algunos juegos como el Mario Kart usan el IOS26 para funcionar, otros usan el IOS53, etc. Cada IOS se instala y ejecuta de forma independiente de los demás, por lo que no interfieren entre  [rest of string was truncated]";.
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.def_systemmenu">
+	<summary>
+  Looks up a localized string similar to System Menu:
+
+Es el menú del Sistema, lo que ves al encender la Wii y que usas para cargar los canales. 
+Carga después de boot2, y si no dispones de una protección como bootmii en boot2 o priiloader, puede causar un brick si lo dañas o si dañas el IOS sobre el que funciona..
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.def_usbloader">
+	<summary>
+  Looks up a localized string similar to Aplicación homebrew que funciona como cargador de juegos, permitiendo cargar backups que no se pueden lanzar desde el Canal Disco. Los loaders utilizan los cIOS  en lugar de los IOS oficiales para poder cargar backups, por lo que no pueden funcionar sin ellos..
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.def_wad">
+	<summary>
+  Looks up a localized string similar to Un WAD es un archivo de instalación el cual instala contenido en tu Wii, ya sean canales o IOS, System Menus u otros contenidos..
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.mensaje_fin_43">
+	<summary>
+  Looks up a localized string similar to No puedes continuar, ya que al estar en la versión 4.3, necesitas un juego para poder instalar el Homebrew Channel o usar cualquier homebrew....
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.tuto_cboot41">
+	<summary>
+  Looks up a localized string similar to _-INSTALAR CIOS EN 4.1 O MENOR CON cBOOT2-_ by lamateporunyogur
+
+NOTA: SI NO PUEDES HACER ESTE PROCESO, HAZ CLICK EN EL MENÚ CAMBIAR DE ESTE PROGRAMA Y ELIGE INSTALACIÓN ALTERNATIVA.
+
+MATERIAL
+
+    * El "Paquete cBoot2", en Enlaces de interés.
+    * cIOS38 rev14, en enlaces de interés.
+      
+FASE 1 - PC
+Para preparar la Wii necesitaremos los siguientes wads:
+
+    * IOS36-64-v1042.wad
+    * IOS38-64-v3610.wad
+    * IOS38-64-v3867.wad	
+
+1) Descomprime el paquete de archivos y abre la carpeta  [rest of string was truncated]";.
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.tuto_cboot42">
+	<summary>
+  Looks up a localized string similar to _-INSTALAR CIOS EN 4.2 con cBOOT2-_ by lamateporunyogur
+
+NOTA: SI NO PUEDES HACER ESTE PROCESO, HAZ CLICK EN EL MENÚ CAMBIAR DE ESTE PROGRAMA Y ELIGE INSTALACIÓN ALTERNATIVA.
+
+MATERIAL
+
+    * El "Paquete cBoot2", en Enlaces de interés.
+    * cIOS38 rev14, en enlaces de interés.
+      
+
+FASE 1 - PC
+Para preparar la Wii necesitaremos los siguientes wads:
+
+    * IOS249-64-v65280.wad
+    * IOS36-64-v1042.wad
+    * IOS38-64-v3610.wad
+    * IOS38-64-v3867.wad
+    * IOS222-64-v65280.wad
+    * IOS [rest of string was truncated]";.
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.tuto_cios32">
+	<summary>
+  Looks up a localized string similar to _-_INSTALAR cIOS EN 3.2 o menor_-_ by IsmaelWii
+            
+           Ante todo, se recomienda actualizar con el programa Pimp my Wii, o de forma oficial, y luego seguir con el tutorial con la nueva versión.
+           Si no quieres actualizar, sigue con este tutorial.
+
+
+
+
+1)Haz click en el botón situado a la derecha llamado "Preparar SD (CSD)"
+
+2)Empezará el proceso de instalación
+
+3) Inserta tu SD o lector de tarjetas SD en tu ordenador.
+
+4)Haz click en siguiente hasta que te pregunta dond [rest of string was truncated]";.
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.tuto_cios41_csd">
+	<summary>
+  Looks up a localized string similar to _-INSTALANDO cIOS en Wii 4.1-_ by ismaelWii
+
+	--Preparando la SD con CSD para Softmodii (victory144):
+
+
+1)Haz click en el botón situado a la derecha llamado "Preparar SD (CSD)"
+2)Empezará el proceso de instalación
+3) Inserta tu SD o lector de tarjetas SD en tu ordenador.
+4)Haz click en siguiente hasta que te pregunta donde quieres instalarlo. 
+Debes instalarlo en la raíz de tu tarjeta SD, escribiendo o seleccionando la letra de tu SD (K:/, I:/, etc.).
+Puedes mirarla en "MI PC" en Windows XP o en " [rest of string was truncated]";.
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.tuto_cios41_scifii">
+	<summary>
+  Looks up a localized string similar to _-INSTALANDO cIOS en Wii de 4.1 a 3.3-_ by ismaelWii
+
+
+	--Preparando la SD con CSD para Softmodii (victory144):
+
+
+1)Haz click en el botón situado a la derecha llamado "Prep. SD"
+
+2)Se abrirá un instalador. Antes de proseguir, inserta tu SD en tu ordenador.
+
+3)Haz click en siguiente hasta que te pregunta donde quieres instalarlo. 
+
+Debes instalarlo en la raíz de tu tarjeta SD, escribiendo o seleccionando la letra de tu SD (K:/, I:/, etc.).
+
+Puedes mirarla en "MI PC" en Windows XP o en "Equipo"  [rest of string was truncated]";.
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.tuto_cios4133">
+	<summary>
+  Looks up a localized string similar to _-INSTALANDO cIOS en Wii de 4.1 a 3.3-_ by ismaelWii
+
+	--Preparando la SD con CSD para Softmodii (victory144):
+
+
+1)Haz click en el botón situado a la derecha llamado "Preparar SD (CSD)"
+2)Empezará el proceso de instalación
+3) Inserta tu SD o lector de tarjetas SD en tu ordenador.
+4)Haz click en siguiente hasta que te pregunta donde quieres instalarlo. 
+Debes instalarlo en la raíz de tu tarjeta SD, escribiendo o seleccionando la letra de tu SD (K:/, I:/, etc.).
+Puedes mirarla en "MI PC" en Windows  [rest of string was truncated]";.
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.tuto_cios42">
+	<summary>
+  Looks up a localized string similar to _-INSTALANDO cIOS en Wii 4.2-_ by ismaelWii
+
+
+	--Preparando la SD con CSD para Softmodii (victory144):
+
+
+1)Haz click en el botón situado a la derecha llamado "Prep. SD"
+
+2)Se abrirá un instalador. Antes de proseguir, inserta tu SD en tu ordenador.
+
+3)Haz click en siguiente hasta que te pregunta donde quieres instalarlo. 
+
+Debes instalarlo en la raíz de tu tarjeta SD, escribiendo o seleccionando la letra de tu SD (K:/, I:/, etc.).
+
+Puedes mirarla en "MI PC" en Windows XP o en "Equipo" en Window [rest of string was truncated]";.
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.tuto_cios42_csd">
+	<summary>
+  Looks up a localized string similar to _-INSTALANDO cIOS en Wii 4.2-_ by ismaelWii
+
+	--Preparando la SD con CSD para Softmodii (victory144):
+
+
+1)Haz click en el botón situado a la derecha llamado "Preparar SD (CSD)"
+2)Empezará el proceso de instalación
+3) Inserta tu SD o lector de tarjetas SD en tu ordenador.
+4)Haz click en siguiente hasta que te pregunta donde quieres instalarlo. 
+Debes instalarlo en la raíz de tu tarjeta SD, escribiendo o seleccionando la letra de tu SD (K:/, I:/, etc.).
+Puedes mirarla en "MI PC" en Windows XP o en " [rest of string was truncated]";.
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.tuto_cios42_scifii">
+	<summary>
+  Looks up a localized string similar to _-INSTALANDO cIOS en Wii 4.2-_ by ismaelWii
+
+
+	--Preparando la SD con CSD para Softmodii (victory144):
+
+
+1)Haz click en el botón situado a la derecha llamado "Prep. SD"
+
+2)Se abrirá un instalador. Antes de proseguir, inserta tu SD en tu ordenador.
+
+3)Haz click en siguiente hasta que te pregunta donde quieres instalarlo. 
+
+Debes instalarlo en la raíz de tu tarjeta SD, escribiendo o seleccionando la letra de tu SD (K:/, I:/, etc.).
+
+Puedes mirarla en "MI PC" en Windows XP o en "Equipo" en Window [rest of string was truncated]";.
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.tuto_cios43">
+	<summary>
+  Looks up a localized string similar to _-INSTALANDO cIOS en Wii 4.3-_ by ismaelWii
+
+
+	--Preparando la SD con CSD para Softmodii (victory144):
+
+
+1)Haz click en el botón situado a la derecha llamado "Prep. SD"
+
+2)Se abrirá un instalador. Antes de proseguir, inserta tu SD en tu ordenador.
+
+3)Haz click en siguiente hasta que te pregunta donde quieres instalarlo. 
+
+Debes instalarlo en la raíz de tu tarjeta SD, escribiendo o seleccionando la letra de tu SD (K:/, I:/, etc.).
+
+Puedes mirarla en "MI PC" en Windows XP o en "Equipo" en Window [rest of string was truncated]";.
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.tuto_error">
+	<summary>
+  Looks up a localized string similar to Atención: Tienes una versión de firmware muy antigua. Para hacer este tutorial, actualiza con algún juego como New Super Mario Bros o cualquier otro para actualizar a una versión superior. No actualices por internet, a no ser que dispongas del juego Lego Indiana Jones, o Smash bros brawl (este último solamente si tu wii es americana)..
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.tuto_grabar">
+	<summary>
+  Looks up a localized string similar to _-GRABACIÓN DE JUEGOS _ by IsmaelWii
+            
+            DESCARGAS:
+                -ImgBurn (En sección Enlaces de Interés)
+            
+            VAMOS A GRABAR:
+            1) Descarga el programa e instálalo
+            2) Una vez hecho, ejecútalo
+
+
+            3) Selecciona WRITE IMAGE FILE TO DISC
+            4) Después, en la barra de Arriba, selecciona Tools y Drive
+            5) Selecciona Change Book Type..
+            6) Selecciona la marca de tu grabadora
+            7) En  [rest of string was truncated]";.
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.tuto_hbc">
+	<summary>
+  Looks up a localized string similar to .
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.tuto_hbc41">
+	<summary>
+  Looks up a localized string similar to _-_TUTORIAL DE INSTALACIÓN DEL HOMEBREW CHANNEL_-_ by IsmaelWii (Algunas partes by pajariyo)
+
+El HackMii Installer es una aplicación homebrew gratuita para Wii creada por el Team Twiizers, que permite instalar diversas utilidades en la consola, en concreto el Canal Homebrew y BootMii. Para ello se vale de distintos exploits, que permiten cargar código sin firmar en la consola.
+        
+        MATERIALES NECESARIOS:
+            -Tarjeta SD de 2Gb o menos.
+            -Lector de tarjetas SD para PC.
+  [rest of string was truncated]";.
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.tuto_hbc42">
+	<summary>
+  Looks up a localized string similar to _-_TUTORIAL DE INSTALACIÓN DEL HOMEBREW CHANNEL_-_ by IsmaelWii (Algunas partes by pajariyo)
+
+El HackMii Installer es una aplicación homebrew gratuita para Wii creada por el Team Twiizers, que permite instalar diversas utilidades en la consola, en concreto el Canal Homebrew y BootMii. Para ello se vale de distintos exploits, que permiten cargar código sin firmar en la consola.
+        
+        MATERIALES NECESARIOS:
+            -Tarjeta SD de 2Gb o menos ( +1Gb recomendado)
+            -Lector de tarj [rest of string was truncated]";.
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.tuto_hbc43_lego">
+	<summary>
+  Looks up a localized string similar to _-_TUTORIAL DE INSTALACIÓN DEL HOMEBREW CHANNEL_-_ by IsmaelWii (Algunas partes by pajariyo)
+
+El HackMii Installer es una aplicación homebrew gratuita para Wii creada por el Team Twiizers, que permite instalar diversas utilidades en la consola, en concreto el Canal Homebrew y BootMii. Para ello se vale de distintos exploits, que permiten cargar código sin firmar en la consola.
+        
+        MATERIALES NECESARIOS:
+            -Tarjeta SD de 2Gb o menor (+1Gb recomendado)
+            -Lector de tarje [rest of string was truncated]";.
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.tuto_hbc43_ssbb">
+	<summary>
+  Looks up a localized string similar to _-_TUTORIAL DE INSTALACIÓN DEL HOMEBREW CHANNEL_-_ by IsmaelWii
+
+El HackMii Installer es una aplicación homebrew gratuita para Wii creada por el Team Twiizers, que permite instalar diversas utilidades en la consola, en concreto el Canal Homebrew y BootMii. Para ello se vale de distintos exploits, que permiten cargar código sin firmar en la consola.
+        
+        MATERIALES NECESARIOS:
+            -Tarjeta SD de 2Gb o menos ( +1Gb recomendado).
+            -Lector de tarjetas para PC
+        
+     [rest of string was truncated]";.
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.tuto_hbc43_ygh">
+	<summary>
+  Looks up a localized string similar to _-_TUTORIAL DE INSTALACIÓN DEL HOMEBREW CHANNEL_-_ by IsmaelWii (Algunas partes by pajariyo)
+
+El HackMii Installer es una aplicación homebrew gratuita para Wii creada por el Team Twiizers, que permite instalar diversas utilidades en la consola, en concreto el Canal Homebrew y BootMii. Para ello se vale de distintos exploits, que permiten cargar código sin firmar en la consola.
+        
+        MATERIALES NECESARIOS:
+            -Tarjeta SD de 2Gb o menos (Recomendado +1Gb)
+            -Lector de tarje [rest of string was truncated]";.
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.tuto_neogamma">
+	<summary>
+  Looks up a localized string similar to _-Instalación de Neogamma-_ by ismaelWii
+            
+            REQUISITOS:
+                -Haber completado los pasos anteriores.
+                
+                
+           INSTALANDO NEOGAMMA:
+
+	1)Carga el HBC, y elige Softmodii Scifii Mod. Cárgalo.
+
+        2)Cuando cargue, elige "Instalar Canal Neogamma".
+
+	3)Instalará el canal. Cuando termine, volverá al HBC.
+
+	4)Ves al menú de Wii y tendrás el canal instalado. Parece un canal disco normal pero no lo es, ya que este carga copias.
+
+ [rest of string was truncated]";.
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.tuto_precauciones">
+	<summary>
+  Looks up a localized string similar to _----PRECAUCIONES SOBRE BRICKS----_ by ismaelWii
+
+_-PRECAUCIONES SOBRE IOS Y SYSTEM MENU-_
+
+Todas las aplicaciones funcionan sobre un IOS, que es como un Sistema Operativo. 
+Incluso el System Menu funciona sobre un IOS. El System Menu es el menú de Wii que ves al encender la consola. Si deja de funcionar, obtendrás un brick. Se puede obtener un brick de distintas maneras:
+1-Borrando el System Menu, a través de Wad Manager o de aplicaciones como Any Title Deleter.
+
+2-Borrando el IOS usado por el Syst [rest of string was truncated]";.
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.tuto_priiloader">
+	<summary>
+  Looks up a localized string similar to -Tutorial de instalación de PRIILOADER-- ismaelWii &amp; Pajariyo. EOL Wiki.
+
+
+¿Qué es priiloader?
+
+Priiloader es una útil herramiente que puede cargar antes que el Menú de Wii. De esta forma, se consiguie protección ante bricks sencillos como los Banner Bricks (Canales corruptos), o eliminación de algunos IOS por error. Además, sirve para poner Hacks al Menú de Wii, como mover el canal disco y bloquear actualizaciones. Es MUY Recomendable instalarlo, más si no tienes BootMii en Boot2.
+
+
+_--------Instal [rest of string was truncated]";.
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.tuto_priiloader_extra">
+	<summary>
+  Looks up a localized string similar to -Tutorial de instalación de PRIILOADER-- ismaelWii &amp; Pajariyo. EOL Wiki.
+
+
+
+¿Qué es priiloader?
+
+Priiloader es una útil herramiente que puede cargar antes que el Menú de Wii. De esta forma, se consiguie protección ante bricks sencillos como los Banner Bricks (Canales corruptos), o eliminación de algunos IOS por error. Además, sirve para poner Hacks al Menú de Wii, como mover el canal disco y bloquear actualizaciones. Es MUY Recomendable instalarlo, más si no tienes BootMii en Boot2.
+
+
+
+1-En enlace [rest of string was truncated]";.
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.tuto_shop">
+	<summary>
+  Looks up a localized string similar to -_INSTALAR CANAL TIENDA SIN ACTUALIZAR_- by ismaelWii
+
+REQUISITOS:
+Tener el cIOS de Waninkoko instalado.
+
+
+PREPARATIVOS:
+1)Introduce la SD en el ordenador y ejecuta CSD, ya sea desde el acceso directo del escritorio, o abriendo la tarjeta y ejecutándolo.
+2)Pulsa 3 y luego Enter. Empezará la descarga del Canal Tienda e IOS61. Tardará un rato.
+3)Si sale un error o se bloquea, vuelve a ejecutarlo. Cuando acabe, mete la SD en la Wii.
+
+
+PROCESOS:
+1)Carga Softmodii Sciifii Mod
+2)Elige Actualizar Can [rest of string was truncated]";.
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.tuto_updatecios">
+	<summary>
+  Looks up a localized string similar to _-ACTUALIZANDO cIOS 249 y 250 A LA ÚLTIMA VERSIÓN-_
+
+-Preparativos
+
+
+1-Pulsa en Enlaces de Interes, y luego en cIOS rev19
+
+2-Descarga el archivo y descomprime la carpeta "cIOS19 a tu escritorio.
+
+3-Abre tu SD y copia la carpeta "cIOS19" que pusimos en el escritorio, a dentro de la carpeta Apps de tu SD.
+
+
+-Instalación
+
+1)Carga el HBC,  y carga el "Waninkoko cIOS Installer".
+
+2)Antes de nada, verás que pone IOS TO USE DURING INSTALLATION:	 &lt;IOS36&gt;. Si pone eso, pulsa A, si pone otra cosa, com [rest of string was truncated]";.
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.tuto_uponline">
+	<summary>
+  Looks up a localized string similar to ACTUALIZAR DE FORMA SEGURA CON PIMP MY WII, by danny.ml
+
+(!)ATENCIÓN, USAR ESTE TUTORIAL SI SE DISPONE DE UNA CONEXIÓN WIFI ACTIVA Y CONFIGURADA EN LA CONSOLA WII.
+(!)ATENCIÓN, USAR ESTE TUTORIAL EXCLUSIVAMENTE SI ESTÁS EN UNA VERSIÓN 4.1 O INFERIOR.
+
+Bajamos el programa Pimp my Wii (está en enlaces de interés)
+Antes tendremos que descomprimirlo y pasarlo a la tarjeta SD dentro de apps, como cualquier otra aplicación.
+
+
+1) Seleccionar Pass the test and fix problems.
+2) Presionar "A" si hacemos ins [rest of string was truncated]";.
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.tuto_usbloader">
+	<summary>
+  Looks up a localized string similar to AVISO IMPORTANTE:
+            
+Antes de nada tienes que decidir una cosa: Qué formato usar para jugar
+a tus backups.
+ 
+Como sabrás, los discos duros o pendrives llevan un formato, ya sea
+FAT32, FAT, NTFS, etc. 
+
+En este tutorial vamos a usar el formato FAT32, que es el 
+más cómodo y fácil.
+Pero debes saber que existe otro formato especialmente diseñado para
+este propósito, y es el WBFS. WBFS tiene la ventaja de que es compatible con más USB Loaders,
+y que  es un poco más rápido, pero tiene la gr [rest of string was truncated]";.
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.tuto_wadmanager">
+	<summary>
+  Looks up a localized string similar to _-INSTALACIÓN Y USO DE WAD MANAGER-_ by ismaelWii
+
+¿Qué es WAD Manager? 
+Wad Manager es una aplicación para Wii que te permite instalar WADS. Los WAD's son paquetes para Wii que contienen o bien canet ales o bien IOS o SystemMenu.
+
+¿Qué riesgos tiene?
+Pues que pueden causar un brick si las imágenes de esos canales están corruptas. Hay mas riesgos que verás en la sección de precauciones.
+
+_-Instalando el programa-_
+
+Ves a Enlaces de Interés, y descarga WADManagerGui.
+2-Descomprime el archivo en el [rest of string was truncated]";.
+</summary>
+</member><member name="P:ismaelWii.My.Resources.Resources.tuto_wbfs">
+	<summary>
+  Looks up a localized string similar to _-_FORMATEAR Y AÑADIR JUEGOS A UN DISPOSITIVO WBFS_-_ by IsmaelWii
+        
+DESCARGAS:
+           
+-Wii Backup Manager (Enlaces de Interés)
+        
+          
+          
+          
+        USANDO EL WII BACKUP MANAGER PARA WBFS:
+
+        1)  Inserta tu HDD o Pendrive en tu PC y ejecuta el 
+        Wii Backup Manager.Selecciona "Tools" y "Format Drive".
+	2)En DRIVE, elije la unidad del Pendrive o HDD.	
+	3) En NEW FILE SYSTEM, elije WBFS y dale a aceptar. 
+
+            BORRARÁ TODO LO QUE TEN [rest of string was truncated]";.
+</summary>
+</member><member name="T:ismaelWii.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

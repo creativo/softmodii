@@ -1,0 +1,39 @@
+ _-_TUTORIAL DE INSTALACIÓN DEL HOMEBREW CHANNEL_-_ by IsmaelWii
+        
+        MATERIALES NECESARIOS:
+            -Tarjeta SD
+            -Lector de tarjetas para PC
+        
+        DESCARGAS NECESARIAS:
+            -Smash Stack (En Enlaces de Interés, a la derecha de este cuadro)
+            -HackMii Installer (En Enlaces de Interés)
+                    Haz click en HackMii Installer 0.8 ( o otra si hay nueva versión) y descárgalo.
+                    Descomprime el archivo y pasa el archivo boot.elf a la raíz de la SD.
+        
+        PREPARANDO EL EXPLOIT:
+        
+1)Carga el Smash Bros Brawl, y copia cualquier escenario personalizado a la SD.
+
+2)Metemos la SD en el PC, y cambiamos el nombre de la carpeta "private" a "private_original"
+
+3)Con el Smash Stack que descargaste de Enlaces de Interés, copia el contenido de la carpeta "Esto va en la raíz de la SD" en la raíz de la SD.
+
+4)Mete la SD en la Wii.
+
+	CARGANDO EL EXPLOIT:
+1)Carga el juego Smash Bros Brawl.
+
+2)Ves al Baúl "Vault" y al Editor de Escenarios.
+
+3)Enseguida cargará el exploit.
+
+        INSTALANDO HOMEBREW CHANNEL Y BOOTMII COMO IOS (Esto último automático):
+1)Saldrá un mensaje en inglés anti-timos. Espera unos segundos, y pulsa 1 cuando lo pida.
+
+(!)Fíjate aquí si todas las frases salen en verde o sale una en rosa diciendo "Can be installed as one variant".
+
+2)Seleccionamos Install Homebrew Channel y seguimos las instrucciones. Al acabar, estará instalado.
+
+3)No apagues la consola, sigue en el mismo menú
+        
+        -PULSA EL BOTÓN "SIGUIENTE" PARA CONTINUAR CON EL TUTORIAL

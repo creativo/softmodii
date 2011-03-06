@@ -1,0 +1,282 @@
+C:\Users\FamiliaRodriguez\Desktop\Softmodii\Softmodii.exe.config
+C:\Users\FamiliaRodriguez\Desktop\Softmodii\Softmodii.exe.manifest
+C:\Users\FamiliaRodriguez\Desktop\Softmodii\Softmodii.application
+C:\Users\FamiliaRodriguez\Desktop\Softmodii\Softmodii.exe
+C:\Users\FamiliaRodriguez\Desktop\Softmodii\Softmodii.pdb
+C:\Users\FamiliaRodriguez\Desktop\Softmodii\Softmodii.xml
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2008\Projects\Wii\Wii\obj\Release\ResolveAssemblyReference.cache
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2008\Projects\Wii\Wii\obj\Release\ismaelWii.Softmodii.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2008\Projects\Wii\Wii\obj\Release\ismaelWii.dlgSerial.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2008\Projects\Wii\Wii\obj\Release\ismaelWii.frmUpdating.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2008\Projects\Wii\Wii\obj\Release\ismaelWii.frmConfiguracion.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2008\Projects\Wii\Wii\obj\Release\ismaelWii.frmUpdate.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2008\Projects\Wii\Wii\obj\Release\ismaelWii.frmGuardar.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2008\Projects\Wii\Wii\obj\Release\ismaelWii.frmVocabulario.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2008\Projects\Wii\Wii\obj\Release\ismaelWii.frmEmuladores.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2008\Projects\Wii\Wii\obj\Release\ismaelWii.frmExtras.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2008\Projects\Wii\Wii\obj\Release\ismaelWii.frmTutoriales.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2008\Projects\Wii\Wii\obj\Release\ismaelWii.frmImprimir.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2008\Projects\Wii\Wii\obj\Release\ismaelWii.frmCodigos.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2008\Projects\Wii\Wii\obj\Release\ismaelWii.frmActualizar.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2008\Projects\Wii\Wii\obj\Release\ismaelWii.frmEnlaces.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2008\Projects\Wii\Wii\obj\Release\ismaelWii.frmAbout.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2008\Projects\Wii\Wii\obj\Release\ismaelWii.frmOrganizacion.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2008\Projects\Wii\Wii\obj\Release\ismaelWii.frmBootMii.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2008\Projects\Wii\Wii\obj\Release\ismaelWii.frmAyuda.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2008\Projects\Wii\Wii\obj\Release\ismaelWii.frmDebug.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2008\Projects\Wii\Wii\obj\Release\ismaelWii.Resources.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2008\Projects\Wii\Wii\obj\Release\ismaelWii.SplashScreen1.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2008\Projects\Wii\Wii\obj\Release\Wii.vbproj.GenerateResource.Cache
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2008\Projects\Wii\Wii\obj\Release\Softmodii.exe.manifest
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2008\Projects\Wii\Wii\obj\Release\Softmodii.application
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2008\Projects\Wii\Wii\obj\Release\Softmodii.exe
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2008\Projects\Wii\Wii\obj\Release\Softmodii.xml
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2008\Projects\Wii\Wii\obj\Release\Softmodii.pdb
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2010\Projects\Wii\Wii\obj\Release\Softmodii.exe
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2010\Projects\Wii\Wii\obj\Release\Softmodii.xml
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2010\Projects\Wii\Wii\obj\Release\Softmodii.pdb
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2010\Projects\Wii\Wii\obj\Release\ResolveAssemblyReference.cache
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2010\Projects\Wii\Wii\obj\Release\ismaelWii.Softmodii.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2010\Projects\Wii\Wii\obj\Release\ismaelWii.dlgSerial.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2010\Projects\Wii\Wii\obj\Release\ismaelWii.frmUpdating.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2010\Projects\Wii\Wii\obj\Release\ismaelWii.frmConfiguracion.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2010\Projects\Wii\Wii\obj\Release\ismaelWii.frmUpdate.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2010\Projects\Wii\Wii\obj\Release\ismaelWii.frmGuardar.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2010\Projects\Wii\Wii\obj\Release\ismaelWii.frmVocabulario.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2010\Projects\Wii\Wii\obj\Release\ismaelWii.frmEmuladores.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2010\Projects\Wii\Wii\obj\Release\ismaelWii.frmExtras.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2010\Projects\Wii\Wii\obj\Release\ismaelWii.frmTutoriales.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2010\Projects\Wii\Wii\obj\Release\ismaelWii.frmImprimir.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2010\Projects\Wii\Wii\obj\Release\ismaelWii.frmCodigos.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2010\Projects\Wii\Wii\obj\Release\ismaelWii.frmActualizar.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2010\Projects\Wii\Wii\obj\Release\ismaelWii.frmEnlaces.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2010\Projects\Wii\Wii\obj\Release\ismaelWii.frmAbout.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2010\Projects\Wii\Wii\obj\Release\ismaelWii.frmOrganizacion.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2010\Projects\Wii\Wii\obj\Release\ismaelWii.frmBootMii.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2010\Projects\Wii\Wii\obj\Release\ismaelWii.frmAyuda.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2010\Projects\Wii\Wii\obj\Release\ismaelWii.frmDebug.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2010\Projects\Wii\Wii\obj\Release\ismaelWii.Resources.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2010\Projects\Wii\Wii\obj\Release\ismaelWii.SplashScreen1.resources
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2010\Projects\Wii\Wii\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2010\Projects\Wii\Wii\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2010\Projects\Wii\Wii\obj\Release\Softmodii.exe.manifest
+C:\Users\FamiliaRodriguez\Documents\Visual Studio 2010\Projects\Wii\Wii\obj\Release\Softmodii.application
+C:\Users\Isma\Desktop\Softmodii\Softmodii.exe.config
+C:\Users\Isma\Desktop\Softmodii\Softmodii.exe.manifest
+C:\Users\Isma\Desktop\Softmodii\Softmodii.application
+C:\Users\Isma\Desktop\Softmodii\Softmodii.exe
+C:\Users\Isma\Desktop\Softmodii\Softmodii.pdb
+C:\Users\Isma\Desktop\Softmodii\Softmodii.xml
+C:\Users\Isma\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Isma\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.Softmodii.resources
+C:\Users\Isma\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.dlgSerial.resources
+C:\Users\Isma\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmExtendido.resources
+C:\Users\Isma\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmUpdating.resources
+C:\Users\Isma\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmConfiguracion.resources
+C:\Users\Isma\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmUpdate.resources
+C:\Users\Isma\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmGuardar.resources
+C:\Users\Isma\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmVocabulario.resources
+C:\Users\Isma\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmEmuladores.resources
+C:\Users\Isma\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmExtras.resources
+C:\Users\Isma\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmTutoriales.resources
+C:\Users\Isma\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmImprimir.resources
+C:\Users\Isma\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmActualizar.resources
+C:\Users\Isma\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmEnlaces.resources
+C:\Users\Isma\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmAbout.resources
+C:\Users\Isma\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmOrganizacion.resources
+C:\Users\Isma\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmBootMii.resources
+C:\Users\Isma\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmAyuda.resources
+C:\Users\Isma\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmDebug.resources
+C:\Users\Isma\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.Resources.resources
+C:\Users\Isma\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.SplashScreen1.resources
+C:\Users\Isma\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\Wii.vbproj.GenerateResource.Cache
+C:\Users\Isma\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\Softmodii.exe.manifest
+C:\Users\Isma\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\Softmodii.application
+C:\Users\Isma\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\Softmodii.exe
+C:\Users\Isma\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\Softmodii.xml
+C:\Users\Isma\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\Softmodii.pdb
+C:\Users\Isma\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmCargar.resources
+C:\Users\Isma\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmFinal.resources
+C:\Users\FamiliaRodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\Softmodii.exe
+C:\Users\FamiliaRodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\Softmodii.xml
+C:\Users\FamiliaRodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\Softmodii.pdb
+C:\Users\Isma\Documents\Principal\Softmodii\Softmodii.exe.config
+C:\Users\FamiliaRodriguez\Documents\Principal\Softmodii\Softmodii.exe.config
+C:\Users\Isma\Documents\Principal\Softmodii\Softmodii.exe.manifest
+C:\Users\Isma\Documents\Principal\Softmodii\Softmodii.application
+C:\Users\Isma\Documents\Principal\Softmodii\Softmodii.exe
+C:\Users\Isma\Documents\Principal\Softmodii\Softmodii.pdb
+C:\Users\Isma\Documents\Principal\Softmodii\Softmodii.xml
+C:\Users\FamiliaRodriguez\Documents\Principal\Softmodii\Softmodii.exe.manifest
+C:\Users\FamiliaRodriguez\Documents\Principal\Softmodii\Softmodii.application
+C:\Users\FamiliaRodriguez\Documents\Principal\Softmodii\Softmodii.exe
+C:\Users\FamiliaRodriguez\Documents\Principal\Softmodii\Softmodii.pdb
+C:\Users\FamiliaRodriguez\Documents\Principal\Softmodii\Softmodii.xml
+C:\Users\FamiliaRodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ResolveAssemblyReference.cache
+C:\Users\FamiliaRodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.Softmodii.resources
+C:\Users\FamiliaRodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.dlgSerial.resources
+C:\Users\FamiliaRodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmExploit.resources
+C:\Users\FamiliaRodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmCargar.resources
+C:\Users\FamiliaRodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmExtendido.resources
+C:\Users\FamiliaRodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmFinal.resources
+C:\Users\FamiliaRodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmUpdating.resources
+C:\Users\FamiliaRodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmConfiguracion.resources
+C:\Users\FamiliaRodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmUpdate.resources
+C:\Users\FamiliaRodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmGuardar.resources
+C:\Users\FamiliaRodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmVocabulario.resources
+C:\Users\FamiliaRodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmEmuladores.resources
+C:\Users\FamiliaRodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmExtras.resources
+C:\Users\FamiliaRodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmTutoriales.resources
+C:\Users\FamiliaRodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmImprimir.resources
+C:\Users\FamiliaRodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmActualizar.resources
+C:\Users\FamiliaRodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmEnlaces.resources
+C:\Users\FamiliaRodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmAbout.resources
+C:\Users\FamiliaRodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmOrganizacion.resources
+C:\Users\FamiliaRodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmBootMii.resources
+C:\Users\FamiliaRodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmAyuda.resources
+C:\Users\FamiliaRodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmDebug.resources
+C:\Users\FamiliaRodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.Resources.resources
+C:\Users\FamiliaRodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.SplashScreen1.resources
+C:\Users\FamiliaRodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\Wii.vbproj.GenerateResource.Cache
+C:\Users\FamiliaRodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\Softmodii.exe.manifest
+C:\Users\FamiliaRodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\Softmodii.application
+C:\Users\Isma\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmExploit.resources
+C:\Users\FamiliaRodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.f.resources
+C:\Users\Famrodriguez\Documents\Principal\Softmodii\Softmodii.exe.config
+C:\Users\Famrodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\Softmodii.exe
+C:\Users\Famrodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\Softmodii.xml
+C:\Users\Famrodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\Softmodii.pdb
+C:\Users\Famrodriguez\Documents\Principal\Softmodii\Softmodii.exe.manifest
+C:\Users\Famrodriguez\Documents\Principal\Softmodii\Softmodii.application
+C:\Users\Famrodriguez\Documents\Principal\Softmodii\Softmodii.exe
+C:\Users\Famrodriguez\Documents\Principal\Softmodii\Softmodii.pdb
+C:\Users\Famrodriguez\Documents\Principal\Softmodii\Softmodii.xml
+C:\Users\Famrodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Famrodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.Softmodii.resources
+C:\Users\Famrodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.dlgSerial.resources
+C:\Users\Famrodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmExploit.resources
+C:\Users\Famrodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmCargar.resources
+C:\Users\Famrodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmExtendido.resources
+C:\Users\Famrodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmFinal.resources
+C:\Users\Famrodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmUpdating.resources
+C:\Users\Famrodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmConfiguracion.resources
+C:\Users\Famrodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmUpdate.resources
+C:\Users\Famrodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmGuardar.resources
+C:\Users\Famrodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmVocabulario.resources
+C:\Users\Famrodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmEmuladores.resources
+C:\Users\Famrodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmExtras.resources
+C:\Users\Famrodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmTutoriales.resources
+C:\Users\Famrodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmImprimir.resources
+C:\Users\Famrodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmActualizar.resources
+C:\Users\Famrodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmEnlaces.resources
+C:\Users\Famrodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmAbout.resources
+C:\Users\Famrodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmOrganizacion.resources
+C:\Users\Famrodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmAyuda.resources
+C:\Users\Famrodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmDebug.resources
+C:\Users\Famrodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.Resources.resources
+C:\Users\Famrodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.SplashScreen1.resources
+C:\Users\Famrodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\Wii.vbproj.GenerateResource.Cache
+C:\Users\Famrodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\Softmodii.exe.manifest
+C:\Users\Famrodriguez\Documents\My Dropbox\SMii\Wii\Wii\obj\Release\Softmodii.application
+C:\Users\Famrodriguez\Documents\Ismael\SoftModii\Softmodii.exe.config
+C:\Users\Famrodriguez\Documents\Ismael\SoftModii\Softmodii.exe.manifest
+C:\Users\Famrodriguez\Documents\Ismael\SoftModii\Softmodii.application
+C:\Users\Famrodriguez\Documents\Ismael\SoftModii\Softmodii.exe
+C:\Users\Famrodriguez\Documents\Ismael\SoftModii\Softmodii.pdb
+C:\Users\Famrodriguez\Documents\Ismael\SoftModii\Softmodii.xml
+C:\Users\Famrodriguez\Desktop\Softmodii.exe.config
+C:\Users\Famrodriguez\Desktop\Softmodii.exe.manifest
+C:\Users\Famrodriguez\Desktop\Softmodii.application
+C:\Users\Famrodriguez\Desktop\Softmodii.exe
+C:\Users\Famrodriguez\Desktop\Softmodii.pdb
+C:\Users\Famrodriguez\Desktop\Softmodii.xml
+C:\Users\Famrodriguez\Desktop\Softmodii\Softmodii.exe.config
+C:\Users\Famrodriguez\Desktop\Softmodii\Softmodii.exe.manifest
+C:\Users\Famrodriguez\Desktop\Softmodii\Softmodii.application
+C:\Users\Famrodriguez\Desktop\Softmodii\Softmodii.exe
+C:\Users\Famrodriguez\Desktop\Softmodii\Softmodii.pdb
+C:\Users\Famrodriguez\Desktop\Softmodii\Softmodii.xml
+C:\Users\Desktop\Softmodii\Softmodii.exe.config
+C:\Users\isma\Dropbox\SMii\Wii\Wii\obj\Release\Softmodii.exe
+C:\Users\isma\Dropbox\SMii\Wii\Wii\obj\Release\Softmodii.xml
+C:\Users\isma\Dropbox\SMii\Wii\Wii\obj\Release\Softmodii.pdb
+C:\Users\Desktop\Softmodii\Softmodii.exe.manifest
+C:\Users\Desktop\Softmodii\Softmodii.application
+C:\Users\Desktop\Softmodii\Softmodii.exe
+C:\Users\Desktop\Softmodii\Softmodii.pdb
+C:\Users\Desktop\Softmodii\Softmodii.xml
+C:\Users\isma\Dropbox\SMii\Wii\Wii\obj\Release\ResolveAssemblyReference.cache
+C:\Users\isma\Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.Softmodii.resources
+C:\Users\isma\Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmExploit.resources
+C:\Users\isma\Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmCargar.resources
+C:\Users\isma\Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmFinal.resources
+C:\Users\isma\Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmUpdating.resources
+C:\Users\isma\Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmGuardar.resources
+C:\Users\isma\Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmVocabulario.resources
+C:\Users\isma\Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmImprimir.resources
+C:\Users\isma\Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmEnlaces.resources
+C:\Users\isma\Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmAbout.resources
+C:\Users\isma\Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmAyuda.resources
+C:\Users\isma\Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmDebug.resources
+C:\Users\isma\Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.Resources.resources
+C:\Users\isma\Dropbox\SMii\Wii\Wii\obj\Release\Wii.vbproj.GenerateResource.Cache
+C:\Users\isma\Dropbox\SMii\Wii\Wii\obj\Release\Softmodii.exe.manifest
+C:\Users\isma\Dropbox\SMii\Wii\Wii\obj\Release\Softmodii.application
+C:\Users\Isma\Documents\Desktop\Softmodii\Softmodii.exe.config
+C:\Users\isma\Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmCambios.resources
+C:\Users\isma\Dropbox\SMii\Wii\Wii\obj\Release\ismaelWii.frmSerial.resources
+C:\Softmodii\Compilado\Softmodii.exe.config
+C:\Softmodii\Compilado\Softmodii.exe.manifest
+C:\Softmodii\Compilado\Softmodii.application
+C:\Softmodii\Compilado\Softmodii.exe
+C:\Softmodii\Compilado\Softmodii.pdb
+C:\Softmodii\Compilado\Softmodii.xml
+C:\Users\isma\Desktop\SMii\Wii\Wii\obj\Release\Softmodii.exe
+C:\Users\isma\Desktop\SMii\Wii\Wii\obj\Release\Softmodii.xml
+C:\Users\isma\Desktop\SMii\Wii\Wii\obj\Release\Softmodii.pdb
+C:\Users\isma\Desktop\SMii\Wii\Wii\obj\Release\ResolveAssemblyReference.cache
+C:\Users\isma\Desktop\SMii\Wii\Wii\obj\Release\ismaelWii.Softmodii.resources
+C:\Users\isma\Desktop\SMii\Wii\Wii\obj\Release\ismaelWii.frmSerial.resources
+C:\Users\isma\Desktop\SMii\Wii\Wii\obj\Release\ismaelWii.frmCambios.resources
+C:\Users\isma\Desktop\SMii\Wii\Wii\obj\Release\ismaelWii.frmExploit.resources
+C:\Users\isma\Desktop\SMii\Wii\Wii\obj\Release\ismaelWii.frmCargar.resources
+C:\Users\isma\Desktop\SMii\Wii\Wii\obj\Release\ismaelWii.frmFinal.resources
+C:\Users\isma\Desktop\SMii\Wii\Wii\obj\Release\ismaelWii.frmUpdating.resources
+C:\Users\isma\Desktop\SMii\Wii\Wii\obj\Release\ismaelWii.frmGuardar.resources
+C:\Users\isma\Desktop\SMii\Wii\Wii\obj\Release\ismaelWii.frmVocabulario.resources
+C:\Users\isma\Desktop\SMii\Wii\Wii\obj\Release\ismaelWii.frmImprimir.resources
+C:\Users\isma\Desktop\SMii\Wii\Wii\obj\Release\ismaelWii.frmEnlaces.resources
+C:\Users\isma\Desktop\SMii\Wii\Wii\obj\Release\ismaelWii.frmAbout.resources
+C:\Users\isma\Desktop\SMii\Wii\Wii\obj\Release\ismaelWii.frmAyuda.resources
+C:\Users\isma\Desktop\SMii\Wii\Wii\obj\Release\ismaelWii.frmDebug.resources
+C:\Users\isma\Desktop\SMii\Wii\Wii\obj\Release\ismaelWii.Resources.resources
+C:\Users\isma\Desktop\SMii\Wii\Wii\obj\Release\ismaelWii.SplashScreen1.resources
+C:\Users\isma\Desktop\SMii\Wii\Wii\obj\Release\Wii.vbproj.GenerateResource.Cache
+C:\Users\isma\Desktop\SMii\Wii\Wii\obj\Release\Softmodii.exe.manifest
+C:\Users\isma\Desktop\SMii\Wii\Wii\obj\Release\Softmodii.application
+C:\Softmodii\SMii\Wii\Wii\obj\Release\Softmodii.exe
+C:\Softmodii\SMii\Wii\Wii\obj\Release\Softmodii.xml
+C:\Softmodii\SMii\Wii\Wii\obj\Release\Softmodii.pdb
+C:\Softmodii\SMii\Wii\Wii\obj\Release\ResolveAssemblyReference.cache
+C:\Softmodii\SMii\Wii\Wii\obj\Release\ismaelWii.Softmodii.resources
+C:\Softmodii\SMii\Wii\Wii\obj\Release\ismaelWii.frmSerial.resources
+C:\Softmodii\SMii\Wii\Wii\obj\Release\ismaelWii.frmCambios.resources
+C:\Softmodii\SMii\Wii\Wii\obj\Release\ismaelWii.frmExploit.resources
+C:\Softmodii\SMii\Wii\Wii\obj\Release\ismaelWii.frmCargar.resources
+C:\Softmodii\SMii\Wii\Wii\obj\Release\ismaelWii.frmFinal.resources
+C:\Softmodii\SMii\Wii\Wii\obj\Release\ismaelWii.frmUpdating.resources
+C:\Softmodii\SMii\Wii\Wii\obj\Release\ismaelWii.frmGuardar.resources
+C:\Softmodii\SMii\Wii\Wii\obj\Release\ismaelWii.frmVocabulario.resources
+C:\Softmodii\SMii\Wii\Wii\obj\Release\ismaelWii.frmImprimir.resources
+C:\Softmodii\SMii\Wii\Wii\obj\Release\ismaelWii.frmEnlaces.resources
+C:\Softmodii\SMii\Wii\Wii\obj\Release\ismaelWii.frmAbout.resources
+C:\Softmodii\SMii\Wii\Wii\obj\Release\ismaelWii.frmAyuda.resources
+C:\Softmodii\SMii\Wii\Wii\obj\Release\ismaelWii.frmDebug.resources
+C:\Softmodii\SMii\Wii\Wii\obj\Release\ismaelWii.Resources.resources
+C:\Softmodii\SMii\Wii\Wii\obj\Release\ismaelWii.SplashScreen1.resources
+C:\Softmodii\SMii\Wii\Wii\obj\Release\Wii.vbproj.GenerateResource.Cache
+C:\Softmodii\SMii\Wii\Wii\obj\Release\Softmodii.exe.manifest
+C:\Softmodii\SMii\Wii\Wii\obj\Release\Softmodii.application
+C:\Softmodii\Source\Wii\Wii\obj\Release\Softmodii.exe
+C:\Softmodii\Source\Wii\Wii\obj\Release\Softmodii.xml
+C:\Softmodii\Source\Wii\Wii\obj\Release\Softmodii.pdb
