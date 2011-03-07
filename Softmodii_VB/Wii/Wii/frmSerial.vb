@@ -175,6 +175,7 @@ Public Class frmSerial
             End If
 
             lbl_carga_usb.Text = "Sí" 'INFORMACIÓN DE USB (SIEMPRE ES SÍ)
+           
 
             Softmodii.boot2 = tmpBoot2 'Pasa datos a variables
             Softmodii.cargadvd = tmpdvd
@@ -235,6 +236,9 @@ Public Class frmSerial
     End Sub
 
     Private Sub Button1_Click_1(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_finalizar.Click
+        If reg = "negra" Then 'Para evitar conflictos, las Wii's negras las defino como EUR. (En verdad lo son, ya que LEM y LEF son de Europa)
+            reg = "eur"
+        End If
         Softmodii.reg = reg
 
 

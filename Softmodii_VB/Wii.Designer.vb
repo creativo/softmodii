@@ -513,7 +513,6 @@ Partial Class Softmodii
         Me.BetatestersToolStripMenuItem.Name = "BetatestersToolStripMenuItem"
         Me.BetatestersToolStripMenuItem.Size = New System.Drawing.Size(76, 20)
         Me.BetatestersToolStripMenuItem.Text = "Betatesters"
-        Me.BetatestersToolStripMenuItem.Visible = False
         '
         'Softmodii
         '
