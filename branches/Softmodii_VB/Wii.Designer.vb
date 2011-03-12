@@ -67,9 +67,10 @@ Partial Class Softmodii
         Me.PáginaEnFacebookToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
         Me.TwitterToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
         Me.PostEnEOLToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
-        Me.CanalYoutubeToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
-        Me.BetatestersToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
         Me.WikiDeAplicacionesEOLToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
+        Me.CanalYoutubeToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
+        Me.PáginaEnGoogleCodeToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
+        Me.BetatestersToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
         CType(Me.pic_imagenes, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.changeimage1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.changeimage2, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -464,7 +465,7 @@ Partial Class Softmodii
         '
         'OpcionesToolStripMenuItem
         '
-        Me.OpcionesToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ComprobarActualizacionesWiiToolStripMenuItem, Me.ToolStripMenuItem2, Me.PáginaEnFacebookToolStripMenuItem, Me.TwitterToolStripMenuItem, Me.PostEnEOLToolStripMenuItem, Me.WikiDeAplicacionesEOLToolStripMenuItem, Me.CanalYoutubeToolStripMenuItem})
+        Me.OpcionesToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ComprobarActualizacionesWiiToolStripMenuItem, Me.ToolStripMenuItem2, Me.PáginaEnGoogleCodeToolStripMenuItem, Me.PáginaEnFacebookToolStripMenuItem, Me.TwitterToolStripMenuItem, Me.PostEnEOLToolStripMenuItem, Me.WikiDeAplicacionesEOLToolStripMenuItem, Me.CanalYoutubeToolStripMenuItem})
         Me.OpcionesToolStripMenuItem.Name = "OpcionesToolStripMenuItem"
         Me.OpcionesToolStripMenuItem.Size = New System.Drawing.Size(69, 20)
         Me.OpcionesToolStripMenuItem.Text = "Opciones"
@@ -502,6 +503,13 @@ Partial Class Softmodii
         Me.PostEnEOLToolStripMenuItem.Size = New System.Drawing.Size(238, 22)
         Me.PostEnEOLToolStripMenuItem.Text = "Post en EOL"
         '
+        'WikiDeAplicacionesEOLToolStripMenuItem
+        '
+        Me.WikiDeAplicacionesEOLToolStripMenuItem.Image = Global.ismaelWii.My.Resources.Resources.eol
+        Me.WikiDeAplicacionesEOLToolStripMenuItem.Name = "WikiDeAplicacionesEOLToolStripMenuItem"
+        Me.WikiDeAplicacionesEOLToolStripMenuItem.Size = New System.Drawing.Size(238, 22)
+        Me.WikiDeAplicacionesEOLToolStripMenuItem.Text = "Wiki de aplicaciones - EOL"
+        '
         'CanalYoutubeToolStripMenuItem
         '
         Me.CanalYoutubeToolStripMenuItem.Image = Global.ismaelWii.My.Resources.Resources.youtube
@@ -509,19 +517,19 @@ Partial Class Softmodii
         Me.CanalYoutubeToolStripMenuItem.Size = New System.Drawing.Size(238, 22)
         Me.CanalYoutubeToolStripMenuItem.Text = "Canal Youtube"
         '
+        'PáginaEnGoogleCodeToolStripMenuItem
+        '
+        Me.PáginaEnGoogleCodeToolStripMenuItem.Image = Global.ismaelWii.My.Resources.Resources.googlecode
+        Me.PáginaEnGoogleCodeToolStripMenuItem.Name = "PáginaEnGoogleCodeToolStripMenuItem"
+        Me.PáginaEnGoogleCodeToolStripMenuItem.Size = New System.Drawing.Size(238, 22)
+        Me.PáginaEnGoogleCodeToolStripMenuItem.Text = "Página en Google Code"
+        '
         'BetatestersToolStripMenuItem
         '
         Me.BetatestersToolStripMenuItem.Name = "BetatestersToolStripMenuItem"
         Me.BetatestersToolStripMenuItem.Size = New System.Drawing.Size(76, 20)
         Me.BetatestersToolStripMenuItem.Text = "Betatesters"
         Me.BetatestersToolStripMenuItem.Visible = False
-        '
-        'WikiDeAplicacionesEOLToolStripMenuItem
-        '
-        Me.WikiDeAplicacionesEOLToolStripMenuItem.Image = Global.ismaelWii.My.Resources.Resources.eol
-        Me.WikiDeAplicacionesEOLToolStripMenuItem.Name = "WikiDeAplicacionesEOLToolStripMenuItem"
-        Me.WikiDeAplicacionesEOLToolStripMenuItem.Size = New System.Drawing.Size(238, 22)
-        Me.WikiDeAplicacionesEOLToolStripMenuItem.Text = "Wiki de aplicaciones - EOL"
         '
         'Softmodii
         '
@@ -620,5 +628,6 @@ Partial Class Softmodii
     Friend WithEvents TToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents btn_update As System.Windows.Forms.Button
     Friend WithEvents WikiDeAplicacionesEOLToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
+    Friend WithEvents PáginaEnGoogleCodeToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
 
 End Class
