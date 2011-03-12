@@ -379,6 +379,7 @@
     <None Include="Resources\youtube.png" />
     <None Include="Resources\organizacion_hbc_img.jpg" />
     <None Include="Resources\legoindiana.jpg" />
+    <None Include="Resources\googlecode.png" />
     <Content Include="SoftModii 256.ico" />
     <Content Include="SoftModii 48.ico" />
     <Content Include="SoftModii.ico" />

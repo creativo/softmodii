@@ -1315,6 +1315,10 @@ Public Class Softmodii
     Private Sub WikiDeAplicacionesEOLToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles WikiDeAplicacionesEOLToolStripMenuItem.Click
         System.Diagnostics.Process.Start("http://www.elotrolado.net/wiki/Aplicaciones_Wii_nuevo")
     End Sub
+
+    Private Sub PáginaEnGoogleCodeToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles PáginaEnGoogleCodeToolStripMenuItem.Click
+        System.Diagnostics.Process.Start("http://code.google.com/p/softmodii-eol/")
+    End Sub
 End Class
 
 

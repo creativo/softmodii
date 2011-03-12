@@ -166,9 +166,6 @@ Algunos mezclan IOS para obtener diversas funciones. Todos ellos tienen el bug t
   <data name="hbc31" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\hbc3.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="organizacion_hbc_img" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\organizacion_hbc_img.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="imageninicial" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\imageninicial.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -184,14 +181,12 @@ Algunos mezclan IOS para obtener diversas funciones. Todos ellos tienen el bug t
   <data name="updatecios1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\updatecios1.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="bootmiiuse" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bootmiiuse.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="def_cmios" xml:space="preserve">
+    <value>Es como un IOS (véase IOS) que dota a la Wii de las funciones necesarias para reproducir juegos de Gamecube. cMIOS convierte la Wii en una GC, deshabilitando el acceso a todas las funciones exclusivas de Wii, incluso bajando la potencia de su procesador.</value>
+    <comment>Definición: cMIOS</comment>
   </data>
   <data name="dvdlogo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\dvdlogo.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="eol" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\eol.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="dvd12" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\dvd12.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -201,9 +196,6 @@ Algunos mezclan IOS para obtener diversas funciones. Todos ellos tienen el bug t
   </data>
   <data name="dvd3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\dvd3.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="updatecios3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\updatecios3.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="minidvd3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\minidvd3.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -218,8 +210,8 @@ Algunos mezclan IOS para obtener diversas funciones. Todos ellos tienen el bug t
     <value>Atención: Tienes una versión de firmware muy antigua. Para hacer este tutorial, actualiza con algún juego como New Super Mario Bros o cualquier otro para actualizar a una versión superior. No actualices por internet, ya que necesitarás en ese caso un juego especial para poder realizar el proceso.</value>
     <comment>versión antigua</comment>
   </data>
-  <data name="minicios3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\minicios3.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="organizacion_hbc_img" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\organizacion_hbc_img.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="updatecios31" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\updatecios3.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -231,8 +223,8 @@ Algunos mezclan IOS para obtener diversas funciones. Todos ellos tienen el bug t
     <value>Un WAD es un archivo de instalación el cual instala contenido en tu Wii, ya sean canales o IOS, System Menus u otros contenidos.</value>
     <comment>Definición: Wad</comment>
   </data>
-  <data name="logov4" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\logov4.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="bootmiiuse" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bootmiiuse.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="miniusb1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\miniusb1.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -242,9 +234,6 @@ Algunos mezclan IOS para obtener diversas funciones. Todos ellos tienen el bug t
   </data>
   <data name="burn1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\burn1.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="nextimage" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\nextimage21.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="blanco" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\blanco.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -273,15 +262,23 @@ Algunos mezclan IOS para obtener diversas funciones. Todos ellos tienen el bug t
   <data name="wad2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\wad2.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="def_cmios" xml:space="preserve">
-    <value>Es como un IOS (véase IOS) que dota a la Wii de las funciones necesarias para reproducir juegos de Gamecube. cMIOS convierte la Wii en una GC, deshabilitando el acceso a todas las funciones exclusivas de Wii, incluso bajando la potencia de su procesador.</value>
-    <comment>Definición: cMIOS</comment>
+  <data name="miniburn3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\miniburn3.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="about" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\about.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="logov4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logov4.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="no_game" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\no_game.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="legoindiana" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\legoindiana.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="minicios3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\minicios3.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="youtube" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\youtube.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -291,6 +288,9 @@ Algunos mezclan IOS para obtener diversas funciones. Todos ellos tienen el bug t
   </data>
   <data name="lwars" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\lwars.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="minidvd1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\minidvd1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="def_ios" xml:space="preserve">
     <value>Es la unidad de funcionamiento básica del firmware de la Wii. Para simplificarlo, un IOS vendría a ser un archivo que se carga en el procesador de la Wii y sirve para que un recurso (Un juego, un canal) funcione. Los IOS se instalan en posiciones que van de la 1 a la 255, pudiéndose cargar solo uno a la vez. Por ejemplo, algunos juegos como el Mario Kart usan el IOS26 para funcionar, otros usan el IOS53, etc. Cada IOS se instala y ejecuta de forma independiente de los demás, por lo que no interfieren entre ellos.</value>
@@ -353,8 +353,8 @@ Algunos mezclan IOS para obtener diversas funciones. Todos ellos tienen el bug t
   <data name="miniusb2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\miniusb2.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="miniburn3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\miniburn3.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="nextimage" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nextimage21.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="usb2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\usb2.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -362,14 +362,14 @@ Algunos mezclan IOS para obtener diversas funciones. Todos ellos tienen el bug t
   <data name="updatecios2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\updatecios2.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="minidvd1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\minidvd1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="updatecios3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\updatecios3.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="guardar" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\guardar.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="e" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\e.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="eol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\eol.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="def_systemmenu" xml:space="preserve">
     <value>System Menu:
@@ -385,6 +385,9 @@ Carga después de boot2, y si no dispones de una protección como bootmii en boo
   </data>
   <data name="Folder08-OpenYellow" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Folder08-OpenYellow.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="e" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\e.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="help" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\help.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -404,7 +407,7 @@ Carga después de boot2, y si no dispones de una protección como bootmii en boo
   <data name="usb3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\usb3.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="legoindiana" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\legoindiana.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="googlecode" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\googlecode.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
