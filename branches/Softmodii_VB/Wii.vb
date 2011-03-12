@@ -1,7 +1,7 @@
 Public Class Softmodii
     Public proceso As String
     '-------------------Nº DE VERSIÓN DE SOFTMODII 
-    Public version As Integer = 4199
+    Public version As Integer = 4200
     '--------------------N1 DE VERSIÓN DE CSD
     Public csd_version As Integer = 9999
     '-------------------INFORMACIÓN PARA INFORME
@@ -1310,6 +1310,10 @@ Public Class Softmodii
 
     Private Sub TToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles TToolStripMenuItem.Click
         frmVocabulario.Show()
+    End Sub
+
+    Private Sub WikiDeAplicacionesEOLToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles WikiDeAplicacionesEOLToolStripMenuItem.Click
+        System.Diagnostics.Process.Start("http://www.elotrolado.net/wiki/Aplicaciones_Wii_nuevo")
     End Sub
 End Class
 

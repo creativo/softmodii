@@ -69,6 +69,7 @@ Partial Class Softmodii
         Me.PostEnEOLToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
         Me.CanalYoutubeToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
         Me.BetatestersToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
+        Me.WikiDeAplicacionesEOLToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
         CType(Me.pic_imagenes, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.changeimage1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.changeimage2, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -463,7 +464,7 @@ Partial Class Softmodii
         '
         'OpcionesToolStripMenuItem
         '
-        Me.OpcionesToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ComprobarActualizacionesWiiToolStripMenuItem, Me.ToolStripMenuItem2, Me.PáginaEnFacebookToolStripMenuItem, Me.TwitterToolStripMenuItem, Me.PostEnEOLToolStripMenuItem, Me.CanalYoutubeToolStripMenuItem})
+        Me.OpcionesToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ComprobarActualizacionesWiiToolStripMenuItem, Me.ToolStripMenuItem2, Me.PáginaEnFacebookToolStripMenuItem, Me.TwitterToolStripMenuItem, Me.PostEnEOLToolStripMenuItem, Me.WikiDeAplicacionesEOLToolStripMenuItem, Me.CanalYoutubeToolStripMenuItem})
         Me.OpcionesToolStripMenuItem.Name = "OpcionesToolStripMenuItem"
         Me.OpcionesToolStripMenuItem.Size = New System.Drawing.Size(69, 20)
         Me.OpcionesToolStripMenuItem.Text = "Opciones"
@@ -513,6 +514,14 @@ Partial Class Softmodii
         Me.BetatestersToolStripMenuItem.Name = "BetatestersToolStripMenuItem"
         Me.BetatestersToolStripMenuItem.Size = New System.Drawing.Size(76, 20)
         Me.BetatestersToolStripMenuItem.Text = "Betatesters"
+        Me.BetatestersToolStripMenuItem.Visible = False
+        '
+        'WikiDeAplicacionesEOLToolStripMenuItem
+        '
+        Me.WikiDeAplicacionesEOLToolStripMenuItem.Image = Global.ismaelWii.My.Resources.Resources.eol
+        Me.WikiDeAplicacionesEOLToolStripMenuItem.Name = "WikiDeAplicacionesEOLToolStripMenuItem"
+        Me.WikiDeAplicacionesEOLToolStripMenuItem.Size = New System.Drawing.Size(238, 22)
+        Me.WikiDeAplicacionesEOLToolStripMenuItem.Text = "Wiki de aplicaciones - EOL"
         '
         'Softmodii
         '
@@ -610,5 +619,6 @@ Partial Class Softmodii
     Friend WithEvents PrevenirBricksToolStripMenuItem1 As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents TToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents btn_update As System.Windows.Forms.Button
+    Friend WithEvents WikiDeAplicacionesEOLToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
 
 End Class
