@@ -1,7 +1,7 @@
 Public Class Softmodii
     Public proceso As String
     '-------------------Nº DE VERSIÓN DE SOFTMODII 
-    Public version As Integer = 4200
+    Public version As Integer = 4201
     '--------------------N1 DE VERSIÓN DE CSD
     Public csd_version As Integer = 9999
     '-------------------INFORMACIÓN PARA INFORME
@@ -154,6 +154,12 @@ Public Class Softmodii
             proceso = "hbc"
             tutoarchivo = "data/hbc43_jodi.smi"
             txtbox_big.LoadFile("data\hbc43_jodi.smi")
+        ElseIf tutorial = "hbc43_tales" Then
+            lbl_titulo.Text = "Homebrew Channel"
+            btn_back.Enabled = False
+            proceso = "hbc"
+            tutoarchivo = "data/hbc43_tales.smi"
+            txtbox_big.LoadFile("data\hbc43_tales.smi")
         ElseIf tutorial = "dvd" Then
             proceso = "dvd"
             lbl_titulo.Text = "Cargar desde DVD"
@@ -469,6 +475,8 @@ Public Class Softmodii
                 cargar_tuto("hbc43_batman")
             ElseIf ver = 43 And exploit = "jodi" Then
                 cargar_tuto("hbc43_jodi")
+            ElseIf ver = 43 And exploit = "tales" Then
+                cargar_tuto("hbc43_tales")
             End If
 
 

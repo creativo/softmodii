@@ -197,6 +197,9 @@ Algunos mezclan IOS para obtener diversas funciones. Todos ellos tienen el bug t
   <data name="dvd3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\dvd3.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="updatecios3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\updatecios3.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="minidvd3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\minidvd3.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -274,9 +277,6 @@ Algunos mezclan IOS para obtener diversas funciones. Todos ellos tienen el bug t
   <data name="no_game" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\no_game.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="legoindiana" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\legoindiana.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="minicios3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\minicios3.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -289,9 +289,6 @@ Algunos mezclan IOS para obtener diversas funciones. Todos ellos tienen el bug t
   <data name="lwars" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\lwars.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="minidvd1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\minidvd1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="def_ios" xml:space="preserve">
     <value>Es la unidad de funcionamiento básica del firmware de la Wii. Para simplificarlo, un IOS vendría a ser un archivo que se carga en el procesador de la Wii y sirve para que un recurso (Un juego, un canal) funcione. Los IOS se instalan en posiciones que van de la 1 a la 255, pudiéndose cargar solo uno a la vez. Por ejemplo, algunos juegos como el Mario Kart usan el IOS26 para funcionar, otros usan el IOS53, etc. Cada IOS se instala y ejecuta de forma independiente de los demás, por lo que no interfieren entre ellos.</value>
     <comment>Definición: IOS</comment>
@@ -299,14 +296,20 @@ Algunos mezclan IOS para obtener diversas funciones. Todos ellos tienen el bug t
   <data name="changes" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\changes.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="print2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\print2.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="googlecode" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\googlecode.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="legoindiana" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\legoindiana.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="bootm1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\bootm1.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="usb1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\usb1.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="print2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\print2.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="cios3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cios3.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -362,8 +365,8 @@ Algunos mezclan IOS para obtener diversas funciones. Todos ellos tienen el bug t
   <data name="updatecios2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\updatecios2.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="updatecios3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\updatecios3.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="minidvd1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\minidvd1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="guardar" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\guardar.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -407,7 +410,10 @@ Carga después de boot2, y si no dispones de una protección como bootmii en boo
   <data name="usb3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\usb3.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="googlecode" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\googlecode.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="tales_mini" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tales_mini.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tales" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tales.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
