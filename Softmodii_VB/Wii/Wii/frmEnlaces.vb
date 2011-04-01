@@ -121,6 +121,10 @@ Public Class frmEnlaces
                 System.Diagnostics.Process.Start("http://giantpune.zzl.org/download.php?get=st_smashStackPK_noSave.bin")
             Case 8
                 System.Diagnostics.Process.Start("http://dl.dropbox.com/u/3565590/Softmodii/YuGiVahvBeta1En.rar")
+            Case 9
+                System.Diagnostics.Process.Start("http://delroth.net/erihakawai-0.1.tar.bz2")
+            Case 10
+                System.Diagnostics.Process.Start("http://giantpune.zzl.org/download.php?get=EriHaKawai.tar.gz")
             Case -1
                 MsgBox("Selecciona un exploit")
 

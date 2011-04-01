@@ -601,6 +601,20 @@ Namespace My.Resources
             End Get
         End Property
         
+        Friend ReadOnly Property tales() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("tales", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        Friend ReadOnly Property tales_mini() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("tales_mini", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
         '''<summary>
         '''  Busca una cadena traducida similar a Atención: Tienes una versión de firmware muy antigua. Para hacer este tutorial, actualiza con algún juego como New Super Mario Bros o cualquier otro para actualizar a una versión superior. No actualices por internet, ya que necesitarás en ese caso un juego especial para poder realizar el proceso..
         '''</summary>

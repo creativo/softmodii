@@ -380,6 +380,8 @@
     <None Include="Resources\organizacion_hbc_img.jpg" />
     <None Include="Resources\legoindiana.jpg" />
     <None Include="Resources\googlecode.png" />
+    <None Include="Resources\tales_mini.png" />
+    <None Include="Resources\tales.png" />
     <Content Include="SoftModii 256.ico" />
     <Content Include="SoftModii 48.ico" />
     <Content Include="SoftModii.ico" />
