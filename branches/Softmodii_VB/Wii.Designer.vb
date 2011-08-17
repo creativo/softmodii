@@ -64,12 +64,12 @@ Partial Class Softmodii
         Me.OpcionesToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
         Me.ComprobarActualizacionesWiiToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
         Me.ToolStripMenuItem2 = New System.Windows.Forms.ToolStripMenuItem
+        Me.PáginaEnGoogleCodeToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
         Me.PáginaEnFacebookToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
         Me.TwitterToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
         Me.PostEnEOLToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
         Me.WikiDeAplicacionesEOLToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
         Me.CanalYoutubeToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
-        Me.PáginaEnGoogleCodeToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
         Me.BetatestersToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
         CType(Me.pic_imagenes, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.changeimage1, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -326,7 +326,7 @@ Partial Class Softmodii
         'txtbox_big
         '
         Me.txtbox_big.BackColor = System.Drawing.Color.LightCyan
-        Me.txtbox_big.Font = New System.Drawing.Font("Arial Narrow", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.txtbox_big.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.txtbox_big.Location = New System.Drawing.Point(54, 37)
         Me.txtbox_big.Name = "txtbox_big"
         Me.txtbox_big.ReadOnly = True
@@ -482,6 +482,13 @@ Partial Class Softmodii
         Me.ToolStripMenuItem2.Size = New System.Drawing.Size(238, 22)
         Me.ToolStripMenuItem2.Text = "---"
         '
+        'PáginaEnGoogleCodeToolStripMenuItem
+        '
+        Me.PáginaEnGoogleCodeToolStripMenuItem.Image = Global.ismaelWii.My.Resources.Resources.googlecode
+        Me.PáginaEnGoogleCodeToolStripMenuItem.Name = "PáginaEnGoogleCodeToolStripMenuItem"
+        Me.PáginaEnGoogleCodeToolStripMenuItem.Size = New System.Drawing.Size(238, 22)
+        Me.PáginaEnGoogleCodeToolStripMenuItem.Text = "Página en Google Code"
+        '
         'PáginaEnFacebookToolStripMenuItem
         '
         Me.PáginaEnFacebookToolStripMenuItem.Image = Global.ismaelWii.My.Resources.Resources.facebook
@@ -516,13 +523,6 @@ Partial Class Softmodii
         Me.CanalYoutubeToolStripMenuItem.Name = "CanalYoutubeToolStripMenuItem"
         Me.CanalYoutubeToolStripMenuItem.Size = New System.Drawing.Size(238, 22)
         Me.CanalYoutubeToolStripMenuItem.Text = "Canal Youtube"
-        '
-        'PáginaEnGoogleCodeToolStripMenuItem
-        '
-        Me.PáginaEnGoogleCodeToolStripMenuItem.Image = Global.ismaelWii.My.Resources.Resources.googlecode
-        Me.PáginaEnGoogleCodeToolStripMenuItem.Name = "PáginaEnGoogleCodeToolStripMenuItem"
-        Me.PáginaEnGoogleCodeToolStripMenuItem.Size = New System.Drawing.Size(238, 22)
-        Me.PáginaEnGoogleCodeToolStripMenuItem.Text = "Página en Google Code"
         '
         'BetatestersToolStripMenuItem
         '

@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProductVersion>9.0.21022</ProductVersion>
+    <ProductVersion>9.0.30729</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{8F51B44C-F527-4D71-97A9-F6F10CC71D60}</ProjectGuid>
     <OutputType>WinExe</OutputType>
@@ -104,6 +104,12 @@
     </Compile>
     <Compile Include="ApplicationEvents.vb" />
     <Compile Include="CodeFile1.vb" />
+    <Compile Include="frmExploitLetter.Designer.vb">
+      <DependentUpon>frmExploitLetter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmExploitLetter.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frmSerial.Designer.vb">
       <DependentUpon>frmSerial.vb</DependentUpon>
     </Compile>
@@ -209,6 +215,9 @@
       <Link>Wii.resx</Link>
       <DependentUpon>Wii.vb</DependentUpon>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>frmExploitLetter.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmSerial.resx">
       <SubType>Designer</SubType>
@@ -415,6 +424,11 @@
     <None Include="Wii_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
     <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
       <Visible>False</Visible>
       <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
@@ -430,6 +444,11 @@
       <ProductName>.NET Framework 3.5</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
     <PublishFile Include="icono %281%29.ico">
@@ -439,6 +458,7 @@
       <TargetPath>
       </TargetPath>
       <PublishState>Exclude</PublishState>
+      <IncludeHash>True</IncludeHash>
       <FileType>File</FileType>
     </PublishFile>
     <PublishFile Include="icono1.ico">
@@ -448,6 +468,7 @@
       <TargetPath>
       </TargetPath>
       <PublishState>Exclude</PublishState>
+      <IncludeHash>True</IncludeHash>
       <FileType>File</FileType>
     </PublishFile>
     <PublishFile Include="iconofinal.ico">
@@ -457,6 +478,7 @@
       <TargetPath>
       </TargetPath>
       <PublishState>Exclude</PublishState>
+      <IncludeHash>True</IncludeHash>
       <FileType>File</FileType>
     </PublishFile>
     <PublishFile Include="Imagen2.ico">
@@ -466,6 +488,7 @@
       <TargetPath>
       </TargetPath>
       <PublishState>Exclude</PublishState>
+      <IncludeHash>True</IncludeHash>
       <FileType>File</FileType>
     </PublishFile>
     <PublishFile Include="Softmodii 3.0 Beta 1.pdb">
@@ -475,6 +498,7 @@
       <TargetPath>
       </TargetPath>
       <PublishState>Exclude</PublishState>
+      <IncludeHash>True</IncludeHash>
       <FileType>File</FileType>
     </PublishFile>
     <PublishFile Include="Softmodii 3.xml">
@@ -484,6 +508,7 @@
       <TargetPath>
       </TargetPath>
       <PublishState>Exclude</PublishState>
+      <IncludeHash>True</IncludeHash>
       <FileType>File</FileType>
     </PublishFile>
   </ItemGroup>

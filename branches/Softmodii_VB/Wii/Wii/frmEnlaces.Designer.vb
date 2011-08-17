@@ -139,7 +139,7 @@ Partial Class frmEnlaces
         Me.combo_exploits.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
         Me.combo_exploits.FormattingEnabled = True
         Me.combo_exploits.ItemHeight = 13
-        Me.combo_exploits.Items.AddRange(New Object() {"Return of the Jodi", "BannerBomb", "BatHax (Batman)", "Yu-Gi-Owned!", "Indiana PWNS!", "Smash Stack USA", "Smash Stack EUR Save", "Smash Stack EUR No Save", "Yu-Gi-Vah! (USA)", "Exploit Tales of S. EUR", "Exploit Tales of S. USA"})
+        Me.combo_exploits.Items.AddRange(New Object() {"LetterBomb", "BannerBomb", "-------------------", "Return of the Jodi", "BatHax (Batman)", "Yu-Gi-Owned!", "Indiana PWNS!", "Smash Stack USA", "Smash Stack EUR Save", "Smash Stack EUR No Save", "Yu-Gi-Vah! (USA)", "Exploit Tales of S. EUR", "Exploit Tales of S. USA"})
         Me.combo_exploits.Location = New System.Drawing.Point(321, 41)
         Me.combo_exploits.Name = "combo_exploits"
         Me.combo_exploits.Size = New System.Drawing.Size(139, 21)

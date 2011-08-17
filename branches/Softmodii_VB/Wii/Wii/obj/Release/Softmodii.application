@@ -3,7 +3,7 @@
   <assemblyIdentity name="Softmodii.application" version="3.1.0.9" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <description asmv2:publisher="Microsoft" asmv2:product="Softmodii" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <deployment install="true" mapFileExtensions="true">
-    <deploymentProvider codebase="http://isma-sobremesa/SoftModii%202.4/Softmodii.application" />
+    <deploymentProvider codebase="http://win7-desktop/SoftModii%202.4/Softmodii.application" />
   </deployment>
   <dependency>
     <dependentAssembly dependencyType="install" codebase="Softmodii.exe.manifest" size="5854">
@@ -13,7 +13,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>G4KaohMW8y8G50EBWkDmJydJcrM=</dsig:DigestValue>
+        <dsig:DigestValue>8MkVZqOKwTecG6SLXUiKMGnvLhA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
