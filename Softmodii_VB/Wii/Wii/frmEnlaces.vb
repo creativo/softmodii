@@ -104,29 +104,34 @@ Public Class frmEnlaces
         Select Case combo_exploits.SelectedIndex 'Descargas según seleccionadas
 
             Case 0
-                System.Diagnostics.Process.Start("http://static.hackmii.com/return-jodi.zip")
+                System.Diagnostics.Process.Start("http://please.hackmii.com/")
             Case 1
                 System.Diagnostics.Process.Start("http://bannerbomb.qoid.us/")
             Case 2
-                System.Diagnostics.Process.Start("http://wien.tomnetworks.com/wii/bathaxx.zip")
+                MsgBox("Selecciona un exploit")
             Case 3
-                System.Diagnostics.Process.Start("http://dl.dropbox.com/u/3565590/Softmodii/Descargas/YuGiOwned.rar")
+                System.Diagnostics.Process.Start("http://static.hackmii.com/return-jodi.zip")
             Case 4
-                System.Diagnostics.Process.Start("http://static.hackmii.com/indiana-pwns.zip")
+                System.Diagnostics.Process.Start("http://wien.tomnetworks.com/wii/bathaxx.zip")
             Case 5
-                System.Diagnostics.Process.Start("http://dl.dropbox.com/u/3565590/Softmodii/Descargas/SmashStackBeta1.zip")
+                System.Diagnostics.Process.Start("http://dl.dropbox.com/u/3565590/Softmodii/Descargas/YuGiOwned.rar")
             Case 6
-                System.Diagnostics.Process.Start("http://giantpune.zzl.org/download.php?get=st_smashStackPK.bin")
+                System.Diagnostics.Process.Start("http://static.hackmii.com/indiana-pwns.zip")
             Case 7
-                System.Diagnostics.Process.Start("http://giantpune.zzl.org/download.php?get=st_smashStackPK_noSave.bin")
+                System.Diagnostics.Process.Start("http://dl.dropbox.com/u/3565590/Softmodii/Descargas/SmashStackBeta1.zip")
             Case 8
-                System.Diagnostics.Process.Start("http://dl.dropbox.com/u/3565590/Softmodii/YuGiVahvBeta1En.rar")
+                System.Diagnostics.Process.Start("http://giantpune.zzl.org/download.php?get=st_smashStackPK.bin")
             Case 9
-                System.Diagnostics.Process.Start("http://delroth.net/erihakawai-0.1.tar.bz2")
+                System.Diagnostics.Process.Start("http://giantpune.zzl.org/download.php?get=st_smashStackPK_noSave.bin")
             Case 10
+                System.Diagnostics.Process.Start("http://dl.dropbox.com/u/3565590/Softmodii/YuGiVahvBeta1En.rar")
+            Case 11
+                System.Diagnostics.Process.Start("http://delroth.net/erihakawai-0.1.tar.bz2")
+            Case 12
                 System.Diagnostics.Process.Start("http://giantpune.zzl.org/download.php?get=EriHaKawai.tar.gz")
             Case -1
                 MsgBox("Selecciona un exploit")
+            
 
         End Select
 

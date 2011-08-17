@@ -255,7 +255,10 @@ Public Class frmSerial
         End If
 
         If Softmodii.ver = 43 Then
-            frmExploit.Show()
+
+            frmExploitLetter.Show()
+
+
 
 
         End If

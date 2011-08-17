@@ -300,3 +300,4 @@ C:\Softmodii\Source\Wii\Wii\obj\Release\ismaelWii.SplashScreen1.resources
 C:\Softmodii\Source\Wii\Wii\obj\Release\Wii.vbproj.GenerateResource.Cache
 C:\Softmodii\Source\Wii\Wii\obj\Release\Softmodii.exe.manifest
 C:\Softmodii\Source\Wii\Wii\obj\Release\Softmodii.application
+C:\Softmodii\Source\Wii\Wii\obj\Release\ismaelWii.frmExploitLetter.resources

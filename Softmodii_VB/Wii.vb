@@ -1,7 +1,7 @@
 Public Class Softmodii
     Public proceso As String
     '-------------------Nº DE VERSIÓN DE SOFTMODII 
-    Public version As Integer = 4201
+    Public version As Integer = 4202
     '--------------------N1 DE VERSIÓN DE CSD
     Public csd_version As Integer = 9999
     '-------------------INFORMACIÓN PARA INFORME
@@ -112,6 +112,12 @@ Public Class Softmodii
             proceso = "hbc"
             tutoarchivo = "data/hbc41.smi"
             txtbox_big.LoadFile("data\hbc41.smi")
+        ElseIf tutorial = "hbc43_letterbomb" Then
+            lbl_titulo.Text = "Homebrew Channel"
+            btn_back.Enabled = False
+            proceso = "hbc"
+            tutoarchivo = "data/hbc43_letterbomb.smi"
+            txtbox_big.LoadFile("data\hbc43_letterbomb.smi")
         ElseIf tutorial = "hbc43_lego" Then
             lbl_titulo.Text = "Homebrew Channel"
             btn_back.Enabled = False
@@ -461,83 +467,86 @@ Public Class Softmodii
                 cargar_tuto("hbc42")
             ElseIf ver < 42 And ver > 20 Then
                 cargar_tuto("hbc41")
-            ElseIf ver = 43 And exploit = "lego" Then
-                cargar_tuto("hbc43_lego")
-            ElseIf ver = 43 And exploit = "ssbb" And reg = "usa" Then
-                cargar_tuto("hbc43_ssbb_usa")
-            ElseIf ver = 43 And exploit = "ssbb" And reg = "eur" Then
-                cargar_tuto("hbc43_ssbb_eur")
-            ElseIf ver = 43 And exploit = "ygh" And reg = "eur" Then
-                cargar_tuto("hbc43_ygh")
-            ElseIf ver = 43 And exploit = "ygh" And reg = "usa" Then
-                cargar_tuto("hbc43_ygh_usa")
-            ElseIf ver = 43 And exploit = "batman" Then
-                cargar_tuto("hbc43_batman")
-            ElseIf ver = 43 And exploit = "jodi" Then
-                cargar_tuto("hbc43_jodi")
-            ElseIf ver = 43 And exploit = "tales" Then
-                cargar_tuto("hbc43_tales")
+            ElseIf ver = 43 Then
+                cargar_tuto("hbc43_letterbomb")
+                If ver = 43 And exploit = "lego" Then
+                    cargar_tuto("hbc43_lego")
+                ElseIf ver = 43 And exploit = "ssbb" And reg = "usa" Then
+                    cargar_tuto("hbc43_ssbb_usa")
+                ElseIf ver = 43 And exploit = "ssbb" And reg = "eur" Then
+                    cargar_tuto("hbc43_ssbb_eur")
+                ElseIf ver = 43 And exploit = "ygh" And reg = "eur" Then
+                    cargar_tuto("hbc43_ygh")
+                ElseIf ver = 43 And exploit = "ygh" And reg = "usa" Then
+                    cargar_tuto("hbc43_ygh_usa")
+                ElseIf ver = 43 And exploit = "batman" Then
+                    cargar_tuto("hbc43_batman")
+                ElseIf ver = 43 And exploit = "jodi" Then
+                    cargar_tuto("hbc43_jodi")
+                ElseIf ver = 43 And exploit = "tales" Then
+                    cargar_tuto("hbc43_tales")
+                End If
             End If
 
 
         End If
 
-        'Si estás en cios
-        If proceso = "cios43-33" Or proceso = "cios42" Or proceso = "cios41" Or proceso = "cios32" Then
+            'Si estás en cios
+            If proceso = "cios43-33" Or proceso = "cios42" Or proceso = "cios41" Or proceso = "cios32" Then
 
-            cargar_tuto("bootmii")
+                cargar_tuto("bootmii")
 
-        End If
-
-        'Si estás en DVD, ir hacia cIOS
-        If proceso = "dvd" Then
-            If ver = "43" Then
-                cargar_tuto("cios43-33")
-            ElseIf ver = "42" Then
-                cargar_tuto("cios43-33")
-            ElseIf ver <= 41 And ver > 32 Then
-                cargar_tuto("cios43-33")
-            ElseIf ver = 32 Then
-                cargar_tuto("cios32")
             End If
-        End If
 
-        'Si estás en USB, ir hacia cIOS
-        If proceso = "usb" Then
-            If ver = "43" Then
-                cargar_tuto("cios43-33")
-            ElseIf ver = "42" Then
-                cargar_tuto("cios43-33")
-            ElseIf ver <= 41 And ver > 32 Then
-                cargar_tuto("cios43-33")
-            ElseIf ver = 32 Then
-                cargar_tuto("cios32")
+            'Si estás en DVD, ir hacia cIOS
+            If proceso = "dvd" Then
+                If ver = "43" Then
+                    cargar_tuto("cios43-33")
+                ElseIf ver = "42" Then
+                    cargar_tuto("cios43-33")
+                ElseIf ver <= 41 And ver > 32 Then
+                    cargar_tuto("cios43-33")
+                ElseIf ver = 32 Then
+                    cargar_tuto("cios32")
+                End If
             End If
-        End If
+
+            'Si estás en USB, ir hacia cIOS
+            If proceso = "usb" Then
+                If ver = "43" Then
+                    cargar_tuto("cios43-33")
+                ElseIf ver = "42" Then
+                    cargar_tuto("cios43-33")
+                ElseIf ver <= 41 And ver > 32 Then
+                    cargar_tuto("cios43-33")
+                ElseIf ver = 32 Then
+                    cargar_tuto("cios32")
+                End If
+            End If
 
 
 
-        'Si estás en GRABAR, ir hacia DVD
-        If proceso = "grabar" Then
+            'Si estás en GRABAR, ir hacia DVD
+            If proceso = "grabar" Then
 
-            cargar_tuto("dvd")
+                cargar_tuto("dvd")
 
-            'TUTORIALES EXTRA
-        ElseIf proceso = "ex_pimp" Then
-            cargar_tuto("ex_pimp")
-            MsgBox("Si quieres volver al tutorial simple, empieza un nuevo tutorial")
-        ElseIf proceso = "ex_priiloader" Then
-            cargar_tuto("ex_pimp")
+                'TUTORIALES EXTRA
+            ElseIf proceso = "ex_pimp" Then
+                cargar_tuto("ex_pimp")
+                MsgBox("Si quieres volver al tutorial simple, empieza un nuevo tutorial")
+            ElseIf proceso = "ex_priiloader" Then
+                cargar_tuto("ex_pimp")
 
-        ElseIf proceso = "ex_wadmanager" Then
-            cargar_tuto("ex_priiloader")
+            ElseIf proceso = "ex_wadmanager" Then
+                cargar_tuto("ex_priiloader")
 
-        ElseIf proceso = "ex_warnings" Then
-            cargar_tuto("ex_wadmanager")
+            ElseIf proceso = "ex_warnings" Then
+                cargar_tuto("ex_wadmanager")
 
 
 
-        End If
+            End If
     End Sub
 
 
@@ -1326,6 +1335,10 @@ Public Class Softmodii
 
     Private Sub PáginaEnGoogleCodeToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles PáginaEnGoogleCodeToolStripMenuItem.Click
         System.Diagnostics.Process.Start("http://code.google.com/p/softmodii-eol/")
+    End Sub
+
+    Private Sub menu_superior_ItemClicked(ByVal sender As System.Object, ByVal e As System.Windows.Forms.ToolStripItemClickedEventArgs) Handles menu_superior.ItemClicked
+
     End Sub
 End Class
 
