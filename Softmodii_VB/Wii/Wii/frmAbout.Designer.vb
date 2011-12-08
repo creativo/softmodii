@@ -94,11 +94,11 @@ Partial Class frmAbout
         Me.Label3.AutoSize = True
         Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label3.ForeColor = System.Drawing.Color.Black
-        Me.Label3.Location = New System.Drawing.Point(71, 85)
+        Me.Label3.Location = New System.Drawing.Point(48, 85)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(89, 16)
+        Me.Label3.Size = New System.Drawing.Size(147, 16)
         Me.Label3.TabIndex = 42
-        Me.Label3.Text = "Versión 4.2 "
+        Me.Label3.Text = "Versión 4.2 (v4203)  "
         '
         'Label4
         '

@@ -161,7 +161,7 @@ Partial Class frmEnlaces
         Me.combo_otros.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
         Me.combo_otros.FormattingEnabled = True
         Me.combo_otros.ItemHeight = 13
-        Me.combo_otros.Items.AddRange(New Object() {"cIOS38 rev17", "cIOS rev19", "cIOS Hermes", "Wad Manager GUI", "Nus Downloader", "7ZIP (Descompresor)"})
+        Me.combo_otros.Items.AddRange(New Object() {"cIOS38 rev17", "cIOS d2x", "cIOS Hermes", "Wad Manager GUI", "Nus Downloader", "7ZIP (Descompresor)"})
         Me.combo_otros.Location = New System.Drawing.Point(321, 138)
         Me.combo_otros.Name = "combo_otros"
         Me.combo_otros.Size = New System.Drawing.Size(139, 21)

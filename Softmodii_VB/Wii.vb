@@ -1,11 +1,11 @@
 Public Class Softmodii
     Public proceso As String
     '-------------------Nº DE VERSIÓN DE SOFTMODII 
-    Public version As Integer = 4202
+    Public version As Integer = 4203
     '--------------------N1 DE VERSIÓN DE CSD
     Public csd_version As Integer = 9999
     '-------------------INFORMACIÓN PARA INFORME
-    Public inf_wanin_cios As String = "cIOS38 rev19"
+    Public inf_wanin_cios As String = "cIOS d2X v7-Final"
     Public inf_hermes_cios As String = "cIOS 222v5(base 38) ,223v5 (base37), 224v5 (base 57), 202v5 (base 57)"
     Public inf_homebrew_channel As String = "versión 1.0.8"
     Public inf_ios36 As String = "IOS236 (Trucha sign, ES_Identify, NAND access)"
